@@ -1,12 +1,18 @@
-Example
+# Архитектура базы данных
+
+## Таблица Examples
+
+Образцы использования слов на конкретных примерах.
 | Field | Type | Decription |
 | --- | --- | --- |
-| id | primary key | |
-| word | foreign key to word | |
+| id | primary key |
+| word | foreign key to word |
 | sentence | string| Пример использования слова |
 |translation |string | Перевод |
 
-Word
+## Word
+
+Слова, содержащиеся в коллекциях.
 | Field | Type | Decription |
 | --- | --- | --- |
 | id  | primary key | |
@@ -14,8 +20,9 @@ Word
 | translation | string | |
 | collection | foreign key to collection | |
 
+## Collection
 
-Collection
+Коллекции слов (карточек).
 | Field | Type | Decription |
 | --- | --- | --- |
 |id | | |
