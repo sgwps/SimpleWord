@@ -1,0 +1,62 @@
+{
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "$id": "https://example.com/product.schema.json",
+    "title": "Collection",
+    "description": "All information about a Card",
+    "type": "object",
+    "properties":{
+        "origin": {
+            "description" : "Word or phrase in source language",
+            "type": "string"
+        },
+        "comments": {
+            "description": "author's comments to the word",
+            "type": "string"
+        },
+        "translations": {
+            "type": "array",
+            "description": "Possible translations of the word or phrase",
+            "items":
+            {
+                "type": "object",
+                "properties":
+                {
+                    "value" : {
+                        "type" : "string",
+                        "description" : "possible translation of the collection"
+                    },
+                    "comments": {
+                        "description": "author's comments to the translation",
+                        "type": "string"
+                    },
+                    "examples": {
+                        "type":"array",
+                        "description": "examples of word or phrase usages",
+                        "items":{
+                            "type": "object",
+                            "properties": {
+                                "origin":{
+                                    "description": "example of word or phrase usage in source language",
+                                    "type": "string"
+                                },
+                                "translation": {
+                                    "description": "the translation of the origin to the destination Language",
+                                    "type": "string"
+                                },
+                                "comments": {
+                                    "description": "author's comments to the example",
+                                    "type": "string"
+                                }
+                            },
+                            "required" : ["origin", "translation"]
+                        }
+
+                    }
+                },
+                "required" : ["value"]
+
+            }
+        }
+    },
+    "required": ["origin"]
+}

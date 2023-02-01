@@ -1,0 +1,41 @@
+{
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "$id": "https://example.com/product.schema.json",
+    "title": "Collection",
+    "description": "All information about a Collection",
+    "type": "object",
+    "properties": {
+        "LinkName": {
+            "description" : "name of the collection for URL",
+            "type" : "string"
+        },
+        "sourceLanguage": {
+            "description": "",
+            "type": "string"
+        },
+        "destinationLanguage": {
+            "description": "",
+            "type": "string"
+        },
+        "name": {
+            "description": "The name of collection",
+            "type": "string"
+        },
+        "description": {
+            "description": "The description of collection",
+            "type": "string"
+        },
+        "author": {
+            "description": "Author name",
+            "type" : "string"
+        },
+        "cards": {
+            "description": "All cards of the collection",
+            "type": "array",
+            "items" :{
+                "type": "object",
+                "$ref": "#/CardSchemaVersion1"
+            }
+        }
+    }
+}
