@@ -1,0 +1,7962 @@
+<table class="wikitable sortable" style="font-family:monospace">
+
+<tbody><tr style="background: #EFEFEF;white-space:nowrap;">
+<th><a href="/wiki/ISO_639-3" title="ISO 639-3">639-3</a>
+</th>
+<th><a href="/wiki/ISO_639-1" title="ISO 639-1">639-1</a>
+</th>
+<th><a href="/wiki/ISO_639-2" title="ISO 639-2">639-2B</a>
+</th>
+<th>Scope/Type
+</th>
+<th><a href="/wiki/Language_family" title="Language family">Family</a>
+</th>
+<th><a class="mw-redirect" href="/wiki/Endonym" title="Endonym">Native</a>
+</th>
+<th><a href="/wiki/English_language" title="English language">eng</a>
+</th>
+<th><a href="/wiki/French_language" title="French language">fra</a>
+</th>
+<th><a href="/wiki/Spanish_language" title="Spanish language">spa</a>
+</th>
+<th><a href="/wiki/Chinese_language" title="Chinese language">zho</a>
+</th>
+<th><a href="/wiki/Russian_language" title="Russian language">rus</a>
+</th>
+<th><a href="/wiki/German_language" title="German language">deu</a>
+</th></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:aaa" title="ISO 639:aaa">aaa</a> <span class="anchor" id="aaa"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Niger–Congo</td>
+<td></td>
+<td>Ghotuo</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Гхотуо</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:aab" title="ISO 639:aab">aab</a> <span class="anchor" id="aab"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Niger–Congo</td>
+<td></td>
+<td>Alumu-Tesu</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Алуму-тесу</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:aac" title="ISO 639:aac">aac</a> <span class="anchor" id="aac"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Trans–New Guinea</td>
+<td></td>
+<td>Ari</td>
+<td></td>
+<td></td>
+<td>阿里语</td>
+<td>Ари</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:aad" title="ISO 639:aad">aad</a> <span class="anchor" id="aad"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Sepik</td>
+<td></td>
+<td>Amal</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Амал</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:aae" title="ISO 639:aae">aae</a> <span class="anchor" id="aae"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Indo-European</td>
+<td></td>
+<td>Albanian (Arbëreshë Dialect)</td>
+<td>albanais</td>
+<td></td>
+<td></td>
+<td>албанский</td>
+<td>Albanisch
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:aaf" title="ISO 639:aaf">aaf</a> <span class="anchor" id="aaf"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Dravidian</td>
+<td></td>
+<td>Aranadan</td>
+<td></td>
+<td></td>
+<td></td>
+<td>аранадан</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:aag" title="ISO 639:aag">aag</a> <span class="anchor" id="aag"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Torricelli</td>
+<td></td>
+<td>Ambrak</td>
+<td></td>
+<td></td>
+<td></td>
+<td>амбрак</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:aah" title="ISO 639:aah">aah</a> <span class="anchor" id="aah"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Torricelli</td>
+<td></td>
+<td>Abu’ Arapesh</td>
+<td></td>
+<td></td>
+<td></td>
+<td>абу-арапеш</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:aai" title="ISO 639:aai">aai</a> <span class="anchor" id="aai"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Austronesian</td>
+<td></td>
+<td>Arifama-Miniafia</td>
+<td></td>
+<td></td>
+<td></td>
+<td>арифама-маниафиа</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:aak" title="ISO 639:aak">aak</a> <span class="anchor" id="aak"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Trans–New Guinea</td>
+<td></td>
+<td>Ankave</td>
+<td></td>
+<td></td>
+<td></td>
+<td>анкаве</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:aal" title="ISO 639:aal">aal</a> <span class="anchor" id="aal"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Afro-Asiatic</td>
+<td>afaë</td>
+<td>Afade</td>
+<td></td>
+<td></td>
+<td></td>
+<td>афаде</td>
+<td>
+</td></tr>
+<tr>
+<th>(<a class="mw-redirect" href="/wiki/ISO_639:aam" title="ISO 639:aam">aam</a>) <span class="anchor" id="aam"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Nilo-Saharan</td>
+<td></td>
+<td>Aramanik</td>
+<td></td>
+<td></td>
+<td></td>
+<td>араманик</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:aan" title="ISO 639:aan">aan</a> <span class="anchor" id="aan"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Tupian</td>
+<td></td>
+<td>Anambé</td>
+<td></td>
+<td>anambé</td>
+<td></td>
+<td>анамбе</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:aao" title="ISO 639:aao">aao</a> <span class="anchor" id="aao"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Arabic</td>
+<td></td>
+<td>Arabic (Algerian Saharan)</td>
+<td>arabe (Sahara algérien)</td>
+<td>árabe (sahariano argelino)</td>
+<td>阿尔及利亚撒哈拉阿拉伯语</td>
+<td>арабский (Сахара)</td>
+<td>Arabisch (Algerische Sahara)
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:aap" title="ISO 639:aap">aap</a> <span class="anchor" id="aap"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Cariban</td>
+<td></td>
+<td>Arára, Pará</td>
+<td></td>
+<td>arára, pará</td>
+<td></td>
+<td>пара-арара</td>
+<td>
+</td></tr>
+<tr style="color:inherit; background:#ddd">
+<th><a class="mw-redirect" href="/wiki/ISO_639:aaq" title="ISO 639:aaq">aaq</a> <span class="anchor" id="aaq"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/E</td>
+<td>Algic</td>
+<td></td>
+<td>Abnaki (Eastern)</td>
+<td></td>
+<td></td>
+<td></td>
+<td>абенаки (восточный)</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:aar" title="ISO 639:aar">aar</a> <span class="anchor" id="aar"></span>
+</th>
+<td>aa</td>
+<td>aar</td>
+<td>I/L</td>
+<td>Afro-Asiatic</td>
+<td>Afaraf</td>
+<td>Afar</td>
+<td>afar</td>
+<td>afar</td>
+<td>阿法尔语l; 阿法语</td>
+<td>афар</td>
+<td>Afar
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:aas" title="ISO 639:aas">aas</a> <span class="anchor" id="aas"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Afro-Asiatic</td>
+<td></td>
+<td>Aasáx</td>
+<td></td>
+<td></td>
+<td></td>
+<td>аса</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:aat" title="ISO 639:aat">aat</a> <span class="anchor" id="aat"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Indo-European</td>
+<td></td>
+<td>Albanian (Arvanitika)</td>
+<td>albanais (Arvanitika)</td>
+<td></td>
+<td></td>
+<td>албанский (Арванитика)</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:aau" title="ISO 639:aau">aau</a> <span class="anchor" id="aau"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Sepik</td>
+<td></td>
+<td>Abau</td>
+<td></td>
+<td></td>
+<td></td>
+<td>абау</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:aaw" title="ISO 639:aaw">aaw</a> <span class="anchor" id="aaw"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Western Oceanic</td>
+<td></td>
+<td>Solong</td>
+<td></td>
+<td></td>
+<td></td>
+<td>солонг</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:aax" title="ISO 639:aax">aax</a> <span class="anchor" id="aax"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Trans–New Guinea</td>
+<td></td>
+<td>Mandobo Atas</td>
+<td></td>
+<td></td>
+<td></td>
+<td>мандобо-атас</td>
+<td>
+</td></tr>
+<tr>
+<th>(<a class="mw-redirect" href="/wiki/ISO_639:aay" title="ISO 639:aay">aay</a>) <span class="anchor" id="aay"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>spurious language</td>
+<td></td>
+<td>Aariya</td>
+<td></td>
+<td></td>
+<td></td>
+<td>аария</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:aaz" title="ISO 639:aaz">aaz</a> <span class="anchor" id="aaz"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Austronesian</td>
+<td></td>
+<td>Amarasi</td>
+<td></td>
+<td></td>
+<td></td>
+<td>амараси</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:aba" title="ISO 639:aba">aba</a> <span class="anchor" id="aba"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Niger–Congo</td>
+<td></td>
+<td>Abé</td>
+<td></td>
+<td></td>
+<td></td>
+<td>абе</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:abb" title="ISO 639:abb">abb</a> <span class="anchor" id="abb"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Niger–Congo</td>
+<td></td>
+<td>Bankon</td>
+<td></td>
+<td></td>
+<td></td>
+<td>банкон</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:abc" title="ISO 639:abc">abc</a> <span class="anchor" id="abc"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Austronesian</td>
+<td></td>
+<td>Ayta, Ambala</td>
+<td></td>
+<td></td>
+<td></td>
+<td>амбала-айта</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:abd" title="ISO 639:abd">abd</a> <span class="anchor" id="abd"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Austronesian</td>
+<td></td>
+<td>Agta, Camarines Norte</td>
+<td></td>
+<td></td>
+<td></td>
+<td>агта (Камаринес Норте)</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:abe" title="ISO 639:abe">abe</a> <span class="anchor" id="abe"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Algic</td>
+<td>Wôbanakiôdwawôgan</td>
+<td>Abnaki, Western</td>
+<td>abénaquis ouest</td>
+<td></td>
+<td></td>
+<td>западный абенаки</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:abf" title="ISO 639:abf">abf</a> <span class="anchor" id="abf"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Austronesian</td>
+<td></td>
+<td>Abai Sungai</td>
+<td></td>
+<td></td>
+<td></td>
+<td>абай-сунгай</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:abg" title="ISO 639:abg">abg</a> <span class="anchor" id="abg"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Trans–New Guinea</td>
+<td></td>
+<td>Abaga</td>
+<td></td>
+<td></td>
+<td></td>
+<td>абага</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:abh" title="ISO 639:abh">abh</a> <span class="anchor" id="abh"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Arabic</td>
+<td></td>
+<td>Arabic (Tajiki)</td>
+<td>arabe (tadjik)</td>
+<td></td>
+<td>塔吉克阿拉伯语</td>
+<td>арабский (таджикский)</td>
+<td>Arabisch (Tadschikistan)
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:abi" title="ISO 639:abi">abi</a> <span class="anchor" id="abi"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Niger–Congo</td>
+<td></td>
+<td>Abidji</td>
+<td></td>
+<td></td>
+<td></td>
+<td>абиджи</td>
+<td>
+</td></tr>
+<tr style="color:inherit; background:#ddd">
+<th><a class="mw-redirect" href="/wiki/ISO_639:abj" title="ISO 639:abj">abj</a> <span class="anchor" id="abj"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/E</td>
+<td><a href="/wiki/Great_Andamanese" title="Great Andamanese">Great Andamanese</a></td>
+<td></td>
+<td>Aka-Bea</td>
+<td></td>
+<td></td>
+<td></td>
+<td>беа</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:abk" title="ISO 639:abk">abk</a> <span class="anchor" id="abk"></span>
+</th>
+<td>ab</td>
+<td>abk</td>
+<td>I/L</td>
+<td>Northwest Caucasian</td>
+<td>Аҧсуа</td>
+<td>Abkhazian</td>
+<td>abkhaze</td>
+<td>abjaso</td>
+<td>阿布哈兹语</td>
+<td>абхазский</td>
+<td>Abchasisch
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:abl" title="ISO 639:abl">abl</a> <span class="anchor" id="abl"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Austronesian</td>
+<td></td>
+<td>Abung</td>
+<td></td>
+<td></td>
+<td></td>
+<td>абунг</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:abm" title="ISO 639:abm">abm</a> <span class="anchor" id="abm"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Niger–Congo</td>
+<td></td>
+<td>Abanyom</td>
+<td></td>
+<td></td>
+<td></td>
+<td>абаньом</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:abn" title="ISO 639:abn">abn</a> <span class="anchor" id="abn"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Niger–Congo</td>
+<td></td>
+<td>Abua</td>
+<td></td>
+<td></td>
+<td>阿布安语</td>
+<td>абуа</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:abo" title="ISO 639:abo">abo</a> <span class="anchor" id="abo"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Niger–Congo</td>
+<td></td>
+<td>Abon</td>
+<td></td>
+<td></td>
+<td></td>
+<td>абон</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:abp" title="ISO 639:abp">abp</a> <span class="anchor" id="abp"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Austronesian</td>
+<td></td>
+<td>Ayta, Abenlen</td>
+<td></td>
+<td></td>
+<td></td>
+<td>абенлен-айта</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:abq" title="ISO 639:abq">abq</a> <span class="anchor" id="abq"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Northwest Caucasian</td>
+<td>абаза</td>
+<td>Abaza</td>
+<td>abaza</td>
+<td>abaza</td>
+<td>阿巴札语</td>
+<td>абазинский</td>
+<td>Abasinisch
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:abr" title="ISO 639:abr">abr</a> <span class="anchor" id="abr"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Niger–Congo</td>
+<td></td>
+<td>Abron</td>
+<td></td>
+<td></td>
+<td></td>
+<td>аброн</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:abs" title="ISO 639:abs">abs</a> <span class="anchor" id="abs"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Austronesian</td>
+<td></td>
+<td>Malay, Ambonese</td>
+<td>malais (ambonais)</td>
+<td></td>
+<td></td>
+<td>амбонский малайский</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:abt" title="ISO 639:abt">abt</a> <span class="anchor" id="abt"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Papuan</td>
+<td></td>
+<td>Ambulas</td>
+<td></td>
+<td></td>
+<td></td>
+<td>амбулас</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:abu" title="ISO 639:abu">abu</a> <span class="anchor" id="abu"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Niger–Congo</td>
+<td>ɔbule ɔyʋɛ</td>
+<td>Abure</td>
+<td></td>
+<td></td>
+<td></td>
+<td>абуре</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:abv" title="ISO 639:abv">abv</a> <span class="anchor" id="abv"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Arabic</td>
+<td></td>
+<td>Arabic (Baharna)</td>
+<td>arabe (Baharna)</td>
+<td>árabe (Baharna)</td>
+<td></td>
+<td>арабский (Бахарна)</td>
+<td>Arabisch (Baharna)
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:abw" title="ISO 639:abw">abw</a> <span class="anchor" id="abw"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Trans–New Guinea</td>
+<td></td>
+<td>Pal</td>
+<td></td>
+<td></td>
+<td></td>
+<td>пал</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:abx" title="ISO 639:abx">abx</a> <span class="anchor" id="abx"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Austronesian</td>
+<td></td>
+<td>Inabaknon</td>
+<td></td>
+<td></td>
+<td></td>
+<td>инабакнон</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:aby" title="ISO 639:aby">aby</a> <span class="anchor" id="aby"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Trans–New Guinea</td>
+<td></td>
+<td>Aneme Wake</td>
+<td></td>
+<td></td>
+<td></td>
+<td>анеме-ваке</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:abz" title="ISO 639:abz">abz</a> <span class="anchor" id="abz"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Trans–New Guinea</td>
+<td></td>
+<td>Abui</td>
+<td></td>
+<td></td>
+<td></td>
+<td>абуи</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:aca" title="ISO 639:aca">aca</a> <span class="anchor" id="aca"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Arawakan</td>
+<td></td>
+<td>Achagua</td>
+<td></td>
+<td></td>
+<td></td>
+<td>ачагуа</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:acb" title="ISO 639:acb">acb</a> <span class="anchor" id="acb"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Niger–Congo</td>
+<td></td>
+<td>Áncá</td>
+<td></td>
+<td></td>
+<td></td>
+<td>анка</td>
+<td>
+</td></tr>
+<tr>
+<th>(<a class="mw-redirect" href="/wiki/ISO_639:acc" title="ISO 639:acc">acc</a>) <span class="anchor" id="acc"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Mayan</td>
+<td></td>
+<td>Achí, Cubulco</td>
+<td></td>
+<td></td>
+<td></td>
+<td>кубулькский ачи</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:acd" title="ISO 639:acd">acd</a> <span class="anchor" id="acd"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Niger–Congo</td>
+<td></td>
+<td>Gikyode</td>
+<td></td>
+<td></td>
+<td></td>
+<td>гикьоде</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:ace" title="ISO 639:ace">ace</a> <span class="anchor" id="ace"></span>
+</th>
+<td></td>
+<td>ace</td>
+<td>I/L</td>
+<td>Austronesian</td>
+<td>Aceh</td>
+<td>Achinese</td>
+<td>aceh</td>
+<td>achinés</td>
+<td>亚齐语</td>
+<td>ачехский</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:acf" title="ISO 639:acf">acf</a> <span class="anchor" id="acf"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>French Creole</td>
+<td>kwéyòl</td>
+<td>Saint Lucian Creole French</td>
+<td>créole français de Sainte-Lucie</td>
+<td></td>
+<td>圣卢西亚克里奥尔法语</td>
+<td>сент-люсийский креольский французский</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:ach" title="ISO 639:ach">ach</a> <span class="anchor" id="ach"></span>
+</th>
+<td></td>
+<td>ach</td>
+<td>I/L</td>
+<td>Nilo-Saharan</td>
+<td></td>
+<td>Acoli</td>
+<td>acoli</td>
+<td></td>
+<td>阿乔利语</td>
+<td>ачоли</td>
+<td>
+</td></tr>
+<tr style="color:inherit; background:#ddd">
+<th><a class="mw-redirect" href="/wiki/ISO_639:aci" title="ISO 639:aci">aci</a> <span class="anchor" id="aci"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/E</td>
+<td>Great Andamanese</td>
+<td></td>
+<td>Aka-Cari</td>
+<td></td>
+<td></td>
+<td></td>
+<td>чариар</td>
+<td>
+</td></tr>
+<tr style="color:inherit; background:#ddd">
+<th><a class="mw-redirect" href="/wiki/ISO_639:ack" title="ISO 639:ack">ack</a> <span class="anchor" id="ack"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/E</td>
+<td>Great Andamanese</td>
+<td></td>
+<td>Aka-Kora</td>
+<td></td>
+<td></td>
+<td></td>
+<td>кора</td>
+<td>
+</td></tr>
+<tr style="color:inherit; background:#ddd">
+<th><a class="mw-redirect" href="/wiki/ISO_639:acl" title="ISO 639:acl">acl</a> <span class="anchor" id="acl"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/E</td>
+<td>Great Andamanese</td>
+<td></td>
+<td>Akar-Bale</td>
+<td></td>
+<td></td>
+<td></td>
+<td>акар-бале</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:acm" title="ISO 639:acm">acm</a> <span class="anchor" id="acm"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Arabic</td>
+<td></td>
+<td>Arabic (Mesopotamian)</td>
+<td>arabe (mésopotamien)</td>
+<td></td>
+<td>美索不达米亚阿拉伯语</td>
+<td>арабский (Месопотамский)</td>
+<td>Arabisch (mesopotamisch)
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:acn" title="ISO 639:acn">acn</a> <span class="anchor" id="acn"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Sino-Tibetan</td>
+<td>Mönghsa</td>
+<td>Achang</td>
+<td></td>
+<td></td>
+<td>阿昌语</td>
+<td>ачанг</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:acp" title="ISO 639:acp">acp</a> <span class="anchor" id="acp"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Niger–Congo</td>
+<td></td>
+<td>Acipa, Eastern</td>
+<td></td>
+<td></td>
+<td></td>
+<td>восточный акипа</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:acq" title="ISO 639:acq">acq</a> <span class="anchor" id="acq"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Arabic</td>
+<td></td>
+<td>Arabic, Ta'izzi-Adeni Spoken</td>
+<td>arabe (parlé de Ta’izzi-Adeni)</td>
+<td></td>
+<td></td>
+<td>арабский (таиззи-адени)</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:acr" title="ISO 639:acr">acr</a> <span class="anchor" id="acr"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Mayan</td>
+<td></td>
+<td>Achí, Rabinal</td>
+<td></td>
+<td></td>
+<td></td>
+<td>рабиналский ачи</td>
+<td>
+</td></tr>
+<tr style="color:inherit; background:#ddd">
+<th><a class="mw-redirect" href="/wiki/ISO_639:acs" title="ISO 639:acs">acs</a> <span class="anchor" id="acs"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/E</td>
+<td>Macro-Jê</td>
+<td></td>
+<td>Acroá</td>
+<td></td>
+<td></td>
+<td></td>
+<td>акроа</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:act" title="ISO 639:act">act</a> <span class="anchor" id="act"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Indo-European</td>
+<td>Achterhooks</td>
+<td>Achterhooks</td>
+<td></td>
+<td></td>
+<td></td>
+<td>ахтерхучки (диалект)</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:acu" title="ISO 639:acu">acu</a> <span class="anchor" id="acu"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Jivaroan</td>
+<td></td>
+<td>Achuar-Shiwiar</td>
+<td>achuar-shiwiar</td>
+<td></td>
+<td></td>
+<td>ачуар-шивиар</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:acv" title="ISO 639:acv">acv</a> <span class="anchor" id="acv"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Palaihnihan</td>
+<td>Ajúmmááwí</td>
+<td>Achumawi</td>
+<td></td>
+<td></td>
+<td></td>
+<td>ачумави</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:acw" title="ISO 639:acw">acw</a> <span class="anchor" id="acw"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Arabic</td>
+<td></td>
+<td>Arabic (Hijazi)</td>
+<td>arabe (Hijazi)</td>
+<td></td>
+<td></td>
+<td>арабский (хиджази)</td>
+<td>Arabisch (Hijazi)
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:acx" title="ISO 639:acx">acx</a> <span class="anchor" id="acx"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Arabic</td>
+<td></td>
+<td>Arabic (Omani)</td>
+<td>arabe (omanais)</td>
+<td></td>
+<td></td>
+<td>арабский (оманский)</td>
+<td>Arabisch (Oman)
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:acy" title="ISO 639:acy">acy</a> <span class="anchor" id="acy"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Arabic</td>
+<td></td>
+<td>Arabic (Cypriot)</td>
+<td>arabe (chypriote)</td>
+<td></td>
+<td></td>
+<td>арабский (киприотский)</td>
+<td>Arabisch (Zypern)
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:acz" title="ISO 639:acz">acz</a> <span class="anchor" id="acz"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Niger–Congo</td>
+<td></td>
+<td>Acheron</td>
+<td></td>
+<td></td>
+<td></td>
+<td>ачерон</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:ada" title="ISO 639:ada">ada</a> <span class="anchor" id="ada"></span>
+</th>
+<td></td>
+<td>ada</td>
+<td>I/L</td>
+<td>Niger–Congo</td>
+<td></td>
+<td>Adangme</td>
+<td>adangme</td>
+<td></td>
+<td>阿当梅语</td>
+<td>адангме</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:adb" title="ISO 639:adb">adb</a> <span class="anchor" id="adb"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Trans–New Guinea</td>
+<td></td>
+<td>Adabe</td>
+<td></td>
+<td></td>
+<td></td>
+<td>адабе</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:add" title="ISO 639:add">add</a> <span class="anchor" id="add"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Niger–Congo</td>
+<td></td>
+<td>Dzodinka</td>
+<td></td>
+<td></td>
+<td></td>
+<td>дзодинка</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:ade" title="ISO 639:ade">ade</a> <span class="anchor" id="ade"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Niger–Congo</td>
+<td></td>
+<td>Adele</td>
+<td></td>
+<td></td>
+<td>阿德勒语</td>
+<td>аделе</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:adf" title="ISO 639:adf">adf</a> <span class="anchor" id="adf"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Arabic</td>
+<td></td>
+<td>Arabic (Dhofari)</td>
+<td>arabe (Dhofari)</td>
+<td></td>
+<td></td>
+<td>арабский (дхофари)</td>
+<td>Arabisch (Dofari)
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:adg" title="ISO 639:adg">adg</a> <span class="anchor" id="adg"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Pama–Nyungan</td>
+<td></td>
+<td>Andegerebinha</td>
+<td></td>
+<td></td>
+<td></td>
+<td>антекерепиня</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:adh" title="ISO 639:adh">adh</a> <span class="anchor" id="adh"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Nilo-Saharan</td>
+<td></td>
+<td>Adhola</td>
+<td></td>
+<td></td>
+<td></td>
+<td>адхола</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:adi" title="ISO 639:adi">adi</a> <span class="anchor" id="adi"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Sino-Tibetan</td>
+<td></td>
+<td>Adi</td>
+<td></td>
+<td></td>
+<td>崩尼-博嘎尔语; 博嘎尔-珞巴语</td>
+<td>ади</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:adj" title="ISO 639:adj">adj</a> <span class="anchor" id="adj"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Niger–Congo</td>
+<td>mɔjukru</td>
+<td>Adioukrou</td>
+<td></td>
+<td></td>
+<td></td>
+<td>адиукру</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:adl" title="ISO 639:adl">adl</a> <span class="anchor" id="adl"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Sino-Tibetan</td>
+<td></td>
+<td>Adi (Galo)</td>
+<td></td>
+<td></td>
+<td></td>
+<td>ади (гало)</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:adn" title="ISO 639:adn">adn</a> <span class="anchor" id="adn"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Trans–New Guinea</td>
+<td></td>
+<td>Adang</td>
+<td></td>
+<td></td>
+<td></td>
+<td>аданг</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:ado" title="ISO 639:ado">ado</a> <span class="anchor" id="ado"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Ramu</td>
+<td></td>
+<td>Abu</td>
+<td></td>
+<td></td>
+<td></td>
+<td>абу</td>
+<td>
+</td></tr>
+<tr>
+<th>(<a class="mw-redirect" href="/wiki/ISO_639:adp" title="ISO 639:adp">adp</a>) <span class="anchor" id="adp"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Sino-Tibetan</td>
+<td></td>
+<td>Adap</td>
+<td></td>
+<td></td>
+<td></td>
+<td>адап</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:adq" title="ISO 639:adq">adq</a> <span class="anchor" id="adq"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Niger–Congo</td>
+<td></td>
+<td>Adangbe</td>
+<td></td>
+<td></td>
+<td></td>
+<td>адангбе</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:adr" title="ISO 639:adr">adr</a> <span class="anchor" id="adr"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Austronesian</td>
+<td></td>
+<td>Adonara</td>
+<td></td>
+<td></td>
+<td></td>
+<td>адонара</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:ads" title="ISO 639:ads">ads</a> <span class="anchor" id="ads"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>West African gestural area</td>
+<td></td>
+<td>Adamorobe Sign Language</td>
+<td>langue des signes adamorobe</td>
+<td></td>
+<td></td>
+<td>адаморобе жестовый</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:adt" title="ISO 639:adt">adt</a> <span class="anchor" id="adt"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Pama–Nyungan</td>
+<td>Yura Ngawarla</td>
+<td>Adynyamathanha</td>
+<td></td>
+<td></td>
+<td></td>
+<td>атьняматаня</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:adu" title="ISO 639:adu">adu</a> <span class="anchor" id="adu"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Niger–Congo</td>
+<td></td>
+<td>Aduge</td>
+<td></td>
+<td></td>
+<td></td>
+<td>адуге</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:adw" title="ISO 639:adw">adw</a> <span class="anchor" id="adw"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Tupian</td>
+<td></td>
+<td>Amundava</td>
+<td></td>
+<td>amundava</td>
+<td></td>
+<td>амундава</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:adx" title="ISO 639:adx">adx</a> <span class="anchor" id="adx"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Sino-Tibetan</td>
+<td></td>
+<td>Tibetan, Amdo</td>
+<td>tibétain (Amdo)</td>
+<td></td>
+<td>安多藏语</td>
+<td>тибетский (амдо)</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:ady" title="ISO 639:ady">ady</a> <span class="anchor" id="ady"></span>
+</th>
+<td></td>
+<td>ady</td>
+<td>I/L</td>
+<td>Northwest Caucasian</td>
+<td>адыгэбзэ</td>
+<td>Adyghe; Adygei</td>
+<td>adyghé</td>
+<td>adigué</td>
+<td>阿迪格语</td>
+<td>адыгейский</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:adz" title="ISO 639:adz">adz</a> <span class="anchor" id="adz"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Austronesian</td>
+<td></td>
+<td>Adzera</td>
+<td></td>
+<td></td>
+<td></td>
+<td>адзера</td>
+<td>
+</td></tr>
+<tr style="color:inherit; background:#ddd">
+<th><a class="mw-redirect" href="/wiki/ISO_639:aea" title="ISO 639:aea">aea</a> <span class="anchor" id="aea"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/E</td>
+<td>Pama–Nyungan</td>
+<td></td>
+<td>Areba</td>
+<td></td>
+<td></td>
+<td></td>
+<td>арепа</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:aeb" title="ISO 639:aeb">aeb</a> <span class="anchor" id="aeb"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Afro-Asiatic</td>
+<td>تونسي</td>
+<td>Arabic, Tunisian Spoken</td>
+<td>arabe (tunisien parlé)</td>
+<td>árabe (dialecto tunecino)</td>
+<td>突尼斯阿拉伯语</td>
+<td>арабский (тунисский)</td>
+<td>
+</td></tr>
+<tr style="color:inherit; background:inherit">
+<th><a class="mw-redirect" href="/wiki/ISO_639:aec" title="ISO 639:aec">aec</a> <span class="anchor" id="aec"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Afro-Asiatic</td>
+<td></td>
+<td>Arabic, Saidi Spoken</td>
+<td>arabe (séoudien parlé)</td>
+<td></td>
+<td></td>
+<td>арабский (саиди)</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:aed" title="ISO 639:aed">aed</a> <span class="anchor" id="aed"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>unclassified</td>
+<td></td>
+<td>Argentine Sign Language</td>
+<td>langue des signes Argentine</td>
+<td>lengua de señas Argentina</td>
+<td>阿根廷手语</td>
+<td>аргентинский жестовый</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:aee" title="ISO 639:aee">aee</a> <span class="anchor" id="aee"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Indo-European</td>
+<td></td>
+<td>Pashayi, Northeast</td>
+<td></td>
+<td></td>
+<td></td>
+<td>северо-восточный пашайи</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:aek" title="ISO 639:aek">aek</a> <span class="anchor" id="aek"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Austronesian</td>
+<td></td>
+<td>Haeke</td>
+<td></td>
+<td></td>
+<td></td>
+<td>хаэке</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:ael" title="ISO 639:ael">ael</a> <span class="anchor" id="ael"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Niger–Congo</td>
+<td></td>
+<td>Ambele</td>
+<td></td>
+<td></td>
+<td></td>
+<td>амбеле</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:aem" title="ISO 639:aem">aem</a> <span class="anchor" id="aem"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Austroasiatic</td>
+<td></td>
+<td>Arem</td>
+<td></td>
+<td></td>
+<td></td>
+<td>арем</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:aen" title="ISO 639:aen">aen</a> <span class="anchor" id="aen"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>isolate</td>
+<td></td>
+<td>Armenian Sign Language</td>
+<td>langue des signes arménienne</td>
+<td></td>
+<td>亚美尼亚手语</td>
+<td>армянский жестовый</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:aeq" title="ISO 639:aeq">aeq</a> <span class="anchor" id="aeq"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Indo-Aryan</td>
+<td></td>
+<td>Aer</td>
+<td></td>
+<td></td>
+<td></td>
+<td>аэр</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:aer" title="ISO 639:aer">aer</a> <span class="anchor" id="aer"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Pama–Nyungan</td>
+<td></td>
+<td>Arrernte, Eastern</td>
+<td></td>
+<td></td>
+<td></td>
+<td>восточный аррернте</td>
+<td>
+</td></tr>
+<tr style="color:inherit; background:#ddd">
+<th><a class="mw-redirect" href="/wiki/ISO_639:aes" title="ISO 639:aes">aes</a> <span class="anchor" id="aes"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/E</td>
+<td>Penutian</td>
+<td></td>
+<td>Alsea</td>
+<td></td>
+<td></td>
+<td></td>
+<td>алсеа</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:aeu" title="ISO 639:aeu">aeu</a> <span class="anchor" id="aeu"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Sino-Tibetan</td>
+<td></td>
+<td>Akeu</td>
+<td></td>
+<td></td>
+<td></td>
+<td>акеу</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:aew" title="ISO 639:aew">aew</a> <span class="anchor" id="aew"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Ramu</td>
+<td></td>
+<td>Ambakich</td>
+<td></td>
+<td></td>
+<td></td>
+<td>амбакич</td>
+<td>
+</td></tr>
+<tr>
+<th>(<a class="mw-redirect" href="/wiki/ISO_639:aex" title="ISO 639:aex">aex</a>) <span class="anchor" id="aex"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>spurious language</td>
+<td></td>
+<td>Amerax</td>
+<td></td>
+<td></td>
+<td></td>
+<td>амераш</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:aey" title="ISO 639:aey">aey</a> <span class="anchor" id="aey"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Trans–New Guinea</td>
+<td></td>
+<td>Amele</td>
+<td></td>
+<td></td>
+<td></td>
+<td>амеле</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:aez" title="ISO 639:aez">aez</a> <span class="anchor" id="aez"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Trans–New Guinea</td>
+<td></td>
+<td>Aeka</td>
+<td></td>
+<td></td>
+<td></td>
+<td>аэка</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:afb" title="ISO 639:afb">afb</a> <span class="anchor" id="afb"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Afro-Asiatic</td>
+<td></td>
+<td>Arabic, Gulf Spoken</td>
+<td>arabe (parlé du Golfe)</td>
+<td></td>
+<td>波斯湾阿拉伯语</td>
+<td>галфский арабский</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:afd" title="ISO 639:afd">afd</a> <span class="anchor" id="afd"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Ramu</td>
+<td></td>
+<td>Andai</td>
+<td></td>
+<td></td>
+<td></td>
+<td>андай</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:afe" title="ISO 639:afe">afe</a> <span class="anchor" id="afe"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Niger–Congo</td>
+<td></td>
+<td>Putukwam</td>
+<td></td>
+<td></td>
+<td></td>
+<td>путуквам</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:afg" title="ISO 639:afg">afg</a> <span class="anchor" id="afg"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>isolate</td>
+<td></td>
+<td>Afghan Sign Language</td>
+<td></td>
+<td></td>
+<td>阿富汗手语</td>
+<td>африканский жестовый</td>
+<td>
+</td></tr>
+<tr style="color:inherit; background:#fda">
+<th><a class="mw-redirect" href="/wiki/ISO_639:afh" title="ISO 639:afh">afh</a> <span class="anchor" id="afh"></span>
+</th>
+<td></td>
+<td>afh</td>
+<td>I/C</td>
+<td>constructed</td>
+<td></td>
+<td>Afrihili</td>
+<td>afrihili</td>
+<td></td>
+<td>阿弗里希利语</td>
+<td>африхили</td>
+<td>Afrihili
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:afi" title="ISO 639:afi">afi</a> <span class="anchor" id="afi"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Ramu</td>
+<td></td>
+<td>Akrukay</td>
+<td></td>
+<td></td>
+<td></td>
+<td>акрукай</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:afk" title="ISO 639:afk">afk</a> <span class="anchor" id="afk"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Ramu</td>
+<td></td>
+<td>Nanubae</td>
+<td></td>
+<td></td>
+<td></td>
+<td>нанубаэ</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:afn" title="ISO 639:afn">afn</a> <span class="anchor" id="afn"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Niger–Congo</td>
+<td></td>
+<td>Defaka</td>
+<td></td>
+<td></td>
+<td></td>
+<td>дефака</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:afo" title="ISO 639:afo">afo</a> <span class="anchor" id="afo"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Niger–Congo</td>
+<td></td>
+<td>Eloyi</td>
+<td></td>
+<td></td>
+<td></td>
+<td>элойи</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:afp" title="ISO 639:afp">afp</a> <span class="anchor" id="afp"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Ramu</td>
+<td></td>
+<td>Tapei</td>
+<td></td>
+<td></td>
+<td></td>
+<td>тапеи</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:afr" title="ISO 639:afr">afr</a> <span class="anchor" id="afr"></span>
+</th>
+<td>af</td>
+<td>afr</td>
+<td>I/L</td>
+<td>Indo-European</td>
+<td>Afrikaans</td>
+<td>Afrikaans</td>
+<td>Afrikaans</td>
+<td>Afrikaans</td>
+<td>阿非利堪斯语; 南非荷兰语; 南非语</td>
+<td>африкаанс</td>
+<td>Afrikaans
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:afs" title="ISO 639:afs">afs</a> <span class="anchor" id="afs"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>English Creole</td>
+<td></td>
+<td>Afro-Seminole Creole</td>
+<td>créole afro-séminole</td>
+<td></td>
+<td></td>
+<td>афро-семинольский креольский</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:aft" title="ISO 639:aft">aft</a> <span class="anchor" id="aft"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Nilo-Saharan</td>
+<td></td>
+<td>Afitti</td>
+<td></td>
+<td></td>
+<td></td>
+<td>афитти</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:afu" title="ISO 639:afu">afu</a> <span class="anchor" id="afu"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Niger–Congo</td>
+<td></td>
+<td>Awutu</td>
+<td></td>
+<td></td>
+<td></td>
+<td>авуту</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:afz" title="ISO 639:afz">afz</a> <span class="anchor" id="afz"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Lakes Plain</td>
+<td></td>
+<td>Obokuitai</td>
+<td></td>
+<td></td>
+<td></td>
+<td>обокуитаи</td>
+<td>
+</td></tr>
+<tr style="color:inherit; background:#ddd">
+<th><a class="mw-redirect" href="/wiki/ISO_639:aga" title="ISO 639:aga">aga</a> <span class="anchor" id="aga"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/E</td>
+<td>unclassified</td>
+<td></td>
+<td>Aguano</td>
+<td></td>
+<td></td>
+<td></td>
+<td>агуано</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:agb" title="ISO 639:agb">agb</a> <span class="anchor" id="agb"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Niger–Congo</td>
+<td></td>
+<td>Legbo</td>
+<td></td>
+<td></td>
+<td></td>
+<td>легбо</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:agc" title="ISO 639:agc">agc</a> <span class="anchor" id="agc"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Niger–Congo</td>
+<td></td>
+<td>Agatu</td>
+<td></td>
+<td></td>
+<td></td>
+<td>агату</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:agd" title="ISO 639:agd">agd</a> <span class="anchor" id="agd"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Trans–New Guinea</td>
+<td></td>
+<td>Agarabi</td>
+<td></td>
+<td></td>
+<td></td>
+<td>агараби</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:age" title="ISO 639:age">age</a> <span class="anchor" id="age"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Trans–New Guinea</td>
+<td></td>
+<td>Angal</td>
+<td></td>
+<td></td>
+<td></td>
+<td>ангал</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:agf" title="ISO 639:agf">agf</a> <span class="anchor" id="agf"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Austronesian</td>
+<td></td>
+<td>Arguni</td>
+<td></td>
+<td></td>
+<td></td>
+<td>аргуни</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:agg" title="ISO 639:agg">agg</a> <span class="anchor" id="agg"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Senagi</td>
+<td></td>
+<td>Angor</td>
+<td></td>
+<td></td>
+<td></td>
+<td>ангор</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:agh" title="ISO 639:agh">agh</a> <span class="anchor" id="agh"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Niger–Congo</td>
+<td></td>
+<td>Ngelima</td>
+<td></td>
+<td></td>
+<td></td>
+<td>нгелима</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:agi" title="ISO 639:agi">agi</a> <span class="anchor" id="agi"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Austroasiatic</td>
+<td></td>
+<td>Agariya</td>
+<td></td>
+<td></td>
+<td></td>
+<td>агария</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:agj" title="ISO 639:agj">agj</a> <span class="anchor" id="agj"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Afro-Asiatic</td>
+<td></td>
+<td>Argobba</td>
+<td></td>
+<td></td>
+<td></td>
+<td>аргобба</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:agk" title="ISO 639:agk">agk</a> <span class="anchor" id="agk"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Austronesian</td>
+<td></td>
+<td>Agta, Isarog</td>
+<td></td>
+<td></td>
+<td></td>
+<td>исарог-агта</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:agl" title="ISO 639:agl">agl</a> <span class="anchor" id="agl"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Trans–New Guinea</td>
+<td></td>
+<td>Fembe</td>
+<td></td>
+<td></td>
+<td></td>
+<td>фембе</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:agm" title="ISO 639:agm">agm</a> <span class="anchor" id="agm"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Trans–New Guinea</td>
+<td></td>
+<td>Angaatiha</td>
+<td></td>
+<td></td>
+<td></td>
+<td>ангаатиха</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:agn" title="ISO 639:agn">agn</a> <span class="anchor" id="agn"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Austronesian</td>
+<td></td>
+<td>Agutaynen</td>
+<td></td>
+<td></td>
+<td></td>
+<td>агутайнен</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:ago" title="ISO 639:ago">ago</a> <span class="anchor" id="ago"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Trans–New Guinea</td>
+<td></td>
+<td>Tainae</td>
+<td></td>
+<td></td>
+<td></td>
+<td>тайнаэ</td>
+<td>
+</td></tr>
+<tr>
+<th>(<a class="mw-redirect" href="/wiki/ISO_639:agp" title="ISO 639:agp">agp</a>) <span class="anchor" id="agp"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Austronesian</td>
+<td></td>
+<td>Paranan</td>
+<td></td>
+<td></td>
+<td></td>
+<td>паранан</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:agq" title="ISO 639:agq">agq</a> <span class="anchor" id="agq"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Niger–Congo</td>
+<td>aghím</td>
+<td>Aghem</td>
+<td></td>
+<td></td>
+<td></td>
+<td>агхем</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:agr" title="ISO 639:agr">agr</a> <span class="anchor" id="agr"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Jivaroan</td>
+<td>awajun</td>
+<td>Aguaruna</td>
+<td></td>
+<td>aguaruna</td>
+<td></td>
+<td>агуаруна</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:ags" title="ISO 639:ags">ags</a> <span class="anchor" id="ags"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Niger–Congo</td>
+<td></td>
+<td>Esimbi</td>
+<td></td>
+<td></td>
+<td></td>
+<td>эсимби</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:agt" title="ISO 639:agt">agt</a> <span class="anchor" id="agt"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Austronesian</td>
+<td></td>
+<td>Agta, Central Cagayan</td>
+<td></td>
+<td></td>
+<td></td>
+<td>центрально-кагаянский агта</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:agu" title="ISO 639:agu">agu</a> <span class="anchor" id="agu"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Mayan</td>
+<td>awakateko</td>
+<td>Aguacateco</td>
+<td></td>
+<td>aguacateco</td>
+<td></td>
+<td>агуакатеко</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:agv" title="ISO 639:agv">agv</a> <span class="anchor" id="agv"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Austronesian</td>
+<td></td>
+<td>Agta, Remontado</td>
+<td></td>
+<td></td>
+<td></td>
+<td>ремонтадо-агта</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:agw" title="ISO 639:agw">agw</a> <span class="anchor" id="agw"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Austronesian</td>
+<td></td>
+<td>Kahua</td>
+<td></td>
+<td></td>
+<td></td>
+<td>кахуа</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:agx" title="ISO 639:agx">agx</a> <span class="anchor" id="agx"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Northeast Caucasian</td>
+<td>агъул</td>
+<td>Aghul</td>
+<td></td>
+<td>aghul</td>
+<td>阿古尔语</td>
+<td>агульский</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:agy" title="ISO 639:agy">agy</a> <span class="anchor" id="agy"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Austronesian</td>
+<td></td>
+<td>Alta, Southern</td>
+<td></td>
+<td></td>
+<td></td>
+<td>южный альта</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:agz" title="ISO 639:agz">agz</a> <span class="anchor" id="agz"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Austronesian</td>
+<td></td>
+<td>Agta, Mt. Iriga</td>
+<td></td>
+<td></td>
+<td></td>
+<td>агта (мт. Ирига)</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:aha" title="ISO 639:aha">aha</a> <span class="anchor" id="aha"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Niger–Congo</td>
+<td></td>
+<td>Ahanta</td>
+<td></td>
+<td></td>
+<td></td>
+<td>аханта</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:ahb" title="ISO 639:ahb">ahb</a> <span class="anchor" id="ahb"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Austronesian</td>
+<td></td>
+<td>Axamb</td>
+<td></td>
+<td></td>
+<td></td>
+<td>ахамб</td>
+<td>
+</td></tr>
+<tr>
+<th>(<a class="mw-redirect" href="/wiki/ISO_639:ahe" title="ISO 639:ahe">ahe</a>) <span class="anchor" id="ahe"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Austronesian</td>
+<td></td>
+<td>Ahe</td>
+<td></td>
+<td></td>
+<td></td>
+<td>ахе</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:ahg" title="ISO 639:ahg">ahg</a> <span class="anchor" id="ahg"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Afro-Asiatic</td>
+<td></td>
+<td>Qimant</td>
+<td></td>
+<td></td>
+<td></td>
+<td>кимант</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:ahh" title="ISO 639:ahh">ahh</a> <span class="anchor" id="ahh"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Trans–New Guinea</td>
+<td></td>
+<td>Aghu</td>
+<td></td>
+<td></td>
+<td></td>
+<td>агху</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:ahi" title="ISO 639:ahi">ahi</a> <span class="anchor" id="ahi"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Niger–Congo</td>
+<td></td>
+<td>Aizi, Tiagbamrin</td>
+<td></td>
+<td></td>
+<td></td>
+<td>тиагбамрин-айзи</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:ahk" title="ISO 639:ahk">ahk</a> <span class="anchor" id="ahk"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Sino-Tibetan</td>
+<td></td>
+<td>Akha</td>
+<td></td>
+<td></td>
+<td>雅尼语</td>
+<td>акха</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:ahl" title="ISO 639:ahl">ahl</a> <span class="anchor" id="ahl"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Niger–Congo</td>
+<td></td>
+<td>Igo</td>
+<td></td>
+<td></td>
+<td></td>
+<td>иго</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:ahm" title="ISO 639:ahm">ahm</a> <span class="anchor" id="ahm"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Niger–Congo</td>
+<td></td>
+<td>Aizi, Mobumrin</td>
+<td></td>
+<td></td>
+<td></td>
+<td>мобумрин-айзи</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:ahn" title="ISO 639:ahn">ahn</a> <span class="anchor" id="ahn"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Niger–Congo</td>
+<td></td>
+<td>Àhàn</td>
+<td></td>
+<td></td>
+<td></td>
+<td>ахан</td>
+<td>
+</td></tr>
+<tr style="color:inherit; background:#ddd">
+<th><a class="mw-redirect" href="/wiki/ISO_639:aho" title="ISO 639:aho">aho</a> <span class="anchor" id="aho"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/E</td>
+<td>Tai–Kadai</td>
+<td></td>
+<td>Ahom</td>
+<td></td>
+<td></td>
+<td>阿霍姆语</td>
+<td>ахом</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:ahp" title="ISO 639:ahp">ahp</a> <span class="anchor" id="ahp"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Niger–Congo</td>
+<td></td>
+<td>Aizi, Aproumu</td>
+<td></td>
+<td></td>
+<td></td>
+<td>апроуму-айзи</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:ahr" title="ISO 639:ahr">ahr</a> <span class="anchor" id="ahr"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Indo-European</td>
+<td></td>
+<td>Ahirani</td>
+<td></td>
+<td></td>
+<td></td>
+<td>ахирани</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:ahs" title="ISO 639:ahs">ahs</a> <span class="anchor" id="ahs"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Niger–Congo</td>
+<td></td>
+<td>Ashe</td>
+<td></td>
+<td></td>
+<td></td>
+<td>аше</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:aht" title="ISO 639:aht">aht</a> <span class="anchor" id="aht"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Dené–Yeniseian</td>
+<td></td>
+<td>Ahtena</td>
+<td></td>
+<td></td>
+<td></td>
+<td>ахтена</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:aia" title="ISO 639:aia">aia</a> <span class="anchor" id="aia"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Austronesian</td>
+<td></td>
+<td>Arosi</td>
+<td></td>
+<td></td>
+<td></td>
+<td>ароси</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:aib" title="ISO 639:aib">aib</a> <span class="anchor" id="aib"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Turkic</td>
+<td></td>
+<td>Ainu (China)</td>
+<td>aïnou (Chine)</td>
+<td></td>
+<td>艾努语</td>
+<td>айну (Китай)</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:aic" title="ISO 639:aic">aic</a> <span class="anchor" id="aic"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Border</td>
+<td></td>
+<td>Ainbai</td>
+<td></td>
+<td></td>
+<td></td>
+<td>айнбай</td>
+<td>
+</td></tr>
+<tr style="color:inherit; background:#ddd">
+<th><a class="mw-redirect" href="/wiki/ISO_639:aid" title="ISO 639:aid">aid</a> <span class="anchor" id="aid"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/E</td>
+<td>Pama–Nyungan</td>
+<td></td>
+<td>Alngith</td>
+<td></td>
+<td></td>
+<td></td>
+<td>ангит</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:aie" title="ISO 639:aie">aie</a> <span class="anchor" id="aie"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Austronesian</td>
+<td></td>
+<td>Amara</td>
+<td></td>
+<td></td>
+<td></td>
+<td>амара</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:aif" title="ISO 639:aif">aif</a> <span class="anchor" id="aif"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Torricelli</td>
+<td></td>
+<td>Agi</td>
+<td></td>
+<td></td>
+<td></td>
+<td>аги</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:aig" title="ISO 639:aig">aig</a> <span class="anchor" id="aig"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>English Creole</td>
+<td></td>
+<td>Antigua and Barbuda Creole English</td>
+<td>créole anglais d’Antigua-et-Barbuda</td>
+<td>criollo de Antigua y Barbuda</td>
+<td>安提瓜和巴布达克里奥尔英语</td>
+<td>креольский английский (Антигуа и Барбуда)</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:aih" title="ISO 639:aih">aih</a> <span class="anchor" id="aih"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Tai–Kadai</td>
+<td></td>
+<td>Ai-Cham</td>
+<td></td>
+<td></td>
+<td>锦语</td>
+<td>ай-чам</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:aii" title="ISO 639:aii">aii</a> <span class="anchor" id="aii"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Afro-Asiatic</td>
+<td>ܣܘܪܝܝܐ  ܣܘܪܝܬ,ܐܬܘܪܝܐ ܣܘܪܝܝܐ</td>
+<td>Assyrian Neo-Aramaic</td>
+<td>néo-araméen (assyrien)</td>
+<td></td>
+<td></td>
+<td>ассирийский новоарамейский</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:aij" title="ISO 639:aij">aij</a> <span class="anchor" id="aij"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Afro-Asiatic</td>
+<td></td>
+<td>Lishanid Noshan</td>
+<td></td>
+<td></td>
+<td></td>
+<td>лишанид-ношан</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:aik" title="ISO 639:aik">aik</a> <span class="anchor" id="aik"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Niger–Congo</td>
+<td></td>
+<td>Ake</td>
+<td></td>
+<td></td>
+<td></td>
+<td>аке</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:ail" title="ISO 639:ail">ail</a> <span class="anchor" id="ail"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Trans–New Guinea</td>
+<td></td>
+<td>Aimele</td>
+<td></td>
+<td></td>
+<td></td>
+<td>аймеле</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:aim" title="ISO 639:aim">aim</a> <span class="anchor" id="aim"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Sino-Tibetan</td>
+<td></td>
+<td>Aimol</td>
+<td></td>
+<td></td>
+<td></td>
+<td>аймол</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:ain" title="ISO 639:ain">ain</a> <span class="anchor" id="ain"></span>
+</th>
+<td></td>
+<td>ain</td>
+<td>I/L</td>
+<td>isolate</td>
+<td>アイヌ イタク(イタック)</td>
+<td>Ainu (Japan)</td>
+<td>aïnou (Japon)</td>
+<td></td>
+<td>阿伊努语</td>
+<td>айнский</td>
+<td>Ainu
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:aio" title="ISO 639:aio">aio</a> <span class="anchor" id="aio"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Tai–Kadai</td>
+<td></td>
+<td>Aiton</td>
+<td></td>
+<td></td>
+<td>艾通语</td>
+<td>айтон</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:aip" title="ISO 639:aip">aip</a> <span class="anchor" id="aip"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Trans–New Guinea</td>
+<td></td>
+<td>Burumakok</td>
+<td></td>
+<td></td>
+<td></td>
+<td>бурумакок</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:aiq" title="ISO 639:aiq">aiq</a> <span class="anchor" id="aiq"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Indo-European</td>
+<td></td>
+<td>Aimaq</td>
+<td></td>
+<td></td>
+<td></td>
+<td>аймак</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:air" title="ISO 639:air">air</a> <span class="anchor" id="air"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Tor-Kwerba</td>
+<td></td>
+<td>Airoran</td>
+<td></td>
+<td></td>
+<td></td>
+<td>айронан</td>
+<td>
+</td></tr>
+<tr>
+<th>(<a class="mw-redirect" href="/wiki/ISO_639:ais" title="ISO 639:ais">ais</a>) <span class="anchor" id="ais"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Austronesian</td>
+<td></td>
+<td>Amis, Nataoran</td>
+<td></td>
+<td></td>
+<td>豆兰阿美语</td>
+<td>натаоран-амис</td>
+<td>
+</td></tr>
+<tr style="color:inherit; background:#ddd">
+<th><a class="mw-redirect" href="/wiki/ISO_639:ait" title="ISO 639:ait">ait</a> <span class="anchor" id="ait"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/E</td>
+<td>Tupian</td>
+<td></td>
+<td>Arikem</td>
+<td></td>
+<td>arikem</td>
+<td></td>
+<td>арикем</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:aiw" title="ISO 639:aiw">aiw</a> <span class="anchor" id="aiw"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Afro-Asiatic</td>
+<td></td>
+<td>Aari</td>
+<td></td>
+<td></td>
+<td></td>
+<td>аари</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:aix" title="ISO 639:aix">aix</a> <span class="anchor" id="aix"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Austronesian</td>
+<td></td>
+<td>Aigon</td>
+<td></td>
+<td></td>
+<td></td>
+<td>айгон</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:aiy" title="ISO 639:aiy">aiy</a> <span class="anchor" id="aiy"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Niger–Congo</td>
+<td></td>
+<td>Ali</td>
+<td></td>
+<td></td>
+<td></td>
+<td>али</td>
+<td>
+</td></tr>
+<tr>
+<th>(<a class="mw-redirect" href="/wiki/ISO_639:aiz" title="ISO 639:aiz">aiz</a>) <span class="anchor" id="aiz"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Afro-Asiatic</td>
+<td></td>
+<td>Aari</td>
+<td></td>
+<td></td>
+<td></td>
+<td>аари</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:aja" title="ISO 639:aja">aja</a> <span class="anchor" id="aja"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Nilo-Saharan</td>
+<td></td>
+<td>Aja (Sudan)</td>
+<td></td>
+<td></td>
+<td></td>
+<td>аджа (Судан)</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:ajg" title="ISO 639:ajg">ajg</a> <span class="anchor" id="ajg"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Niger–Congo</td>
+<td></td>
+<td>Aja (Benin)</td>
+<td></td>
+<td></td>
+<td></td>
+<td>аджа (Бенин)</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:aji" title="ISO 639:aji">aji</a> <span class="anchor" id="aji"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Austronesian</td>
+<td></td>
+<td>Ajië</td>
+<td></td>
+<td></td>
+<td></td>
+<td>аджиэ</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:ajn" title="ISO 639:ajn">ajn</a> <span class="anchor" id="ajn"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Worroran</td>
+<td></td>
+<td>Andajin</td>
+<td></td>
+<td></td>
+<td></td>
+<td>антатин</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:ajp" title="ISO 639:ajp">ajp</a> <span class="anchor" id="ajp"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Afro-Asiatic</td>
+<td></td>
+<td>Arabic (South Levantine)</td>
+<td>arabe (lévantin du Sud)</td>
+<td></td>
+<td>南黎凡特阿拉伯语</td>
+<td>арабский (южно-левантийский)</td>
+<td>Arabisch (Südlevantisch)
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:ajt" title="ISO 639:ajt">ajt</a> <span class="anchor" id="ajt"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Afro-Asiatic</td>
+<td></td>
+<td>Arabic (Judeo-Tunisian)</td>
+<td>arabe (judéo-tunisien)</td>
+<td></td>
+<td></td>
+<td>арабский (иудео-тунисский)</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:aju" title="ISO 639:aju">aju</a> <span class="anchor" id="aju"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Afro-Asiatic</td>
+<td></td>
+<td>Arabic (Judeo-Moroccan)</td>
+<td>arabe (judéo-marocain)</td>
+<td></td>
+<td></td>
+<td>арабский (иудео-марокканский)</td>
+<td>
+</td></tr>
+<tr style="color:inherit; background:#ddd">
+<th><a class="mw-redirect" href="/wiki/ISO_639:ajw" title="ISO 639:ajw">ajw</a> <span class="anchor" id="ajw"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/E</td>
+<td>Afro-Asiatic</td>
+<td></td>
+<td>Ajawa</td>
+<td></td>
+<td></td>
+<td></td>
+<td>аджава</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:ajz" title="ISO 639:ajz">ajz</a> <span class="anchor" id="ajz"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Sino-Tibetan</td>
+<td></td>
+<td>Amri</td>
+<td></td>
+<td></td>
+<td></td>
+<td>амри</td>
+<td>
+</td></tr>
+<tr style="color:green; background:inherit">
+<th><a class="mw-redirect" href="/wiki/ISO_639:aka" title="ISO 639:aka">aka</a> <span class="anchor" id="aka"></span>
+</th>
+<td>ak</td>
+<td>aka</td>
+<td>M/L</td>
+<td>Niger–Congo</td>
+<td>Akan</td>
+<td>Akan</td>
+<td>akan</td>
+<td>acano</td>
+<td>阿坎语</td>
+<td>акан</td>
+<td>Akan
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:akb" title="ISO 639:akb">akb</a> <span class="anchor" id="akb"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Austronesian</td>
+<td></td>
+<td>Batak Angkola</td>
+<td>angkola batak</td>
+<td></td>
+<td></td>
+<td>ангкола-батак</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:akc" title="ISO 639:akc">akc</a> <span class="anchor" id="akc"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>isolate</td>
+<td></td>
+<td>Mpur</td>
+<td></td>
+<td></td>
+<td></td>
+<td>мпур</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:akd" title="ISO 639:akd">akd</a> <span class="anchor" id="akd"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Niger–Congo</td>
+<td></td>
+<td>Ukpet-Ehom</td>
+<td></td>
+<td></td>
+<td></td>
+<td>укпет-эхом</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:ake" title="ISO 639:ake">ake</a> <span class="anchor" id="ake"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Cariban</td>
+<td></td>
+<td>Akawaio</td>
+<td></td>
+<td></td>
+<td></td>
+<td>акавайо</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:akf" title="ISO 639:akf">akf</a> <span class="anchor" id="akf"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Niger–Congo</td>
+<td></td>
+<td>Akpa</td>
+<td></td>
+<td></td>
+<td></td>
+<td>акпа</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:akg" title="ISO 639:akg">akg</a> <span class="anchor" id="akg"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Austronesian</td>
+<td></td>
+<td>Anakalangu</td>
+<td></td>
+<td></td>
+<td></td>
+<td>анакалангу</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:akh" title="ISO 639:akh">akh</a> <span class="anchor" id="akh"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Trans–New Guinea</td>
+<td></td>
+<td>Angal Heneng</td>
+<td></td>
+<td></td>
+<td></td>
+<td>ангал-хененг</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:aki" title="ISO 639:aki">aki</a> <span class="anchor" id="aki"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Ramu</td>
+<td></td>
+<td>Aiome</td>
+<td></td>
+<td></td>
+<td></td>
+<td>аиоме</td>
+<td>
+</td></tr>
+<tr style="color:inherit; background:#ddd">
+<th><a class="mw-redirect" href="/wiki/ISO_639:akj" title="ISO 639:akj">akj</a> <span class="anchor" id="akj"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/E</td>
+<td>Great Andamanese</td>
+<td></td>
+<td>Aka-Jeru</td>
+<td></td>
+<td></td>
+<td></td>
+<td>джеру</td>
+<td>
+</td></tr>
+<tr style="color:inherit; background:#bbf">
+<th><a class="mw-redirect" href="/wiki/ISO_639:akk" title="ISO 639:akk">akk</a> <span class="anchor" id="akk"></span>
+</th>
+<td></td>
+<td>akk</td>
+<td>I/A</td>
+<td>Afro-Asiatic</td>
+<td>akkadû</td>
+<td>Akkadian</td>
+<td>akkadien</td>
+<td>acadio</td>
+<td>阿卡德语</td>
+<td>Аккадский</td>
+<td>Akkadisch
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:akl" title="ISO 639:akl">akl</a> <span class="anchor" id="akl"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Austronesian</td>
+<td>Inakeanon</td>
+<td>Aklanon</td>
+<td></td>
+<td></td>
+<td></td>
+<td>акланон</td>
+<td>
+</td></tr>
+<tr style="color:inherit; background:#ddd">
+<th><a class="mw-redirect" href="/wiki/ISO_639:akm" title="ISO 639:akm">akm</a> <span class="anchor" id="akm"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/E</td>
+<td>Great Andamanese</td>
+<td></td>
+<td>Aka-Bo</td>
+<td></td>
+<td></td>
+<td></td>
+<td>бо</td>
+<td>
+</td></tr>
+<tr>
+<th>(<a class="mw-redirect" href="/wiki/ISO_639:akn" title="ISO 639:akn">akn</a>) <span class="anchor" id="akn"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>spurious language</td>
+<td></td>
+<td>Amikoana</td>
+<td></td>
+<td></td>
+<td></td>
+<td>амикоана</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:ako" title="ISO 639:ako">ako</a> <span class="anchor" id="ako"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Cariban</td>
+<td></td>
+<td>Akurio</td>
+<td></td>
+<td>akurio</td>
+<td></td>
+<td>акурио</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:akp" title="ISO 639:akp">akp</a> <span class="anchor" id="akp"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Niger–Congo</td>
+<td></td>
+<td>Siwu</td>
+<td></td>
+<td></td>
+<td></td>
+<td>сиву</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:akq" title="ISO 639:akq">akq</a> <span class="anchor" id="akq"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Sepik</td>
+<td></td>
+<td>Ak</td>
+<td></td>
+<td></td>
+<td></td>
+<td>ак</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:akr" title="ISO 639:akr">akr</a> <span class="anchor" id="akr"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Austronesian</td>
+<td></td>
+<td>Araki</td>
+<td></td>
+<td></td>
+<td></td>
+<td>араки</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:aks" title="ISO 639:aks">aks</a> <span class="anchor" id="aks"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Niger–Congo</td>
+<td></td>
+<td>Akaselem</td>
+<td></td>
+<td></td>
+<td></td>
+<td>акаселем</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:akt" title="ISO 639:akt">akt</a> <span class="anchor" id="akt"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Austronesian</td>
+<td></td>
+<td>Akolet</td>
+<td></td>
+<td></td>
+<td></td>
+<td>аколет</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:aku" title="ISO 639:aku">aku</a> <span class="anchor" id="aku"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Niger–Congo</td>
+<td>aakuem</td>
+<td>Akum</td>
+<td></td>
+<td></td>
+<td></td>
+<td>акум</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:akv" title="ISO 639:akv">akv</a> <span class="anchor" id="akv"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Northeast Caucasian</td>
+<td></td>
+<td>Akhvakh</td>
+<td></td>
+<td>akhvakh</td>
+<td></td>
+<td>ахвахский</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:akw" title="ISO 639:akw">akw</a> <span class="anchor" id="akw"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Niger–Congo</td>
+<td></td>
+<td>Akwa</td>
+<td></td>
+<td></td>
+<td></td>
+<td>аква</td>
+<td>
+</td></tr>
+<tr style="color:inherit; background:#ddd">
+<th><a class="mw-redirect" href="/wiki/ISO_639:akx" title="ISO 639:akx">akx</a> <span class="anchor" id="akx"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/E</td>
+<td>Great Andamanese</td>
+<td></td>
+<td>Aka-Kede</td>
+<td></td>
+<td></td>
+<td></td>
+<td>кеде</td>
+<td>
+</td></tr>
+<tr style="color:inherit; background:#ddd">
+<th><a class="mw-redirect" href="/wiki/ISO_639:aky" title="ISO 639:aky">aky</a> <span class="anchor" id="aky"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/E</td>
+<td>Great Andamanese</td>
+<td></td>
+<td>Aka-Kol</td>
+<td></td>
+<td></td>
+<td></td>
+<td>кол</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:akz" title="ISO 639:akz">akz</a> <span class="anchor" id="akz"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Muskogean</td>
+<td>Albaamo innaaɬiilka</td>
+<td>Alabama</td>
+<td></td>
+<td>Alabama</td>
+<td></td>
+<td>алабама</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:ala" title="ISO 639:ala">ala</a> <span class="anchor" id="ala"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Niger–Congo</td>
+<td></td>
+<td>Alago</td>
+<td></td>
+<td></td>
+<td></td>
+<td>алаго</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:alc" title="ISO 639:alc">alc</a> <span class="anchor" id="alc"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Alacalufan</td>
+<td>alacalufe</td>
+<td>Qawasqar</td>
+<td></td>
+<td></td>
+<td></td>
+<td>каваскар</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:ald" title="ISO 639:ald">ald</a> <span class="anchor" id="ald"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Niger–Congo</td>
+<td></td>
+<td>Alladian</td>
+<td></td>
+<td></td>
+<td></td>
+<td>алладиан</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:ale" title="ISO 639:ale">ale</a> <span class="anchor" id="ale"></span>
+</th>
+<td></td>
+<td>ale</td>
+<td>I/L</td>
+<td>Eskimo-Aleut</td>
+<td>Unangax tunuu</td>
+<td>Aleut</td>
+<td>aléoute</td>
+<td></td>
+<td>阿留申语</td>
+<td>алеутский</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:alf" title="ISO 639:alf">alf</a> <span class="anchor" id="alf"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Niger–Congo</td>
+<td></td>
+<td>Alege</td>
+<td></td>
+<td></td>
+<td></td>
+<td>алеге</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:alh" title="ISO 639:alh">alh</a> <span class="anchor" id="alh"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Arnhem</td>
+<td></td>
+<td>Alawa</td>
+<td></td>
+<td></td>
+<td></td>
+<td>алава</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:ali" title="ISO 639:ali">ali</a> <span class="anchor" id="ali"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Trans–New Guinea</td>
+<td></td>
+<td>Amaimon</td>
+<td></td>
+<td></td>
+<td></td>
+<td>амаимон</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:alj" title="ISO 639:alj">alj</a> <span class="anchor" id="alj"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Austronesian</td>
+<td></td>
+<td>Alangan</td>
+<td></td>
+<td></td>
+<td></td>
+<td>аланган</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:alk" title="ISO 639:alk">alk</a> <span class="anchor" id="alk"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Austroasiatic</td>
+<td></td>
+<td>Alak</td>
+<td></td>
+<td></td>
+<td></td>
+<td>алак</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:all" title="ISO 639:all">all</a> <span class="anchor" id="all"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Dravidian</td>
+<td></td>
+<td>Allar</td>
+<td></td>
+<td></td>
+<td></td>
+<td>аллар</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:alm" title="ISO 639:alm">alm</a> <span class="anchor" id="alm"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Austronesian</td>
+<td></td>
+<td>Amblong</td>
+<td></td>
+<td></td>
+<td></td>
+<td>амблонг</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:aln" title="ISO 639:aln">aln</a> <span class="anchor" id="aln"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Indo-European</td>
+<td>gegnisht</td>
+<td>Albanian (Gheg)</td>
+<td>albanais (Gheg)</td>
+<td></td>
+<td>盖格阿尔巴尼亚语</td>
+<td>гегский албанский</td>
+<td>Albanisch (Gheg)
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:alo" title="ISO 639:alo">alo</a> <span class="anchor" id="alo"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Austronesian</td>
+<td></td>
+<td>Larike-Wakasihu</td>
+<td></td>
+<td></td>
+<td></td>
+<td>ларике-вакасиху</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:alp" title="ISO 639:alp">alp</a> <span class="anchor" id="alp"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Austronesian</td>
+<td></td>
+<td>Alune</td>
+<td></td>
+<td></td>
+<td></td>
+<td>алуне</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:alq" title="ISO 639:alq">alq</a> <span class="anchor" id="alq"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Algic</td>
+<td>Anishnaabemowin (Omaamiwininimowin)</td>
+<td>Algonquin</td>
+<td>Algonquin</td>
+<td></td>
+<td></td>
+<td>алгонкинский</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:alr" title="ISO 639:alr">alr</a> <span class="anchor" id="alr"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Chukotko-Kamchatkan</td>
+<td></td>
+<td>Alutor</td>
+<td></td>
+<td></td>
+<td></td>
+<td>алюторский</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:als" title="ISO 639:als">als</a> <span class="anchor" id="als"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Indo-European</td>
+<td>toskërishte</td>
+<td>Albanian (Tosk)</td>
+<td>albanais (Tosk)</td>
+<td></td>
+<td>托斯克阿尔巴尼亚语</td>
+<td>тоскский албанский</td>
+<td>Albanisch (Tosk)
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:alt" title="ISO 639:alt">alt</a> <span class="anchor" id="alt"></span>
+</th>
+<td></td>
+<td>alt</td>
+<td>I/L</td>
+<td>Turkic</td>
+<td>Алтай тили</td>
+<td>Altai (Southern)</td>
+<td>altaï (du Sud)</td>
+<td>altay</td>
+<td>南阿尔泰语</td>
+<td>алтайский</td>
+<td>Südaltaisch
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:alu" title="ISO 639:alu">alu</a> <span class="anchor" id="alu"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Austronesian</td>
+<td></td>
+<td>'Are'are</td>
+<td></td>
+<td></td>
+<td></td>
+<td>ареаре</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:alw" title="ISO 639:alw">alw</a> <span class="anchor" id="alw"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Afro-Asiatic</td>
+<td></td>
+<td>Alaba</td>
+<td></td>
+<td></td>
+<td></td>
+<td>алаба</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:alx" title="ISO 639:alx">alx</a> <span class="anchor" id="alx"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Torricelli</td>
+<td></td>
+<td>Alatil</td>
+<td></td>
+<td></td>
+<td></td>
+<td>алатил</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:aly" title="ISO 639:aly">aly</a> <span class="anchor" id="aly"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Pama–Nyungan</td>
+<td></td>
+<td>Alyawarr</td>
+<td></td>
+<td></td>
+<td></td>
+<td>аляварр</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:alz" title="ISO 639:alz">alz</a> <span class="anchor" id="alz"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Nilo-Saharan</td>
+<td></td>
+<td>Alur</td>
+<td></td>
+<td></td>
+<td>阿卢尔语</td>
+<td>алур</td>
+<td>
+</td></tr>
+<tr style="color:inherit; background:#ddd">
+<th><a class="mw-redirect" href="/wiki/ISO_639:ama" title="ISO 639:ama">ama</a> <span class="anchor" id="ama"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/E</td>
+<td>Tupian</td>
+<td></td>
+<td>Amanayé</td>
+<td></td>
+<td>amanayé</td>
+<td></td>
+<td>аманайе</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:amb" title="ISO 639:amb">amb</a> <span class="anchor" id="amb"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Niger–Congo</td>
+<td></td>
+<td>Ambo</td>
+<td></td>
+<td></td>
+<td>安博语</td>
+<td>амбо</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:amc" title="ISO 639:amc">amc</a> <span class="anchor" id="amc"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Pano-Tacanan</td>
+<td></td>
+<td>Amahuaca</td>
+<td></td>
+<td>amahuaca</td>
+<td></td>
+<td>амауака</td>
+<td>
+</td></tr>
+<tr>
+<th>(<a class="mw-redirect" href="/wiki/ISO_639:amd" title="ISO 639:amd">amd</a>) <span class="anchor" id="amd"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>spurious language</td>
+<td></td>
+<td>Amapá Creole</td>
+<td></td>
+<td></td>
+<td></td>
+<td>креольский (амапа)</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:ame" title="ISO 639:ame">ame</a> <span class="anchor" id="ame"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Arawakan</td>
+<td>Yanešač</td>
+<td>Yanesha'</td>
+<td></td>
+<td></td>
+<td></td>
+<td>янеша</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:amf" title="ISO 639:amf">amf</a> <span class="anchor" id="amf"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Afro-Asiatic</td>
+<td></td>
+<td>Hamer-Banna</td>
+<td></td>
+<td></td>
+<td></td>
+<td>хамер-банна</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:amg" title="ISO 639:amg">amg</a> <span class="anchor" id="amg"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Iwaidjan</td>
+<td></td>
+<td>Amarag</td>
+<td></td>
+<td></td>
+<td></td>
+<td>амараг</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:amh" title="ISO 639:amh">amh</a> <span class="anchor" id="amh"></span>
+</th>
+<td>am</td>
+<td>amh</td>
+<td>I/L</td>
+<td>Afro-Asiatic</td>
+<td>አማርኛ</td>
+<td>Amharic</td>
+<td>amharique</td>
+<td>amárico</td>
+<td>阿姆哈拉语</td>
+<td>амхарский</td>
+<td>Amharisch
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:ami" title="ISO 639:ami">ami</a> <span class="anchor" id="ami"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Austronesian</td>
+<td></td>
+<td>Amis</td>
+<td></td>
+<td></td>
+<td>阿美语</td>
+<td>амис</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:amj" title="ISO 639:amj">amj</a> <span class="anchor" id="amj"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Nilo-Saharan</td>
+<td></td>
+<td>Amdang</td>
+<td></td>
+<td></td>
+<td></td>
+<td>амданг</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:amk" title="ISO 639:amk">amk</a> <span class="anchor" id="amk"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Austronesian</td>
+<td></td>
+<td>Ambai</td>
+<td></td>
+<td></td>
+<td></td>
+<td>амбай</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:aml" title="ISO 639:aml">aml</a> <span class="anchor" id="aml"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Austroasiatic</td>
+<td></td>
+<td>War</td>
+<td></td>
+<td></td>
+<td></td>
+<td>вар</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:amm" title="ISO 639:amm">amm</a> <span class="anchor" id="amm"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Left May</td>
+<td></td>
+<td>Ama (Papua New Guinea)</td>
+<td>ama (Papouasie-Nouvelle-Guinée)</td>
+<td></td>
+<td></td>
+<td>ама</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:amn" title="ISO 639:amn">amn</a> <span class="anchor" id="amn"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Border</td>
+<td></td>
+<td>Amanab</td>
+<td></td>
+<td></td>
+<td></td>
+<td>аманаб</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:amo" title="ISO 639:amo">amo</a> <span class="anchor" id="amo"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Niger–Congo</td>
+<td></td>
+<td>Amo</td>
+<td></td>
+<td></td>
+<td></td>
+<td>амо</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:amp" title="ISO 639:amp">amp</a> <span class="anchor" id="amp"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Sepik</td>
+<td></td>
+<td>Alamblak</td>
+<td></td>
+<td></td>
+<td></td>
+<td>аламблак</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:amq" title="ISO 639:amq">amq</a> <span class="anchor" id="amq"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Austronesian</td>
+<td></td>
+<td>Amahai</td>
+<td></td>
+<td></td>
+<td></td>
+<td>амахай</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:amr" title="ISO 639:amr">amr</a> <span class="anchor" id="amr"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Otomakoan</td>
+<td></td>
+<td>Amarakaeri</td>
+<td></td>
+<td></td>
+<td></td>
+<td>амаракаери</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:ams" title="ISO 639:ams">ams</a> <span class="anchor" id="ams"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Japonic</td>
+<td></td>
+<td>Amami-Oshima, Southern</td>
+<td></td>
+<td></td>
+<td>南奄美琉球语</td>
+<td>южный амами-ошима</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:amt" title="ISO 639:amt">amt</a> <span class="anchor" id="amt"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Amto-Musan</td>
+<td></td>
+<td>Amto</td>
+<td></td>
+<td></td>
+<td></td>
+<td>амто</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:amu" title="ISO 639:amu">amu</a> <span class="anchor" id="amu"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Oto-Manguean</td>
+<td></td>
+<td>Amuzgo, Guerrero</td>
+<td></td>
+<td></td>
+<td></td>
+<td>геррерский амусго</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:amv" title="ISO 639:amv">amv</a> <span class="anchor" id="amv"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Austronesian</td>
+<td></td>
+<td>Ambelau</td>
+<td></td>
+<td></td>
+<td></td>
+<td>амбелау</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:amw" title="ISO 639:amw">amw</a> <span class="anchor" id="amw"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Afro-Asiatic</td>
+<td>ܐܪܡܝܬ, آرامي</td>
+<td>Western Neo-Aramaic</td>
+<td>néo-araméen (occidental)</td>
+<td></td>
+<td>西部现代亚拉姆语</td>
+<td>западный новоарамейский</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:amx" title="ISO 639:amx">amx</a> <span class="anchor" id="amx"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Pama–Nyungan</td>
+<td></td>
+<td>Anmatyerre</td>
+<td></td>
+<td></td>
+<td></td>
+<td>анматьерре</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:amy" title="ISO 639:amy">amy</a> <span class="anchor" id="amy"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Northern Daly</td>
+<td></td>
+<td>Ami</td>
+<td></td>
+<td></td>
+<td></td>
+<td>ами</td>
+<td>
+</td></tr>
+<tr style="color:inherit; background:#ddd">
+<th><a class="mw-redirect" href="/wiki/ISO_639:amz" title="ISO 639:amz">amz</a> <span class="anchor" id="amz"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/E</td>
+<td>Pama–Nyungan</td>
+<td></td>
+<td>Atampaya</td>
+<td></td>
+<td></td>
+<td></td>
+<td>атампая</td>
+<td>
+</td></tr>
+<tr style="color:inherit; background:#ddd">
+<th><a class="mw-redirect" href="/wiki/ISO_639:ana" title="ISO 639:ana">ana</a> <span class="anchor" id="ana"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/E</td>
+<td>Barbacoan</td>
+<td></td>
+<td>Andaqui</td>
+<td></td>
+<td>andaquí</td>
+<td></td>
+<td>андаки</td>
+<td>
+</td></tr>
+<tr style="color:inherit; background:#ddd">
+<th><a class="mw-redirect" href="/wiki/ISO_639:anb" title="ISO 639:anb">anb</a> <span class="anchor" id="anb"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/E</td>
+<td>Zaparoan</td>
+<td></td>
+<td>Andoa</td>
+<td></td>
+<td>andoa</td>
+<td></td>
+<td>андоа</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:anc" title="ISO 639:anc">anc</a> <span class="anchor" id="anc"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Afro-Asiatic</td>
+<td></td>
+<td>Ngas</td>
+<td></td>
+<td></td>
+<td></td>
+<td>нгас</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:and" title="ISO 639:and">and</a> <span class="anchor" id="and"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Austronesian</td>
+<td></td>
+<td>Ansus</td>
+<td></td>
+<td></td>
+<td></td>
+<td>ансус</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:ane" title="ISO 639:ane">ane</a> <span class="anchor" id="ane"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Austronesian</td>
+<td></td>
+<td>Xârâcùù</td>
+<td></td>
+<td></td>
+<td></td>
+<td>харачыы</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:anf" title="ISO 639:anf">anf</a> <span class="anchor" id="anf"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Niger–Congo</td>
+<td></td>
+<td>Animere</td>
+<td></td>
+<td></td>
+<td></td>
+<td>анимере</td>
+<td>
+</td></tr>
+<tr style="color:inherit; background:#cce">
+<th><a class="mw-redirect" href="/wiki/ISO_639:ang" title="ISO 639:ang">ang</a> <span class="anchor" id="ang"></span>
+</th>
+<td></td>
+<td>ang</td>
+<td>I/H</td>
+<td>Indo-European</td>
+<td>Englisc</td>
+<td>Anglo-Saxon <i>or</i> Old English</td>
+<td>Anglo-Saxon</td>
+<td></td>
+<td>古英语</td>
+<td>староанглийский</td>
+<td>Angelsächsisch (Altenglisch)
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:anh" title="ISO 639:anh">anh</a> <span class="anchor" id="anh"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Trans–New Guinea</td>
+<td></td>
+<td>Nend</td>
+<td></td>
+<td></td>
+<td></td>
+<td>ненд</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:ani" title="ISO 639:ani">ani</a> <span class="anchor" id="ani"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Northeast Caucasian</td>
+<td></td>
+<td>Andi</td>
+<td></td>
+<td>andí</td>
+<td>安迪语</td>
+<td>андийский</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:anj" title="ISO 639:anj">anj</a> <span class="anchor" id="anj"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Ramu</td>
+<td></td>
+<td>Anor</td>
+<td></td>
+<td></td>
+<td></td>
+<td>анор</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:ank" title="ISO 639:ank">ank</a> <span class="anchor" id="ank"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Afro-Asiatic</td>
+<td></td>
+<td>Goemai</td>
+<td></td>
+<td></td>
+<td></td>
+<td>гоэмай</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:anl" title="ISO 639:anl">anl</a> <span class="anchor" id="anl"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Sino-Tibetan</td>
+<td></td>
+<td>Anu</td>
+<td></td>
+<td></td>
+<td></td>
+<td>ану</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:anm" title="ISO 639:anm">anm</a> <span class="anchor" id="anm"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Sino-Tibetan</td>
+<td></td>
+<td>Anal</td>
+<td></td>
+<td>anal</td>
+<td></td>
+<td>анал</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:ann" title="ISO 639:ann">ann</a> <span class="anchor" id="ann"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Niger–Congo</td>
+<td></td>
+<td>Obolo</td>
+<td></td>
+<td></td>
+<td></td>
+<td>оболо</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:ano" title="ISO 639:ano">ano</a> <span class="anchor" id="ano"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>isolate</td>
+<td></td>
+<td>Andoque</td>
+<td></td>
+<td></td>
+<td></td>
+<td>андоке</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:anp" title="ISO 639:anp">anp</a> <span class="anchor" id="anp"></span>
+</th>
+<td></td>
+<td>anp</td>
+<td>I/L</td>
+<td>Indo-European</td>
+<td></td>
+<td>Angika</td>
+<td>angika</td>
+<td></td>
+<td>安吉卡语</td>
+<td>ангика</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:anq" title="ISO 639:anq">anq</a> <span class="anchor" id="anq"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Ongan</td>
+<td></td>
+<td>Jarawa (India)</td>
+<td>jarawa (Inde)</td>
+<td></td>
+<td></td>
+<td>джарава</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:anr" title="ISO 639:anr">anr</a> <span class="anchor" id="anr"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Indo-European</td>
+<td></td>
+<td>Andh</td>
+<td></td>
+<td></td>
+<td></td>
+<td>андх</td>
+<td>
+</td></tr>
+<tr style="color:inherit; background:#ddd">
+<th><a class="mw-redirect" href="/wiki/ISO_639:ans" title="ISO 639:ans">ans</a> <span class="anchor" id="ans"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/E</td>
+<td>Chocoan</td>
+<td></td>
+<td>Anserma</td>
+<td></td>
+<td></td>
+<td></td>
+<td>ансерма</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:ant" title="ISO 639:ant">ant</a> <span class="anchor" id="ant"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Pama–Nyungan</td>
+<td></td>
+<td>Antakarinya</td>
+<td></td>
+<td></td>
+<td></td>
+<td>антакариня</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:anu" title="ISO 639:anu">anu</a> <span class="anchor" id="anu"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Nilo-Saharan</td>
+<td></td>
+<td>Anuak</td>
+<td></td>
+<td></td>
+<td></td>
+<td>ануак</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:anv" title="ISO 639:anv">anv</a> <span class="anchor" id="anv"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Niger–Congo</td>
+<td></td>
+<td>Denya</td>
+<td></td>
+<td></td>
+<td></td>
+<td>денья</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:anw" title="ISO 639:anw">anw</a> <span class="anchor" id="anw"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Niger–Congo</td>
+<td></td>
+<td>Anaang</td>
+<td></td>
+<td></td>
+<td></td>
+<td>анаанг</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:anx" title="ISO 639:anx">anx</a> <span class="anchor" id="anx"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Austronesian</td>
+<td></td>
+<td>Andra-Hus</td>
+<td></td>
+<td></td>
+<td></td>
+<td>андра-хус</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:any" title="ISO 639:any">any</a> <span class="anchor" id="any"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Niger–Congo</td>
+<td></td>
+<td>Anyin</td>
+<td></td>
+<td></td>
+<td></td>
+<td>аньин</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:anz" title="ISO 639:anz">anz</a> <span class="anchor" id="anz"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Yele-West New Britain</td>
+<td></td>
+<td>Anem</td>
+<td></td>
+<td></td>
+<td></td>
+<td>анем</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:aoa" title="ISO 639:aoa">aoa</a> <span class="anchor" id="aoa"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Portuguese Creole</td>
+<td></td>
+<td>Angolar</td>
+<td></td>
+<td></td>
+<td></td>
+<td>анголар</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:aob" title="ISO 639:aob">aob</a> <span class="anchor" id="aob"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Trans–New Guinea</td>
+<td></td>
+<td>Abom</td>
+<td></td>
+<td></td>
+<td></td>
+<td>абом</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:aoc" title="ISO 639:aoc">aoc</a> <span class="anchor" id="aoc"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Cariban</td>
+<td></td>
+<td>Pemon</td>
+<td></td>
+<td>pemón</td>
+<td></td>
+<td>пемон</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:aod" title="ISO 639:aod">aod</a> <span class="anchor" id="aod"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Ramu</td>
+<td></td>
+<td>Andarum</td>
+<td></td>
+<td></td>
+<td></td>
+<td>андарум</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:aoe" title="ISO 639:aoe">aoe</a> <span class="anchor" id="aoe"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Trans–New Guinea</td>
+<td></td>
+<td>Angal Enen</td>
+<td></td>
+<td></td>
+<td></td>
+<td>ангал-энен</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:aof" title="ISO 639:aof">aof</a> <span class="anchor" id="aof"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Torricelli</td>
+<td></td>
+<td>Bragat</td>
+<td></td>
+<td></td>
+<td></td>
+<td>брагат</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:aog" title="ISO 639:aog">aog</a> <span class="anchor" id="aog"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Ramu</td>
+<td></td>
+<td>Angoram</td>
+<td></td>
+<td></td>
+<td></td>
+<td>ангорам</td>
+<td>
+</td></tr>
+<tr style="color:inherit; background:#ddd">
+<th>(<a class="mw-redirect" href="/wiki/ISO_639:aoh" title="ISO 639:aoh">aoh</a>) <span class="anchor" id="aoh"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/E</td>
+<td>spurious language</td>
+<td></td>
+<td>Arma</td>
+<td></td>
+<td></td>
+<td></td>
+<td>арма</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:aoi" title="ISO 639:aoi">aoi</a> <span class="anchor" id="aoi"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Arnhem</td>
+<td></td>
+<td>Anindilyakwa</td>
+<td></td>
+<td></td>
+<td></td>
+<td>энинтиляква</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:aoj" title="ISO 639:aoj">aoj</a> <span class="anchor" id="aoj"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Torricelli</td>
+<td></td>
+<td>Mufian</td>
+<td></td>
+<td></td>
+<td></td>
+<td>муфиан</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:aok" title="ISO 639:aok">aok</a> <span class="anchor" id="aok"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Austronesian</td>
+<td></td>
+<td>Arhö</td>
+<td></td>
+<td></td>
+<td></td>
+<td>архо</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:aol" title="ISO 639:aol">aol</a> <span class="anchor" id="aol"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Austronesian</td>
+<td></td>
+<td>Alor</td>
+<td></td>
+<td></td>
+<td></td>
+<td>алорский</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:aom" title="ISO 639:aom">aom</a> <span class="anchor" id="aom"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Trans–New Guinea</td>
+<td></td>
+<td>Ömie</td>
+<td></td>
+<td></td>
+<td></td>
+<td>омие</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:aon" title="ISO 639:aon">aon</a> <span class="anchor" id="aon"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Torricelli</td>
+<td></td>
+<td>Arapesh, Bumbita</td>
+<td></td>
+<td></td>
+<td></td>
+<td>бумбита-арапеш</td>
+<td>
+</td></tr>
+<tr style="color:inherit; background:#ddd">
+<th><a class="mw-redirect" href="/wiki/ISO_639:aor" title="ISO 639:aor">aor</a> <span class="anchor" id="aor"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/E</td>
+<td>Austronesian</td>
+<td></td>
+<td>Aore</td>
+<td></td>
+<td></td>
+<td></td>
+<td>аоре</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:aos" title="ISO 639:aos">aos</a> <span class="anchor" id="aos"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Border</td>
+<td></td>
+<td>Taikat</td>
+<td></td>
+<td></td>
+<td></td>
+<td>тайкат</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:aot" title="ISO 639:aot">aot</a> <span class="anchor" id="aot"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Sino-Tibetan</td>
+<td></td>
+<td>A'tong</td>
+<td></td>
+<td></td>
+<td></td>
+<td>атонг</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:aou" title="ISO 639:aou">aou</a> <span class="anchor" id="aou"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Tai–Kadai</td>
+<td></td>
+<td>Gelao</td>
+<td></td>
+<td></td>
+<td></td>
+<td>гэлао</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:aox" title="ISO 639:aox">aox</a> <span class="anchor" id="aox"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Arawakan</td>
+<td></td>
+<td>Atorada</td>
+<td></td>
+<td></td>
+<td></td>
+<td>аторада</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:aoz" title="ISO 639:aoz">aoz</a> <span class="anchor" id="aoz"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Austronesian</td>
+<td></td>
+<td>Uab Meto</td>
+<td></td>
+<td></td>
+<td></td>
+<td>уаб-мето</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:apb" title="ISO 639:apb">apb</a> <span class="anchor" id="apb"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Austronesian</td>
+<td></td>
+<td>Sa'a</td>
+<td></td>
+<td></td>
+<td></td>
+<td>саа</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:apc" title="ISO 639:apc">apc</a> <span class="anchor" id="apc"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Afro-Asiatic</td>
+<td></td>
+<td>Arabic (North Levantine)</td>
+<td>arabe (lévantin du Nord)</td>
+<td></td>
+<td>北黎凡特阿拉伯语</td>
+<td>арабский (северный левантийский)</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:apd" title="ISO 639:apd">apd</a> <span class="anchor" id="apd"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Afro-Asiatic</td>
+<td></td>
+<td>Arabic (Sudanese)</td>
+<td>arabe (soudanais)</td>
+<td></td>
+<td>苏丹阿拉伯语</td>
+<td>арабский (суданский)</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:ape" title="ISO 639:ape">ape</a> <span class="anchor" id="ape"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Torricelli</td>
+<td></td>
+<td>Bukiyip</td>
+<td></td>
+<td></td>
+<td></td>
+<td>букийип</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:apf" title="ISO 639:apf">apf</a> <span class="anchor" id="apf"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Austronesian</td>
+<td></td>
+<td>Pahanan Agta</td>
+<td></td>
+<td></td>
+<td></td>
+<td>паханан-агта</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:apg" title="ISO 639:apg">apg</a> <span class="anchor" id="apg"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Austronesian</td>
+<td></td>
+<td>Ampanang</td>
+<td></td>
+<td></td>
+<td></td>
+<td>ампананг</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:aph" title="ISO 639:aph">aph</a> <span class="anchor" id="aph"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Sino-Tibetan</td>
+<td></td>
+<td>Athpariya</td>
+<td></td>
+<td></td>
+<td></td>
+<td>атпария</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:api" title="ISO 639:api">api</a> <span class="anchor" id="api"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Tupian</td>
+<td></td>
+<td>Apiacá</td>
+<td></td>
+<td>apiacá</td>
+<td></td>
+<td>апиака</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:apj" title="ISO 639:apj">apj</a> <span class="anchor" id="apj"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Apache</td>
+<td>Abáachi mizaa</td>
+<td>Apache (Jicarilla)</td>
+<td>Apache (Jicarilla)</td>
+<td></td>
+<td></td>
+<td>апаче (Хикарилья)</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:apk" title="ISO 639:apk">apk</a> <span class="anchor" id="apk"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Apache</td>
+<td></td>
+<td>Apache (Kiowa)</td>
+<td>Apache (Kiowa)</td>
+<td></td>
+<td></td>
+<td>апаче (киова)</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:apl" title="ISO 639:apl">apl</a> <span class="anchor" id="apl"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Apache</td>
+<td></td>
+<td>Apache (Lipan)</td>
+<td>Apache (Lipan)</td>
+<td></td>
+<td></td>
+<td>апаче (липан)</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:apm" title="ISO 639:apm">apm</a> <span class="anchor" id="apm"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Apache</td>
+<td></td>
+<td>Apache (Mescalero-Chiricahua)</td>
+<td>Apache (Mescalero-Chiricahua)</td>
+<td></td>
+<td></td>
+<td>апаче (мескалеро-чирикахуа)</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:apn" title="ISO 639:apn">apn</a> <span class="anchor" id="apn"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Macro-Jê</td>
+<td></td>
+<td>Apinayé</td>
+<td></td>
+<td></td>
+<td></td>
+<td>апинайе</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:apo" title="ISO 639:apo">apo</a> <span class="anchor" id="apo"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Austronesian</td>
+<td></td>
+<td>Apalik</td>
+<td></td>
+<td></td>
+<td></td>
+<td>апалик</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:app" title="ISO 639:app">app</a> <span class="anchor" id="app"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Austronesian</td>
+<td></td>
+<td>Apma</td>
+<td></td>
+<td></td>
+<td></td>
+<td>апма</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:apq" title="ISO 639:apq">apq</a> <span class="anchor" id="apq"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Great Andamanese</td>
+<td></td>
+<td>A-Pucikwar</td>
+<td></td>
+<td></td>
+<td></td>
+<td>пучиквар</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:apr" title="ISO 639:apr">apr</a> <span class="anchor" id="apr"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Austronesian</td>
+<td></td>
+<td>Arop-Lukep</td>
+<td></td>
+<td></td>
+<td></td>
+<td>ароп-лукеп</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:aps" title="ISO 639:aps">aps</a> <span class="anchor" id="aps"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Austronesian</td>
+<td></td>
+<td>Arop-Sissano</td>
+<td></td>
+<td></td>
+<td></td>
+<td>ароп-сиссано</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:apt" title="ISO 639:apt">apt</a> <span class="anchor" id="apt"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Sino-Tibetan</td>
+<td></td>
+<td>Apatani</td>
+<td></td>
+<td></td>
+<td></td>
+<td>апатани</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:apu" title="ISO 639:apu">apu</a> <span class="anchor" id="apu"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Arawakan</td>
+<td></td>
+<td>Apurinã</td>
+<td></td>
+<td></td>
+<td></td>
+<td>апурина</td>
+<td>
+</td></tr>
+<tr style="color:inherit; background:#ddd">
+<th><a class="mw-redirect" href="/wiki/ISO_639:apv" title="ISO 639:apv">apv</a> <span class="anchor" id="apv"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/E</td>
+<td>Nambikwaran</td>
+<td></td>
+<td>Alapmunte</td>
+<td></td>
+<td></td>
+<td></td>
+<td>алапмунте</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:apw" title="ISO 639:apw">apw</a> <span class="anchor" id="apw"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Apache</td>
+<td>Ndéé biyáti'</td>
+<td>Apache (Western)</td>
+<td>Apache (occidental)</td>
+<td></td>
+<td></td>
+<td>апаче (западный)</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:apx" title="ISO 639:apx">apx</a> <span class="anchor" id="apx"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Austronesian</td>
+<td></td>
+<td>Aputai</td>
+<td></td>
+<td></td>
+<td></td>
+<td>апутай</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:apy" title="ISO 639:apy">apy</a> <span class="anchor" id="apy"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Cariban</td>
+<td></td>
+<td>Apalaí</td>
+<td></td>
+<td>apalaí</td>
+<td></td>
+<td>апалай</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:apz" title="ISO 639:apz">apz</a> <span class="anchor" id="apz"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Trans–New Guinea</td>
+<td></td>
+<td>Safeyoka</td>
+<td></td>
+<td></td>
+<td></td>
+<td>сафейока</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:aqc" title="ISO 639:aqc">aqc</a> <span class="anchor" id="aqc"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Northeast Caucasian</td>
+<td></td>
+<td>Archi</td>
+<td></td>
+<td>archi</td>
+<td></td>
+<td>арчинский</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:aqd" title="ISO 639:aqd">aqd</a> <span class="anchor" id="aqd"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Niger–Congo</td>
+<td></td>
+<td>Ampari Dogon</td>
+<td></td>
+<td></td>
+<td></td>
+<td>ампари-догон</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:aqg" title="ISO 639:aqg">aqg</a> <span class="anchor" id="aqg"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Niger–Congo</td>
+<td></td>
+<td>Arigidi</td>
+<td></td>
+<td></td>
+<td></td>
+<td>аригити</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:aqm" title="ISO 639:aqm">aqm</a> <span class="anchor" id="aqm"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Trans–New Guinea</td>
+<td></td>
+<td>Atohwaim</td>
+<td></td>
+<td></td>
+<td></td>
+<td>атохвайм</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:aqn" title="ISO 639:aqn">aqn</a> <span class="anchor" id="aqn"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Austronesian</td>
+<td></td>
+<td>Alta (Northern)</td>
+<td>altaïque (du Nord)</td>
+<td></td>
+<td></td>
+<td>алта (северный)</td>
+<td>
+</td></tr>
+<tr style="color:inherit; background:#ddd">
+<th><a class="mw-redirect" href="/wiki/ISO_639:aqp" title="ISO 639:aqp">aqp</a> <span class="anchor" id="aqp"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/E</td>
+<td>isolate</td>
+<td></td>
+<td>Atakapa</td>
+<td></td>
+<td></td>
+<td></td>
+<td>атакапа</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:aqr" title="ISO 639:aqr">aqr</a> <span class="anchor" id="aqr"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Austronesian</td>
+<td></td>
+<td>Arhâ</td>
+<td></td>
+<td></td>
+<td></td>
+<td>арха</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:aqt" title="ISO 639:aqt">aqt</a> <span class="anchor" id="aqt"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Mascoian</td>
+<td></td>
+<td>Angaité</td>
+<td>angaité</td>
+<td></td>
+<td></td>
+<td>ангайте</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:aqz" title="ISO 639:aqz">aqz</a> <span class="anchor" id="aqz"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Tupian</td>
+<td></td>
+<td>Akuntsu</td>
+<td></td>
+<td></td>
+<td></td>
+<td>акунтсу</td>
+<td>
+</td></tr>
+<tr style="color:green; background:inherit">
+<th><a class="mw-redirect" href="/wiki/ISO_639:ara" title="ISO 639:ara">ara</a> <span class="anchor" id="ara"></span>
+</th>
+<td>ar</td>
+<td>ara</td>
+<td>M/L</td>
+<td>Arabic</td>
+<td>العربية</td>
+<td>Arabic</td>
+<td>arabe</td>
+<td>árabe</td>
+<td>阿拉伯语</td>
+<td>арабский</td>
+<td>Arabisch
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:arb" title="ISO 639:arb">arb</a> <span class="anchor" id="arb"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Arabic</td>
+<td>لعربية</td>
+<td>Arabic (standard)</td>
+<td>arabe (standard)</td>
+<td></td>
+<td>标准阿拉伯语</td>
+<td>арабский (стандартный)</td>
+<td>Arabisch (Standard-)
+</td></tr>
+<tr style="color:inherit; background:#bbf">
+<th><a class="mw-redirect" href="/wiki/ISO_639:arc" title="ISO 639:arc">arc</a> <span class="anchor" id="arc"></span>
+</th>
+<td></td>
+<td>arc</td>
+<td>I/A</td>
+<td>Afro-Asiatic</td>
+<td>ܐܪܡܝܐ</td>
+<td>Aramaic</td>
+<td>araméen</td>
+<td>arameo</td>
+<td>阿拉米语</td>
+<td>арамейский</td>
+<td>Aramäisch
+</td></tr>
+<tr style="color:inherit; background:#ddd">
+<th><a class="mw-redirect" href="/wiki/ISO_639:ard" title="ISO 639:ard">ard</a> <span class="anchor" id="ard"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/E</td>
+<td>Pama–Nyungan</td>
+<td></td>
+<td>Arabana</td>
+<td></td>
+<td></td>
+<td></td>
+<td>арапана</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:are" title="ISO 639:are">are</a> <span class="anchor" id="are"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Pama–Nyungan</td>
+<td></td>
+<td>Arrarnta, Western</td>
+<td></td>
+<td></td>
+<td></td>
+<td>западный арранта</td>
+<td>
+</td></tr>
+<tr>
+<th>(<a class="mw-redirect" href="/wiki/ISO_639:arf" title="ISO 639:arf">arf</a>) <span class="anchor" id="arf"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Arafundi</td>
+<td></td>
+<td>Arafundi</td>
+<td></td>
+<td></td>
+<td></td>
+<td>арафунди</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:arg" title="ISO 639:arg">arg</a> <span class="anchor" id="arg"></span>
+</th>
+<td>an</td>
+<td>arg</td>
+<td>I/L</td>
+<td>Indo-European</td>
+<td>aragonés</td>
+<td>Aragonese</td>
+<td>aragonais</td>
+<td>aragonés</td>
+<td>阿拉贡语</td>
+<td>арагонский</td>
+<td>Aragonisch
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:arh" title="ISO 639:arh">arh</a> <span class="anchor" id="arh"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Chibchan</td>
+<td></td>
+<td>Arhuaco</td>
+<td></td>
+<td>arhuaco</td>
+<td></td>
+<td>архуако</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:ari" title="ISO 639:ari">ari</a> <span class="anchor" id="ari"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Caddoan</td>
+<td>sáhniš</td>
+<td>Arikara</td>
+<td></td>
+<td></td>
+<td></td>
+<td>арикара</td>
+<td>
+</td></tr>
+<tr style="color:inherit; background:#ddd">
+<th><a class="mw-redirect" href="/wiki/ISO_639:arj" title="ISO 639:arj">arj</a> <span class="anchor" id="arj"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/E</td>
+<td>Tucanoan</td>
+<td></td>
+<td>Arapaso</td>
+<td></td>
+<td></td>
+<td></td>
+<td>арапасо</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:ark" title="ISO 639:ark">ark</a> <span class="anchor" id="ark"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Macro-Jê</td>
+<td></td>
+<td>Arikapú</td>
+<td></td>
+<td></td>
+<td></td>
+<td>арикапу</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:arl" title="ISO 639:arl">arl</a> <span class="anchor" id="arl"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Zaparoan</td>
+<td></td>
+<td>Arabela</td>
+<td></td>
+<td>arabela</td>
+<td></td>
+<td>арабела</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:arn" title="ISO 639:arn">arn</a> <span class="anchor" id="arn"></span>
+</th>
+<td></td>
+<td>arn</td>
+<td>I/L</td>
+<td>Araucanian</td>
+<td>Mapudungun</td>
+<td>Araucanian</td>
+<td>Araucan</td>
+<td>mapudungun</td>
+<td>阿劳坎语</td>
+<td>арауканский (мапудунгун, мапуче)</td>
+<td>Mapudungun
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:aro" title="ISO 639:aro">aro</a> <span class="anchor" id="aro"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Pano-Tacanan</td>
+<td></td>
+<td>Araona</td>
+<td></td>
+<td></td>
+<td></td>
+<td>араона</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:arp" title="ISO 639:arp">arp</a> <span class="anchor" id="arp"></span>
+</th>
+<td></td>
+<td>arp</td>
+<td>I/L</td>
+<td>Algic</td>
+<td>Hinono'eitiit</td>
+<td>Arapaho</td>
+<td>Arapaho</td>
+<td>Arapaho</td>
+<td>阿拉帕霍语</td>
+<td>арапахо</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:arq" title="ISO 639:arq">arq</a> <span class="anchor" id="arq"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Arabic</td>
+<td></td>
+<td>Arabic (Algerian)</td>
+<td>arabe (algérien)</td>
+<td></td>
+<td>阿尔及利亚阿拉伯语</td>
+<td>арабский (алжирский)</td>
+<td>Arabisch (Algerien)
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:arr" title="ISO 639:arr">arr</a> <span class="anchor" id="arr"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Tupian</td>
+<td></td>
+<td>Karo (Brazil)</td>
+<td></td>
+<td></td>
+<td></td>
+<td>каро</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:ars" title="ISO 639:ars">ars</a> <span class="anchor" id="ars"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Arabic</td>
+<td></td>
+<td>Arabic (Najdi)</td>
+<td>arabe (Najdi)</td>
+<td></td>
+<td>纳吉迪阿拉伯语</td>
+<td>арабский (наджди)</td>
+<td>Arabisch (Nadji)
+</td></tr>
+<tr style="color:inherit; background:#ddd">
+<th><a class="mw-redirect" href="/wiki/ISO_639:aru" title="ISO 639:aru">aru</a> <span class="anchor" id="aru"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/E</td>
+<td>Arawan</td>
+<td></td>
+<td>Arua</td>
+<td></td>
+<td></td>
+<td></td>
+<td>аруа</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:arv" title="ISO 639:arv">arv</a> <span class="anchor" id="arv"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Afro-Asiatic</td>
+<td></td>
+<td>Arbore</td>
+<td></td>
+<td></td>
+<td></td>
+<td>арборе</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:arw" title="ISO 639:arw">arw</a> <span class="anchor" id="arw"></span>
+</th>
+<td></td>
+<td>arw</td>
+<td>I/L</td>
+<td>Maipurean</td>
+<td></td>
+<td>Arawak</td>
+<td>Arawak</td>
+<td></td>
+<td>阿拉瓦克语</td>
+<td>аравакский</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:arx" title="ISO 639:arx">arx</a> <span class="anchor" id="arx"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Tupian</td>
+<td></td>
+<td>Aruá</td>
+<td></td>
+<td>aruá</td>
+<td></td>
+<td>аруа</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:ary" title="ISO 639:ary">ary</a> <span class="anchor" id="ary"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Arabic</td>
+<td></td>
+<td>Arabic (Moroccan)</td>
+<td>arabe (marocain)</td>
+<td></td>
+<td>摩洛哥阿拉伯语</td>
+<td>марокканский арабский</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:arz" title="ISO 639:arz">arz</a> <span class="anchor" id="arz"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Arabic</td>
+<td></td>
+<td>Arabic (Egyptian)</td>
+<td>arabe (égyptien)</td>
+<td></td>
+<td>埃及阿拉伯语</td>
+<td>егитпетский арабский</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:asa" title="ISO 639:asa">asa</a> <span class="anchor" id="asa"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Niger–Congo</td>
+<td></td>
+<td>Asu (Tanzania)</td>
+<td></td>
+<td></td>
+<td></td>
+<td>асу</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:asb" title="ISO 639:asb">asb</a> <span class="anchor" id="asb"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Siouan</td>
+<td>Nakʰóda</td>
+<td>Assiniboine</td>
+<td>assiniboine</td>
+<td>assiniboine</td>
+<td></td>
+<td>ассинибойне</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:asc" title="ISO 639:asc">asc</a> <span class="anchor" id="asc"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Trans–New Guinea</td>
+<td></td>
+<td>Asmat, Casuarina Coast</td>
+<td></td>
+<td></td>
+<td></td>
+<td>асмат (побережье Касуарина)</td>
+<td>
+</td></tr>
+<tr>
+<th>(<a class="mw-redirect" href="/wiki/ISO_639:asd" title="ISO 639:asd">asd</a>) <span class="anchor" id="asd"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Trans–New Guinea</td>
+<td></td>
+<td>Asas</td>
+<td></td>
+<td></td>
+<td></td>
+<td>асас</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:ase" title="ISO 639:ase">ase</a> <span class="anchor" id="ase"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>French Sign</td>
+<td></td>
+<td>American Sign Language</td>
+<td>langue des signes américaine</td>
+<td>lengua de señas americana</td>
+<td>美国手语</td>
+<td>американский жестовый</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:asf" title="ISO 639:asf">asf</a> <span class="anchor" id="asf"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td><a href="/wiki/BANZSL" title="BANZSL">BANZSL</a></td>
+<td></td>
+<td>Australian Sign Language</td>
+<td>langue des signes australienne</td>
+<td></td>
+<td>澳大利亚手语</td>
+<td>австралийский жестовый</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:asg" title="ISO 639:asg">asg</a> <span class="anchor" id="asg"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Niger–Congo</td>
+<td></td>
+<td>Cishingini</td>
+<td></td>
+<td></td>
+<td></td>
+<td>кишингини</td>
+<td>
+</td></tr>
+<tr style="color:inherit; background:#ddd">
+<th><a class="mw-redirect" href="/wiki/ISO_639:ash" title="ISO 639:ash">ash</a> <span class="anchor" id="ash"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/E</td>
+<td>Tequiraca–Canichana</td>
+<td></td>
+<td>Abishira</td>
+<td></td>
+<td></td>
+<td></td>
+<td>абишира</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:asi" title="ISO 639:asi">asi</a> <span class="anchor" id="asi"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Trans–New Guinea</td>
+<td></td>
+<td>Buruwai</td>
+<td></td>
+<td></td>
+<td></td>
+<td>буруваи</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:asj" title="ISO 639:asj">asj</a> <span class="anchor" id="asj"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Niger–Congo</td>
+<td></td>
+<td>Nsari</td>
+<td></td>
+<td></td>
+<td></td>
+<td>нсари</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:ask" title="ISO 639:ask">ask</a> <span class="anchor" id="ask"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Indo-European</td>
+<td></td>
+<td>Ashkun</td>
+<td></td>
+<td></td>
+<td></td>
+<td>ашкун</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:asl" title="ISO 639:asl">asl</a> <span class="anchor" id="asl"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Austronesian</td>
+<td></td>
+<td>Asilulu</td>
+<td></td>
+<td></td>
+<td></td>
+<td>асилулу</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:asm" title="ISO 639:asm">asm</a> <span class="anchor" id="asm"></span>
+</th>
+<td>as</td>
+<td>asm</td>
+<td>I/L</td>
+<td>Indo-European</td>
+<td>অসমীয়া</td>
+<td>Assamese</td>
+<td>assamais</td>
+<td>asamés</td>
+<td>阿萨姆语</td>
+<td>ассамский</td>
+<td>Asamiya
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:asn" title="ISO 639:asn">asn</a> <span class="anchor" id="asn"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Tupian</td>
+<td></td>
+<td>Asuriní, Xingú</td>
+<td></td>
+<td>asuriní xingú</td>
+<td></td>
+<td>шингу-асурини</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:aso" title="ISO 639:aso">aso</a> <span class="anchor" id="aso"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Trans–New Guinea</td>
+<td></td>
+<td>Dano</td>
+<td></td>
+<td></td>
+<td></td>
+<td>дано</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:asp" title="ISO 639:asp">asp</a> <span class="anchor" id="asp"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>French Sign</td>
+<td></td>
+<td>Algerian Sign Language</td>
+<td>langue des signes algérienne</td>
+<td></td>
+<td>阿尔及利亚手语</td>
+<td>алжирский жестовый</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:asq" title="ISO 639:asq">asq</a> <span class="anchor" id="asq"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>French Sign</td>
+<td></td>
+<td>Austrian Sign Language</td>
+<td>langue des signes autrichienne</td>
+<td></td>
+<td>奥地利手语</td>
+<td>австрийский жестовый</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:asr" title="ISO 639:asr">asr</a> <span class="anchor" id="asr"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Austroasiatic</td>
+<td></td>
+<td>Asuri</td>
+<td></td>
+<td></td>
+<td></td>
+<td>асури</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:ass" title="ISO 639:ass">ass</a> <span class="anchor" id="ass"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Niger–Congo</td>
+<td></td>
+<td>Ipulo</td>
+<td></td>
+<td></td>
+<td></td>
+<td>ипуло</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:ast" title="ISO 639:ast">ast</a> <span class="anchor" id="ast"></span>
+</th>
+<td></td>
+<td>ast</td>
+<td>I/L</td>
+<td>Indo-European</td>
+<td>asturianu</td>
+<td>Asturian</td>
+<td>asturien</td>
+<td>asturiano</td>
+<td>阿斯图里亚斯语</td>
+<td>астурийский</td>
+<td>Asturisch
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:asu" title="ISO 639:asu">asu</a> <span class="anchor" id="asu"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Tupian</td>
+<td></td>
+<td>Asuriní</td>
+<td></td>
+<td>asuriní</td>
+<td></td>
+<td>асурини</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:asv" title="ISO 639:asv">asv</a> <span class="anchor" id="asv"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Nilo-Saharan</td>
+<td></td>
+<td>Asoa</td>
+<td></td>
+<td></td>
+<td></td>
+<td>асоа</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:asw" title="ISO 639:asw">asw</a> <span class="anchor" id="asw"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Australian Aboriginal Sign</td>
+<td></td>
+<td>Australian Aborigines Sign Language</td>
+<td></td>
+<td></td>
+<td>澳大利亚原住民手语</td>
+<td>жестовые языки австралийских аборигенов</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:asx" title="ISO 639:asx">asx</a> <span class="anchor" id="asx"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Trans–New Guinea</td>
+<td></td>
+<td>Muratayak</td>
+<td></td>
+<td></td>
+<td></td>
+<td>муратаяк</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:asy" title="ISO 639:asy">asy</a> <span class="anchor" id="asy"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Trans–New Guinea</td>
+<td></td>
+<td>Asmat (Yaosakor)</td>
+<td></td>
+<td></td>
+<td></td>
+<td>асмат (яосакор)</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:asz" title="ISO 639:asz">asz</a> <span class="anchor" id="asz"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Austronesian</td>
+<td></td>
+<td>As</td>
+<td></td>
+<td></td>
+<td></td>
+<td>ас</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:ata" title="ISO 639:ata">ata</a> <span class="anchor" id="ata"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Yele-West New Britain</td>
+<td></td>
+<td>Pele-Ata</td>
+<td></td>
+<td></td>
+<td></td>
+<td>пеле-ата</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:atb" title="ISO 639:atb">atb</a> <span class="anchor" id="atb"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Sino-Tibetan</td>
+<td></td>
+<td>Zaiwa</td>
+<td></td>
+<td></td>
+<td>载瓦语</td>
+<td>зайва</td>
+<td>
+</td></tr>
+<tr style="color:inherit; background:#ddd">
+<th><a class="mw-redirect" href="/wiki/ISO_639:atc" title="ISO 639:atc">atc</a> <span class="anchor" id="atc"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/E</td>
+<td>Pano-Tacanan</td>
+<td></td>
+<td>Atsahuaca</td>
+<td></td>
+<td>atsawaka</td>
+<td></td>
+<td>атсауака</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:atd" title="ISO 639:atd">atd</a> <span class="anchor" id="atd"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Austronesian</td>
+<td></td>
+<td>Manobo, Ata</td>
+<td></td>
+<td></td>
+<td></td>
+<td>ата-манобо</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:ate" title="ISO 639:ate">ate</a> <span class="anchor" id="ate"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Trans–New Guinea</td>
+<td></td>
+<td>Atemble</td>
+<td></td>
+<td></td>
+<td></td>
+<td>атембле</td>
+<td>
+</td></tr>
+<tr>
+<th>(<a class="mw-redirect" href="/wiki/ISO_639:atf" title="ISO 639:atf">atf</a>) <span class="anchor" id="atf"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>spurious language</td>
+<td></td>
+<td>Atuence</td>
+<td></td>
+<td></td>
+<td></td>
+<td>атуэнке</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:atg" title="ISO 639:atg">atg</a> <span class="anchor" id="atg"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Niger–Congo</td>
+<td></td>
+<td>Ivbie North-Okpela-Arhe</td>
+<td></td>
+<td></td>
+<td></td>
+<td>северно-окпела-арче ивбиэ</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:ati" title="ISO 639:ati">ati</a> <span class="anchor" id="ati"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Niger–Congo</td>
+<td></td>
+<td>Attié</td>
+<td></td>
+<td></td>
+<td></td>
+<td>аттиэ</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:atj" title="ISO 639:atj">atj</a> <span class="anchor" id="atj"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Algic</td>
+<td>Atikamekw</td>
+<td>Atikamekw</td>
+<td>atikamekw</td>
+<td></td>
+<td></td>
+<td>атикамек</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:atk" title="ISO 639:atk">atk</a> <span class="anchor" id="atk"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Austronesian</td>
+<td></td>
+<td>Ati</td>
+<td></td>
+<td></td>
+<td></td>
+<td>ати</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:atl" title="ISO 639:atl">atl</a> <span class="anchor" id="atl"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Austronesian</td>
+<td></td>
+<td>Agta (Mt. Iraya)</td>
+<td></td>
+<td></td>
+<td></td>
+<td>агта (гора Ирая)</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:atm" title="ISO 639:atm">atm</a> <span class="anchor" id="atm"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Yele-West New Britain</td>
+<td></td>
+<td>Ata</td>
+<td></td>
+<td></td>
+<td></td>
+<td>ата</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:atn" title="ISO 639:atn">atn</a> <span class="anchor" id="atn"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Indo-European</td>
+<td></td>
+<td>Ashtiani</td>
+<td></td>
+<td></td>
+<td></td>
+<td>аштиани</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:ato" title="ISO 639:ato">ato</a> <span class="anchor" id="ato"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Niger–Congo</td>
+<td></td>
+<td>Atong</td>
+<td></td>
+<td></td>
+<td></td>
+<td>атонг</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:atp" title="ISO 639:atp">atp</a> <span class="anchor" id="atp"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Austronesian</td>
+<td></td>
+<td>Atta (Pudtol)</td>
+<td></td>
+<td></td>
+<td></td>
+<td>атта (пудтол)</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:atq" title="ISO 639:atq">atq</a> <span class="anchor" id="atq"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Austronesian</td>
+<td></td>
+<td>Aralle-Tabulahan</td>
+<td></td>
+<td></td>
+<td></td>
+<td>аралле-табулахан</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:atr" title="ISO 639:atr">atr</a> <span class="anchor" id="atr"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Cariban</td>
+<td></td>
+<td>Atruahí</td>
+<td></td>
+<td>atruahí</td>
+<td></td>
+<td>атруахи</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:ats" title="ISO 639:ats">ats</a> <span class="anchor" id="ats"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Algic</td>
+<td></td>
+<td>Gros Ventre</td>
+<td></td>
+<td></td>
+<td></td>
+<td>грос вентре</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:att" title="ISO 639:att">att</a> <span class="anchor" id="att"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Austronesian</td>
+<td></td>
+<td>Atta (Pamplona)</td>
+<td></td>
+<td></td>
+<td></td>
+<td>атта (памплона)</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:atu" title="ISO 639:atu">atu</a> <span class="anchor" id="atu"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Nilo-Saharan</td>
+<td></td>
+<td>Reel</td>
+<td></td>
+<td></td>
+<td></td>
+<td>реель</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:atv" title="ISO 639:atv">atv</a> <span class="anchor" id="atv"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Turkic</td>
+<td></td>
+<td>Altai (Northern)</td>
+<td>altaï (du Nord)</td>
+<td></td>
+<td>北阿尔泰语</td>
+<td>алтайский северный</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:atw" title="ISO 639:atw">atw</a> <span class="anchor" id="atw"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Hokan</td>
+<td></td>
+<td>Atsugewi</td>
+<td></td>
+<td></td>
+<td></td>
+<td>атсугеви</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:atx" title="ISO 639:atx">atx</a> <span class="anchor" id="atx"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Arutani–Sape</td>
+<td></td>
+<td>Arutani</td>
+<td></td>
+<td></td>
+<td></td>
+<td>арутани</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:aty" title="ISO 639:aty">aty</a> <span class="anchor" id="aty"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Austronesian</td>
+<td></td>
+<td>Aneityum</td>
+<td></td>
+<td></td>
+<td></td>
+<td>анейтьюм</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:atz" title="ISO 639:atz">atz</a> <span class="anchor" id="atz"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Austronesian</td>
+<td></td>
+<td>Arta</td>
+<td></td>
+<td></td>
+<td></td>
+<td>арта</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:aua" title="ISO 639:aua">aua</a> <span class="anchor" id="aua"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Austronesian</td>
+<td></td>
+<td>Asumboa</td>
+<td></td>
+<td></td>
+<td></td>
+<td>асумбоа</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:aub" title="ISO 639:aub">aub</a> <span class="anchor" id="aub"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Sino-Tibetan</td>
+<td></td>
+<td>Alugu</td>
+<td></td>
+<td></td>
+<td></td>
+<td>алугу</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:auc" title="ISO 639:auc">auc</a> <span class="anchor" id="auc"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>isolate</td>
+<td>Huao Terero</td>
+<td>Waorani</td>
+<td></td>
+<td></td>
+<td></td>
+<td>ваорани</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:aud" title="ISO 639:aud">aud</a> <span class="anchor" id="aud"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Austronesian</td>
+<td></td>
+<td>Anuta</td>
+<td></td>
+<td></td>
+<td></td>
+<td>анута</td>
+<td>
+</td></tr>
+<tr>
+<th>(<a class="mw-redirect" href="/wiki/ISO_639:aue" title="ISO 639:aue">aue</a>) <span class="anchor" id="aue"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Kx'a</td>
+<td></td>
+<td>ǂKx’auǁ’ein</td>
+<td></td>
+<td></td>
+<td></td>
+<td>чъкхаулъэйн</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:aug" title="ISO 639:aug">aug</a> <span class="anchor" id="aug"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Niger–Congo</td>
+<td></td>
+<td>Aguna</td>
+<td></td>
+<td></td>
+<td></td>
+<td>агуна</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:auh" title="ISO 639:auh">auh</a> <span class="anchor" id="auh"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Niger–Congo</td>
+<td></td>
+<td>Aushi</td>
+<td></td>
+<td></td>
+<td></td>
+<td>ауши</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:aui" title="ISO 639:aui">aui</a> <span class="anchor" id="aui"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Austronesian</td>
+<td></td>
+<td>Anuki</td>
+<td></td>
+<td></td>
+<td></td>
+<td>ануки</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:auj" title="ISO 639:auj">auj</a> <span class="anchor" id="auj"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Afro-Asiatic</td>
+<td></td>
+<td>Awjilah</td>
+<td></td>
+<td></td>
+<td></td>
+<td>авджила</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:auk" title="ISO 639:auk">auk</a> <span class="anchor" id="auk"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Torricelli</td>
+<td></td>
+<td>Heyo</td>
+<td></td>
+<td></td>
+<td></td>
+<td>хейо</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:aul" title="ISO 639:aul">aul</a> <span class="anchor" id="aul"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Austronesian</td>
+<td></td>
+<td>Aulua</td>
+<td></td>
+<td></td>
+<td></td>
+<td>аулуа</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:aum" title="ISO 639:aum">aum</a> <span class="anchor" id="aum"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Niger–Congo</td>
+<td></td>
+<td>Asu (Nigeria)</td>
+<td></td>
+<td></td>
+<td></td>
+<td>асу (Нигерия)</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:aun" title="ISO 639:aun">aun</a> <span class="anchor" id="aun"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Torricelli</td>
+<td></td>
+<td>One, Molmo</td>
+<td></td>
+<td></td>
+<td></td>
+<td>молмо-оне</td>
+<td>
+</td></tr>
+<tr style="color:inherit; background:#ddd">
+<th><a class="mw-redirect" href="/wiki/ISO_639:auo" title="ISO 639:auo">auo</a> <span class="anchor" id="auo"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/E</td>
+<td>Afro-Asiatic</td>
+<td></td>
+<td>Auyokawa</td>
+<td></td>
+<td></td>
+<td></td>
+<td>ауйокава</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:aup" title="ISO 639:aup">aup</a> <span class="anchor" id="aup"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Trans–New Guinea</td>
+<td></td>
+<td>Makayam</td>
+<td></td>
+<td></td>
+<td></td>
+<td>макаям</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:auq" title="ISO 639:auq">auq</a> <span class="anchor" id="auq"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Austronesian</td>
+<td></td>
+<td>Anus</td>
+<td></td>
+<td></td>
+<td></td>
+<td>анус</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:aur" title="ISO 639:aur">aur</a> <span class="anchor" id="aur"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Torricelli</td>
+<td></td>
+<td>Aruek</td>
+<td></td>
+<td></td>
+<td></td>
+<td>аруэк</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:aut" title="ISO 639:aut">aut</a> <span class="anchor" id="aut"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Austronesian</td>
+<td></td>
+<td>Austral</td>
+<td>austral</td>
+<td></td>
+<td></td>
+<td>аустрал</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:auu" title="ISO 639:auu">auu</a> <span class="anchor" id="auu"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Trans–New Guinea</td>
+<td></td>
+<td>Auye</td>
+<td></td>
+<td></td>
+<td></td>
+<td>ауйе</td>
+<td>
+</td></tr>
+<tr>
+<th>(<a class="mw-redirect" href="/wiki/ISO_639:auv" title="ISO 639:auv">auv</a>) <span class="anchor" id="auv"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Indo-European</td>
+<td></td>
+<td>Auvergnat</td>
+<td></td>
+<td></td>
+<td></td>
+<td>овернский диалект</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:auw" title="ISO 639:auw">auw</a> <span class="anchor" id="auw"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Border</td>
+<td></td>
+<td>Awyi</td>
+<td></td>
+<td></td>
+<td></td>
+<td>авьи</td>
+<td>
+</td></tr>
+<tr style="color:inherit; background:#ddd">
+<th><a class="mw-redirect" href="/wiki/ISO_639:aux" title="ISO 639:aux">aux</a> <span class="anchor" id="aux"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/E</td>
+<td>Tupian</td>
+<td></td>
+<td>Aurá</td>
+<td></td>
+<td></td>
+<td></td>
+<td>аура</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:auy" title="ISO 639:auy">auy</a> <span class="anchor" id="auy"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Trans–New Guinea</td>
+<td></td>
+<td>Awiyaana</td>
+<td></td>
+<td></td>
+<td></td>
+<td>авияана</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:auz" title="ISO 639:auz">auz</a> <span class="anchor" id="auz"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Arabic</td>
+<td></td>
+<td>Arabic (Uzbeki)</td>
+<td>arabe (ouzbek)</td>
+<td></td>
+<td>乌兹别克阿拉伯语</td>
+<td>арабский (Узбекистан)</td>
+<td>Arabisch (Uzbekistan)
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:ava" title="ISO 639:ava">ava</a> <span class="anchor" id="ava"></span>
+</th>
+<td>av</td>
+<td>ava</td>
+<td>I/L</td>
+<td>Northeast Caucasian</td>
+<td>авар</td>
+<td>Avaric</td>
+<td>avar</td>
+<td>avaro</td>
+<td>阿瓦尔语</td>
+<td>аварский</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:avb" title="ISO 639:avb">avb</a> <span class="anchor" id="avb"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Austronesian</td>
+<td></td>
+<td>Avau</td>
+<td></td>
+<td></td>
+<td></td>
+<td>авау</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:avd" title="ISO 639:avd">avd</a> <span class="anchor" id="avd"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Indo-European</td>
+<td></td>
+<td>Alviri-Vidari</td>
+<td></td>
+<td></td>
+<td></td>
+<td>алвири-видари</td>
+<td>
+</td></tr>
+<tr style="color:inherit; background:#bbf">
+<th><a class="mw-redirect" href="/wiki/ISO_639:ave" title="ISO 639:ave">ave</a> <span class="anchor" id="ave"></span>
+</th>
+<td>ae</td>
+<td>ave</td>
+<td>I/A</td>
+<td>Indo-European</td>
+<td>avesta</td>
+<td>Avestan</td>
+<td>avestique</td>
+<td></td>
+<td>阿维斯陀语</td>
+<td>авестийский</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:avi" title="ISO 639:avi">avi</a> <span class="anchor" id="avi"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Niger–Congo</td>
+<td></td>
+<td>Avikam</td>
+<td></td>
+<td></td>
+<td>阿维坎语</td>
+<td>авикам</td>
+<td>
+</td></tr>
+<tr style="color:inherit; background:#fda">
+<th><a class="mw-redirect" href="/wiki/ISO_639:avk" title="ISO 639:avk">avk</a> <span class="anchor" id="avk"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/C</td>
+<td>constructed</td>
+<td>Kotava</td>
+<td>Kotava</td>
+<td>kotava</td>
+<td>kotava</td>
+<td></td>
+<td>Котава</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:avl" title="ISO 639:avl">avl</a> <span class="anchor" id="avl"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Arabic</td>
+<td></td>
+<td>Arabic (Eastern Egyptian Bedawi)</td>
+<td>arabe (Bédawi égyptien oriental)</td>
+<td></td>
+<td></td>
+<td>арабский (восточный египетский бедави)</td>
+<td>Arabisch (Ostägypten)
+</td></tr>
+<tr style="color:inherit; background:#ddd">
+<th><a class="mw-redirect" href="/wiki/ISO_639:avm" title="ISO 639:avm">avm</a> <span class="anchor" id="avm"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/E</td>
+<td>Pama–Nyungan</td>
+<td></td>
+<td>Angkamuthi</td>
+<td></td>
+<td></td>
+<td></td>
+<td>ангкамути</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:avn" title="ISO 639:avn">avn</a> <span class="anchor" id="avn"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Niger–Congo</td>
+<td></td>
+<td>Avatime</td>
+<td></td>
+<td></td>
+<td>阿瓦蒂梅语</td>
+<td>аватиме</td>
+<td>
+</td></tr>
+<tr style="color:inherit; background:#ddd">
+<th><a class="mw-redirect" href="/wiki/ISO_639:avo" title="ISO 639:avo">avo</a> <span class="anchor" id="avo"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/E</td>
+<td>Arawakan</td>
+<td></td>
+<td>Agavotaguerra</td>
+<td></td>
+<td></td>
+<td></td>
+<td>агавотагерра</td>
+<td>
+</td></tr>
+<tr style="color:inherit; background:#ddd">
+<th><a class="mw-redirect" href="/wiki/ISO_639:avs" title="ISO 639:avs">avs</a> <span class="anchor" id="avs"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/E</td>
+<td>Zaparoan</td>
+<td></td>
+<td>Aushiri</td>
+<td></td>
+<td>aushiri</td>
+<td></td>
+<td>аушири</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:avt" title="ISO 639:avt">avt</a> <span class="anchor" id="avt"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Torricelli</td>
+<td></td>
+<td>Au</td>
+<td></td>
+<td></td>
+<td></td>
+<td>ау</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:avu" title="ISO 639:avu">avu</a> <span class="anchor" id="avu"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Nilo-Saharan</td>
+<td></td>
+<td>Avokaya</td>
+<td></td>
+<td></td>
+<td></td>
+<td>авокая</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:avv" title="ISO 639:avv">avv</a> <span class="anchor" id="avv"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Tupian</td>
+<td></td>
+<td>Avá-Canoeiro</td>
+<td></td>
+<td>avá-canoeiro</td>
+<td></td>
+<td>ава-каноэйро</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:awa" title="ISO 639:awa">awa</a> <span class="anchor" id="awa"></span>
+</th>
+<td></td>
+<td>awa</td>
+<td>I/L</td>
+<td>Indo-European</td>
+<td>आवधी</td>
+<td>Awadhi</td>
+<td>awadhi</td>
+<td>awadhi</td>
+<td>阿瓦德语</td>
+<td>авадхи</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:awb" title="ISO 639:awb">awb</a> <span class="anchor" id="awb"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Trans–New Guinea</td>
+<td></td>
+<td>Awa</td>
+<td></td>
+<td>awá</td>
+<td></td>
+<td>ава</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:awc" title="ISO 639:awc">awc</a> <span class="anchor" id="awc"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Niger–Congo</td>
+<td></td>
+<td>Acipa (Western)</td>
+<td></td>
+<td></td>
+<td></td>
+<td>ачипа</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:awe" title="ISO 639:awe">awe</a> <span class="anchor" id="awe"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Tupian</td>
+<td></td>
+<td>Awetí</td>
+<td></td>
+<td>awetí</td>
+<td></td>
+<td>авети</td>
+<td>
+</td></tr>
+<tr style="color:inherit; background:#ddd">
+<th><a class="mw-redirect" href="/wiki/ISO_639:awg" title="ISO 639:awg">awg</a> <span class="anchor" id="awg"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/E</td>
+<td>Pama–Nyungan</td>
+<td></td>
+<td>Anguthimri</td>
+<td></td>
+<td></td>
+<td></td>
+<td>ангутимри</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:awh" title="ISO 639:awh">awh</a> <span class="anchor" id="awh"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Trans–New Guinea</td>
+<td></td>
+<td>Awbono</td>
+<td></td>
+<td></td>
+<td></td>
+<td>авбоно</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:awi" title="ISO 639:awi">awi</a> <span class="anchor" id="awi"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Trans–New Guinea</td>
+<td></td>
+<td>Aekyom</td>
+<td></td>
+<td></td>
+<td></td>
+<td>аэкьом</td>
+<td>
+</td></tr>
+<tr style="color:inherit; background:#ddd">
+<th><a class="mw-redirect" href="/wiki/ISO_639:awk" title="ISO 639:awk">awk</a> <span class="anchor" id="awk"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/E</td>
+<td>Pama–Nyungan</td>
+<td></td>
+<td>Awabakal</td>
+<td></td>
+<td></td>
+<td></td>
+<td>авапакал</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:awm" title="ISO 639:awm">awm</a> <span class="anchor" id="awm"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Trans–New Guinea</td>
+<td></td>
+<td>Arawum</td>
+<td></td>
+<td></td>
+<td></td>
+<td>аравум</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:awn" title="ISO 639:awn">awn</a> <span class="anchor" id="awn"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Afro-Asiatic</td>
+<td></td>
+<td>Awngi</td>
+<td></td>
+<td></td>
+<td></td>
+<td>авнги</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:awo" title="ISO 639:awo">awo</a> <span class="anchor" id="awo"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Niger–Congo</td>
+<td></td>
+<td>Awak</td>
+<td></td>
+<td></td>
+<td></td>
+<td>авак</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:awr" title="ISO 639:awr">awr</a> <span class="anchor" id="awr"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Lakes Plain</td>
+<td></td>
+<td>Awera</td>
+<td></td>
+<td></td>
+<td></td>
+<td>авера</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:aws" title="ISO 639:aws">aws</a> <span class="anchor" id="aws"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Trans–New Guinea</td>
+<td></td>
+<td>Awyu (South)</td>
+<td></td>
+<td></td>
+<td></td>
+<td>авью (южный)</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:awt" title="ISO 639:awt">awt</a> <span class="anchor" id="awt"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Tupian</td>
+<td></td>
+<td>Araweté</td>
+<td></td>
+<td>araweté</td>
+<td></td>
+<td>аравете</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:awu" title="ISO 639:awu">awu</a> <span class="anchor" id="awu"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Trans–New Guinea</td>
+<td></td>
+<td>Awyu (Central)</td>
+<td></td>
+<td></td>
+<td></td>
+<td>авью (центральный)</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:awv" title="ISO 639:awv">awv</a> <span class="anchor" id="awv"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Trans–New Guinea</td>
+<td></td>
+<td>Awyu (Jair)</td>
+<td></td>
+<td></td>
+<td></td>
+<td>авью (джаир)</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:aww" title="ISO 639:aww">aww</a> <span class="anchor" id="aww"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Trans–New Guinea</td>
+<td></td>
+<td>Awun</td>
+<td></td>
+<td></td>
+<td></td>
+<td>авун</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:awx" title="ISO 639:awx">awx</a> <span class="anchor" id="awx"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Trans–New Guinea</td>
+<td></td>
+<td>Awara</td>
+<td></td>
+<td></td>
+<td></td>
+<td>авара</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:awy" title="ISO 639:awy">awy</a> <span class="anchor" id="awy"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Trans–New Guinea</td>
+<td></td>
+<td>Awyu (Edera)</td>
+<td></td>
+<td></td>
+<td></td>
+<td>авью (эдера)</td>
+<td>
+</td></tr>
+<tr style="color:inherit; background:#ddd">
+<th><a class="mw-redirect" href="/wiki/ISO_639:axb" title="ISO 639:axb">axb</a> <span class="anchor" id="axb"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/E</td>
+<td>Guaicuruan</td>
+<td></td>
+<td>Abipon</td>
+<td></td>
+<td></td>
+<td></td>
+<td>абипон</td>
+<td>
+</td></tr>
+<tr style="color:inherit; background:#ddd">
+<th><a class="mw-redirect" href="/wiki/ISO_639:axe" title="ISO 639:axe">axe</a> <span class="anchor" id="axe"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/E</td>
+<td>Pama–Nyungan</td>
+<td></td>
+<td>Ayerrerenge</td>
+<td></td>
+<td></td>
+<td></td>
+<td>айерренге</td>
+<td>
+</td></tr>
+<tr style="color:inherit; background:#ddd">
+<th><a class="mw-redirect" href="/wiki/ISO_639:axg" title="ISO 639:axg">axg</a> <span class="anchor" id="axg"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/E</td>
+<td>unclassified</td>
+<td></td>
+<td>Arára (Mato Grosso)</td>
+<td></td>
+<td></td>
+<td></td>
+<td>арара (Мату-Гросу)</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:axk" title="ISO 639:axk">axk</a> <span class="anchor" id="axk"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Niger–Congo</td>
+<td></td>
+<td>Yaka (Central African Republic)</td>
+<td></td>
+<td></td>
+<td></td>
+<td>яка (ЦАР)</td>
+<td>
+</td></tr>
+<tr style="color:inherit; background:#ddd">
+<th><a class="mw-redirect" href="/wiki/ISO_639:axl" title="ISO 639:axl">axl</a> <span class="anchor" id="axl"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/E</td>
+<td>Pama–Nyungan</td>
+<td></td>
+<td>Lower Southern Aranda</td>
+<td></td>
+<td></td>
+<td></td>
+<td>нижне-южный аранта</td>
+<td>
+</td></tr>
+<tr style="color:inherit; background:#cce">
+<th><a class="mw-redirect" href="/wiki/ISO_639:axm" title="ISO 639:axm">axm</a> <span class="anchor" id="axm"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/H</td>
+<td>Indo-European</td>
+<td></td>
+<td>Armenian, Middle</td>
+<td>arménien (moyen)</td>
+<td></td>
+<td>中古亚美尼亚语</td>
+<td>средний армянский</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:axx" title="ISO 639:axx">axx</a> <span class="anchor" id="axx"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Austronesian</td>
+<td></td>
+<td>Xaragure</td>
+<td></td>
+<td></td>
+<td></td>
+<td>харагуре</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:aya" title="ISO 639:aya">aya</a> <span class="anchor" id="aya"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Ramu</td>
+<td></td>
+<td>Awar</td>
+<td></td>
+<td></td>
+<td></td>
+<td>авар</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:ayb" title="ISO 639:ayb">ayb</a> <span class="anchor" id="ayb"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Niger–Congo</td>
+<td></td>
+<td>Gbe, Ayizo</td>
+<td></td>
+<td></td>
+<td></td>
+<td>айизо</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:ayc" title="ISO 639:ayc">ayc</a> <span class="anchor" id="ayc"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Aymaran</td>
+<td></td>
+<td>Aymara, Southern</td>
+<td></td>
+<td></td>
+<td>南艾马拉语</td>
+<td>южный аймара</td>
+<td>
+</td></tr>
+<tr style="color:inherit; background:#ddd">
+<th><a class="mw-redirect" href="/wiki/ISO_639:ayd" title="ISO 639:ayd">ayd</a> <span class="anchor" id="ayd"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/E</td>
+<td>Pama–Nyungan</td>
+<td></td>
+<td>Ayabadhu</td>
+<td></td>
+<td></td>
+<td></td>
+<td>аяпату</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:aye" title="ISO 639:aye">aye</a> <span class="anchor" id="aye"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Niger–Congo</td>
+<td></td>
+<td>Ayere</td>
+<td></td>
+<td></td>
+<td></td>
+<td>айере</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:ayg" title="ISO 639:ayg">ayg</a> <span class="anchor" id="ayg"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Niger–Congo</td>
+<td></td>
+<td>Ginyanga</td>
+<td></td>
+<td></td>
+<td></td>
+<td>гиньянга</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:ayh" title="ISO 639:ayh">ayh</a> <span class="anchor" id="ayh"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Arabic</td>
+<td></td>
+<td>Arabic (Hadrami)</td>
+<td>arabe (Hadrami)</td>
+<td></td>
+<td></td>
+<td>арабский (хадрами)</td>
+<td>Arabisch (Hadrami)
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:ayi" title="ISO 639:ayi">ayi</a> <span class="anchor" id="ayi"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Niger–Congo</td>
+<td></td>
+<td>Yigha</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Йигха</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:ayk" title="ISO 639:ayk">ayk</a> <span class="anchor" id="ayk"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Niger–Congo</td>
+<td></td>
+<td>Akuku</td>
+<td></td>
+<td></td>
+<td></td>
+<td>акуку</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:ayl" title="ISO 639:ayl">ayl</a> <span class="anchor" id="ayl"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Afro-Asiatic</td>
+<td></td>
+<td>Arabic (Libyan)</td>
+<td>arabe (lybien)</td>
+<td></td>
+<td>利比亚阿拉伯语</td>
+<td>арабский (ливийский)</td>
+<td>Arabisch (Lybien)
+</td></tr>
+<tr style="color:green; background:inherit">
+<th><a class="mw-redirect" href="/wiki/ISO_639:aym" title="ISO 639:aym">aym</a> <span class="anchor" id="aym"></span>
+</th>
+<td>ay</td>
+<td>aym</td>
+<td>M/L</td>
+<td>Aymaran</td>
+<td>aymar</td>
+<td>Aymara</td>
+<td>aymara</td>
+<td>aimara</td>
+<td>艾马拉语</td>
+<td>аймара</td>
+<td>Aymara
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:ayn" title="ISO 639:ayn">ayn</a> <span class="anchor" id="ayn"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Arabic</td>
+<td></td>
+<td>Arabic (Sanaani)</td>
+<td>arabe (Sanaani)</td>
+<td></td>
+<td>萨那阿拉伯语</td>
+<td>арабский (санаани)</td>
+<td>Arabisch (Sanaani)
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:ayo" title="ISO 639:ayo">ayo</a> <span class="anchor" id="ayo"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Zamucoan</td>
+<td></td>
+<td>Ayoreo</td>
+<td></td>
+<td></td>
+<td></td>
+<td>айорео</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:ayp" title="ISO 639:ayp">ayp</a> <span class="anchor" id="ayp"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Arabic</td>
+<td></td>
+<td>Arabic (North Mesopotamian)</td>
+<td>arabe (mésopotamien du Nord)</td>
+<td></td>
+<td>北美索不达米亚阿拉伯语</td>
+<td>арабский (северный месопотамский)</td>
+<td>Arabisch (Nordmesopotamien)
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:ayq" title="ISO 639:ayq">ayq</a> <span class="anchor" id="ayq"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Sepik</td>
+<td></td>
+<td>Ayi (Papua New Guinea)</td>
+<td></td>
+<td></td>
+<td></td>
+<td>айи (Папуа-Новая Гвинея)</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:ayr" title="ISO 639:ayr">ayr</a> <span class="anchor" id="ayr"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Aymaran</td>
+<td></td>
+<td>Aymara (Central)</td>
+<td></td>
+<td></td>
+<td>中艾马拉语</td>
+<td>центральный аймара</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:ays" title="ISO 639:ays">ays</a> <span class="anchor" id="ays"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Austronesian</td>
+<td></td>
+<td>Ayta (Sorsogon)</td>
+<td></td>
+<td></td>
+<td></td>
+<td>сорсогонский айта</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:ayt" title="ISO 639:ayt">ayt</a> <span class="anchor" id="ayt"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Austronesian</td>
+<td></td>
+<td>Ayta (Bataan)</td>
+<td></td>
+<td></td>
+<td></td>
+<td>батаанский айта</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:ayu" title="ISO 639:ayu">ayu</a> <span class="anchor" id="ayu"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Niger–Congo</td>
+<td></td>
+<td>Ayu</td>
+<td></td>
+<td></td>
+<td></td>
+<td>аю</td>
+<td>
+</td></tr>
+<tr>
+<th>(<a class="mw-redirect" href="/wiki/ISO_639:ayx" title="ISO 639:ayx">ayx</a>) <span class="anchor" id="ayx"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Sino-Tibetan</td>
+<td></td>
+<td>Ayi (China)</td>
+<td></td>
+<td></td>
+<td></td>
+<td>айи (Китай)</td>
+<td>
+</td></tr>
+<tr style="color:inherit; background:#ddd">
+<th>(<a class="mw-redirect" href="/wiki/ISO_639:ayy" title="ISO 639:ayy">ayy</a>) <span class="anchor" id="ayy"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/E</td>
+<td>spurious language</td>
+<td></td>
+<td>Ayta, Tayabas</td>
+<td></td>
+<td></td>
+<td></td>
+<td>таябасский айта</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:ayz" title="ISO 639:ayz">ayz</a> <span class="anchor" id="ayz"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>West Papuan</td>
+<td></td>
+<td>Mai Brat</td>
+<td></td>
+<td></td>
+<td></td>
+<td>маи-брат</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:aza" title="ISO 639:aza">aza</a> <span class="anchor" id="aza"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Sino-Tibetan</td>
+<td></td>
+<td>Azha</td>
+<td></td>
+<td></td>
+<td></td>
+<td>ажа</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:azb" title="ISO 639:azb">azb</a> <span class="anchor" id="azb"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Turkic</td>
+<td></td>
+<td>Azerbaijani, South</td>
+<td>azéri (du Sud)</td>
+<td></td>
+<td>南阿塞拜疆语</td>
+<td>южный азербайджанский</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:azd" title="ISO 639:azd">azd</a> <span class="anchor" id="azd"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Uto-Aztecan</td>
+<td></td>
+<td>Eastern Durango Nahuatl</td>
+<td></td>
+<td></td>
+<td></td>
+<td>восточнодурангский науатль</td>
+<td>
+</td></tr>
+<tr style="color:green; background:inherit">
+<th><a class="mw-redirect" href="/wiki/ISO_639:aze" title="ISO 639:aze">aze</a> <span class="anchor" id="aze"></span>
+</th>
+<td>az</td>
+<td>aze</td>
+<td>M/L</td>
+<td>Turkic</td>
+<td>Azərbaycan</td>
+<td>Azerbaijani</td>
+<td>azéri</td>
+<td>azerbayano</td>
+<td>阿塞拜疆语</td>
+<td>азербайджанский</td>
+<td>Aserbaidschanisch
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:azg" title="ISO 639:azg">azg</a> <span class="anchor" id="azg"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Oto-Manguean</td>
+<td></td>
+<td>Amuzgo (San Pedro Amuzgos)</td>
+<td></td>
+<td></td>
+<td></td>
+<td>сан-педро амусгосский амусго</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:azj" title="ISO 639:azj">azj</a> <span class="anchor" id="azj"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Azeri</td>
+<td></td>
+<td>Azerbaijani (North)</td>
+<td>azéri (du Nord)</td>
+<td></td>
+<td>北阿塞拜疆语</td>
+<td>азербайджанский северный</td>
+<td>Aserbaidschanisch (Nord-)
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:azm" title="ISO 639:azm">azm</a> <span class="anchor" id="azm"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Oto-Manguean</td>
+<td></td>
+<td>Amuzgo (Ipalapa)</td>
+<td></td>
+<td></td>
+<td></td>
+<td>ипалапанский амусго</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:azn" title="ISO 639:azn">azn</a> <span class="anchor" id="azn"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Uto-Aztecan</td>
+<td></td>
+<td>Western Durango Nahuatl</td>
+<td></td>
+<td></td>
+<td></td>
+<td>западно-дурангский науатль</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:azo" title="ISO 639:azo">azo</a> <span class="anchor" id="azo"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Niger–Congo</td>
+<td></td>
+<td>Awing</td>
+<td></td>
+<td></td>
+<td></td>
+<td>авинг</td>
+<td>
+</td></tr>
+<tr>
+<th>(<a class="mw-redirect" href="/wiki/ISO_639:azr" title="ISO 639:azr">azr</a>) <span class="anchor" id="azr"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Austronesian</td>
+<td></td>
+<td>Adzera</td>
+<td></td>
+<td></td>
+<td></td>
+<td>адзера</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:azt" title="ISO 639:azt">azt</a> <span class="anchor" id="azt"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Austronesian</td>
+<td></td>
+<td>Atta (Faire)</td>
+<td></td>
+<td></td>
+<td></td>
+<td>файре-атта</td>
+<td>
+</td></tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/ISO_639:azz" title="ISO 639:azz">azz</a> <span class="anchor" id="azz"></span>
+</th>
+<td></td>
+<td></td>
+<td>I/L</td>
+<td>Uto-Aztecan</td>
+<td></td>
+<td>Nahuatl (Highland Puebla)</td>
+<td></td>
+<td></td>
+<td></td>
+<td>горно-пуэбланский науатль</td>
+<td>
+</td></tr></tbody></table>
