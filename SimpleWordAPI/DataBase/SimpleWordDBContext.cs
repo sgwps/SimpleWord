@@ -15,15 +15,14 @@ class SimpleWordDBContext : DbContext{
     }
 
     protected override void OnModelCreating(ModelBuilder modelBuilder){
-        modelBuilder.Entity<Word>()
+        /*modelBuilder.Entity<Word>()
             .HasOne(word => word.Collection)
             .WithMany(collection => collection.Words)
-            .OnDelete(DeleteBehavior.Cascade);
+            .OnDelete(DeleteBehavior.Cascade);*/
         modelBuilder.Entity<Example>()
             .HasOne(example => example.Word)
             .WithMany(word => word.Examples)
             .OnDelete(DeleteBehavior.Cascade);
-        modelBuilder.Entity<Collection>().HasIndex(collection => collection.ShortName).IsUnique();
     }
 
 }
