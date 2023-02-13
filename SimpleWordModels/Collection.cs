@@ -15,66 +15,127 @@ public class Collection {
     /// </list>
     public int Id {get; set;}  
 
-
+    string? sourceLanguage;
     /// <list type="bullet">
     /// <item> Язык слов и фраз, описанных в карточках коллекции. </item>
     /// <item> Обязательно соответствие стандарту ISO 639-3. </item>
-    /// <item> !!!Валидатор в сеттере???? </item>
     /// </list>
     [Required]
-    [StringLength(3, MinimumLength = 3)]
-    public string? SourceLanguage {get; set;}
+    public string? SourceLanguage {
+        get{
+            return sourceLanguage;
+        }
+        init{
+            if (value == null)
+                throw new ArgumentException("The source language can't be empty");
+            else if (ValidateISO639Standart(value))
+                sourceLanguage = value;
+            else
+                throw new ArgumentException("Несоответствие стандарту ISO639");
+        }
+    }
 
-
+    string? distanationLanguage;
     /// <list type="bullet">
     /// <item> Язык, на котором описаны переводы слов и фраз коллекции. </item>
     /// <item> Обязательно соответствие стандарту ISO 639-3. </item>
-    /// <item> !!!Валидатор в сеттере???? </item>
     /// </list>
     [Required]
-    [StringLength(3, MinimumLength = 3)]
-    public string? DestinationLanguage {get; set;}
+    public string? DistanationLanguage {
+        get{
+            return distanationLanguage;
+        }
+        init{
+            if (value == null)
+                throw new ArgumentException("The distanation language can't be empty");
+            else if(ValidateISO639Standart(value))
+                throw new ArgumentException("Несоответствие стандрату ISO639");
+            else
+                distanationLanguage = value;
+        }
+    }
 
-
+    string? name;
     /// <list type="bullet">
     /// <item> Название коллекции. </item>
     /// <item> Может содержать не более 200 симоволов. валидартор? </item>
     /// </list>
     [Required]
-    [StringLength(200, MinimumLength = 1)]
-
-    public string? Name {get; set;}
-
-
-    /// <list type="bullet">
-    /// <item> Описание коллекции. </item>
-    /// <item> Может содержать не более 1000 симоволов. валидатор? </item>
-    /// </list>
-    [Required]
-    [StringLength(1000, MinimumLength = 1)]
-    public string? Description {get; set;}
-
-
+    public string? Name {
+        get{
+            return name;
+        }
+        set{
+            if (value == null)
+                throw new ArgumentException("The name of the collection can't be empty");
+            else if (value.Length > 200)
+                throw new ArgumentException("Too many symbols");
+            else
+                name = value;
+        }
+    }
+    
+    string? author;
     /// <list type="bullet">
     /// <item> Автор коллекции. </item>
-    /// <item> Может содержать не более 100 симоволов. валидатор? </item>
+    /// <item> Может содеражть не более 100 символов </item>
     /// </list>
-    [Required]
-    [StringLength(100, MinimumLength = 1)]
-    public string? Author {get; set;}
+    public string? Author {
+        get{
+            return author;
+        }
+        set{
+            if (value == null)
+                author = "";
+            else if (value.Length > 100)
+                throw new ArgumentException("Too many symbols");
+            else
+                author = value;
+        }
+    }
 
     /// <list type="bullet">
-    /// <item> Все слова, содержащиеся в данной коллекции. </item>
-    /// <item> Отношение "один ко многим" </item>
+    /// <item> Лист слов, которые добовляются в коллекцию. </item>
     /// </list>
-    public List<Word> Words {get; set;} = new();
+    public List<Word> Words {get; set; } = new();
 
-
+    string? description;
     /// <list type="bullet">
-    /// <item> Все слова, содержащиеся в данной коллекции. </item>
-    /// <item> Отношение "один ко многим" </item>
+    /// <item> Описание коллекции </item>
+    /// <item> Может содержать не более 1000 символов </item>
     /// </list>
-    [Index(IsUnique=true)]
     [Required]
-    public string? LinkName {get; set;}
+    public string? Description{
+        get{
+            return description;
+        }
+        set{
+            if (value == null)
+                throw new ArgumentException("The description of the collection can't be empty");
+            else if (value.Length > 1000)
+                throw new ArgumentException("Too many symbols");
+            else
+                description = value;
+        }
+    }
+
+    string? linkName;
+    /// <list type="bullet">
+    /// <item> Язык, на котором описаны переводы слов и фраз коллекции. </item>
+    /// <item> Обязательно соответствие стандарту ISO 639-3. </item>
+    /// </list>
+    [Required] // [Index] ??? 
+    public string? LinkName {
+        get{
+            return linkName;
+        }
+        set{
+            if (value == null)
+                throw new ArgumentException("The link to the collection can't be empty"); // ????
+            else if (value.Length > 30)
+                throw new ArgumentException("Too many symbols");
+            else
+                linkName = value;
+        }
+    }
 }
