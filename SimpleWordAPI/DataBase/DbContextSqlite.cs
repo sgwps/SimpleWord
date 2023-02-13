@@ -7,7 +7,7 @@ namespace SimpleWordAPI.DBContext;
 
 class SqliteDBContext : DbContext{
 
-    public DbSet<Collection> Collections {get; set; } 
+    public DbSet<Collection> Collections {get; set; } = null!;
 
 
     public SqliteDBContext(DbContextOptions<SqliteDBContext> options) : base(options){
