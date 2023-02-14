@@ -3,6 +3,7 @@ using SimpleWordAPI.DBContext;
 using Microsoft.Extensions.Configuration;
 using Microsoft.EntityFrameworkCore.Sqlite;
 using Microsoft.EntityFrameworkCore;
+using SimpleWordAPI.Controllers;
 
 var builder = WebApplication.CreateBuilder(args);
 

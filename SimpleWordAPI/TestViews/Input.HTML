@@ -18,10 +18,10 @@
 function Send(){
 console.log("test");
 $.ajax({
-dataType: "json",
 type: "POST",
 url:"/new_collection_post",
-data: "test1"
+data: {
+  "msg": jQuery('#request').val()}
 })}
 </script>
 
