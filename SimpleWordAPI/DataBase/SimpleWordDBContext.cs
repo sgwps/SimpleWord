@@ -6,7 +6,7 @@ using SimpleWordModels;
 namespace SimpleWordAPI.DBContext;
 
 class SimpleWordDBContext : DbContext{
-    public DbSet<Word> Words {get; set; } 
+   // public DbSet<Word> Words {get; set; } 
     public DbSet<Collection> Collections {get; set; } 
     public DbSet<Example> Examples {get; set; } 
 
@@ -15,7 +15,7 @@ class SimpleWordDBContext : DbContext{
     }
 
     protected override void OnModelCreating(ModelBuilder modelBuilder){
-        modelBuilder.Entity<Word>()
+       /* modelBuilder.Entity<Word>()
             .HasOne(word => word.Collection)
             .WithMany(collection => collection.Words)
             .OnDelete(DeleteBehavior.Cascade);
@@ -23,7 +23,7 @@ class SimpleWordDBContext : DbContext{
             .HasOne(example => example.Word)
             .WithMany(word => word.Examples)
             .OnDelete(DeleteBehavior.Cascade);
-        modelBuilder.Entity<Collection>().HasIndex(collection => collection.ShortName).IsUnique();
+        modelBuilder.Entity<Collection>().HasIndex(collection => collection.ShortName).IsUnique();*/
     }
 
 }

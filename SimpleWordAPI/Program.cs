@@ -1,13 +1,15 @@
 using Microsoft.Extensions.DependencyInjection;
 using SimpleWordAPI.DBContext;
 using Microsoft.Extensions.Configuration;
+using Microsoft.EntityFrameworkCore.Sqlite;
+using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 
 builder.Services.AddControllers();
-builder.Services.AddDbContext<SimpleWordDBContext>(options => builder.Configuration.GetConnectionString("PostgreSQL"));
+builder.Services.AddDbContext<SqliteDBContext>(options => options.UseSqlite(builder.Configuration.GetConnectionString("Sqlite")));
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();

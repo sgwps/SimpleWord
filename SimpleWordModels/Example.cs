@@ -16,7 +16,7 @@ public class Example{
     /// <item> Экземпляр класса Word </item>
     /// </list>
     [Required]
-    public Word? Word {get; init;}
+    public Translation? Translation {get; init;}
 
     string? origin;
     /// <list type="bullet">
@@ -24,56 +24,30 @@ public class Example{
     /// <item> Может содержать не более 400 символов </item>
     /// </list>
     [Required]
-    public string? Origin{
-        get{
-            return origin;
-        }
-        set{
-            if (value == null)
-                throw new ArgumentException("The example of using the word can't be empty");
-            else if (value.Length > 400)
-                throw new ArgumentException("Too many symbols");
-            else
-                origin = value;
-        }
-    }
+    [StringLength(400)]
+    public string? Origin{get; set; }
 
     string? translation;
     /// <list type="bullet">
-    /// <item> Перевод примера (Origin) </item>
-    /// <item> Может содержать не более 400 символов </item>
+    /// <item> Перевод данного примера </item>
     /// </list>
     [Required]
-    public string? Translations{
-        get{
-            return translation;
-        }
-        set{
-            if (value == null)
-                throw new ArgumentException("The translation of the example of using the word can't be empty");
-            else if (value.Length > 400)
-                throw new ArgumentException("Too many symbols");
-            else
-                translation = value;
-        }
-    }
+    [StringLength(400)]
+    public string? ExampleTranslation{get; set;}
 
-    string? source;
+    /// <list type="bullet">
+    /// <item> Комментарий автора коллекции к данному примеру использования. </item>
+    /// <item> Может содержать не более 500 симоволов. </item>
+    /// <item> Не обязателен. </item>
+    /// </list>
+    [StringLength(500)]
+    public string? Comment {get; set;}
+
     /// <list type="bullet">
     /// <item> Источник, откуда взят пример </item>
     /// <item> Может содержать не более 200 символов </item>
     /// </list>
-    public string? Source{
-        get{
-            return source;
-        }
-        set{
-            if (value == null)
-                source = "";
-            else if (value.Length > 200)
-                throw new ArgumentException("Too many symbols");
-            else
-                source = value;
-        }
-    }
+    [StringLength(200)]
+    public string? Source{ get; set; }
+
 }
