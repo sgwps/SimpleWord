@@ -125,3 +125,4 @@
 /home/sgwps/Desktop/DictWebApp/SimpleWordAPI/bin/Debug/net6.0/Humanizer.dll
 /home/sgwps/Desktop/DictWebApp/SimpleWordAPI/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
 /home/sgwps/Desktop/DictWebApp/SimpleWordAPI/bin/Debug/net6.0/Mono.TextTemplating.dll
+/home/sgwps/Desktop/DictWebApp/SimpleWordAPI/bin/Debug/net6.0/Newtonsoft.Json.dll

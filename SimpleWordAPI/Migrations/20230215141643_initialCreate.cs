@@ -29,7 +29,7 @@ namespace SimpleWordAPI.Migrations
                 });
 
             migrationBuilder.CreateTable(
-                name: "Card",
+                name: "Cards",
                 columns: table => new
                 {
                     Id = table.Column<int>(type: "INTEGER", nullable: false)
@@ -40,9 +40,9 @@ namespace SimpleWordAPI.Migrations
                 },
                 constraints: table =>
                 {
-                    table.PrimaryKey("PK_Card", x => x.Id);
+                    table.PrimaryKey("PK_Cards", x => x.Id);
                     table.ForeignKey(
-                        name: "FK_Card_Collections_CollectionId",
+                        name: "FK_Cards_Collections_CollectionId",
                         column: x => x.CollectionId,
                         principalTable: "Collections",
                         principalColumn: "Id",
@@ -50,7 +50,7 @@ namespace SimpleWordAPI.Migrations
                 });
 
             migrationBuilder.CreateTable(
-                name: "Translation",
+                name: "Translations",
                 columns: table => new
                 {
                     Id = table.Column<int>(type: "INTEGER", nullable: false)
@@ -61,17 +61,17 @@ namespace SimpleWordAPI.Migrations
                 },
                 constraints: table =>
                 {
-                    table.PrimaryKey("PK_Translation", x => x.Id);
+                    table.PrimaryKey("PK_Translations", x => x.Id);
                     table.ForeignKey(
-                        name: "FK_Translation_Card_CardId",
+                        name: "FK_Translations_Cards_CardId",
                         column: x => x.CardId,
-                        principalTable: "Card",
+                        principalTable: "Cards",
                         principalColumn: "Id",
                         onDelete: ReferentialAction.Cascade);
                 });
 
             migrationBuilder.CreateTable(
-                name: "Example",
+                name: "Examples",
                 columns: table => new
                 {
                     Id = table.Column<int>(type: "INTEGER", nullable: false)
@@ -84,28 +84,34 @@ namespace SimpleWordAPI.Migrations
                 },
                 constraints: table =>
                 {
-                    table.PrimaryKey("PK_Example", x => x.Id);
+                    table.PrimaryKey("PK_Examples", x => x.Id);
                     table.ForeignKey(
-                        name: "FK_Example_Translation_TranslationId",
+                        name: "FK_Examples_Translations_TranslationId",
                         column: x => x.TranslationId,
-                        principalTable: "Translation",
+                        principalTable: "Translations",
                         principalColumn: "Id",
                         onDelete: ReferentialAction.Cascade);
                 });
 
             migrationBuilder.CreateIndex(
-                name: "IX_Card_CollectionId",
-                table: "Card",
+                name: "IX_Cards_CollectionId",
+                table: "Cards",
                 column: "CollectionId");
 
             migrationBuilder.CreateIndex(
-                name: "IX_Example_TranslationId",
-                table: "Example",
+                name: "IX_Collections_LinkName",
+                table: "Collections",
+                column: "LinkName",
+                unique: true);
+
+            migrationBuilder.CreateIndex(
+                name: "IX_Examples_TranslationId",
+                table: "Examples",
                 column: "TranslationId");
 
             migrationBuilder.CreateIndex(
-                name: "IX_Translation_CardId",
-                table: "Translation",
+                name: "IX_Translations_CardId",
+                table: "Translations",
                 column: "CardId");
         }
 
@@ -113,13 +119,13 @@ namespace SimpleWordAPI.Migrations
         protected override void Down(MigrationBuilder migrationBuilder)
         {
             migrationBuilder.DropTable(
-                name: "Example");
+                name: "Examples");
 
             migrationBuilder.DropTable(
-                name: "Translation");
+                name: "Translations");
 
             migrationBuilder.DropTable(
-                name: "Card");
+                name: "Cards");
 
             migrationBuilder.DropTable(
                 name: "Collections");

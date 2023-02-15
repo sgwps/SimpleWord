@@ -3,6 +3,7 @@ using System;
 namespace SimpleWordAPI.Controllers;
 using SimpleWordAPI.DBContext;
 using SimpleWordModels;
+using Newtonsoft.Json;
 
 [ApiController]
 [Route("new_collection")]
@@ -35,22 +36,26 @@ public class NewCollectionPostController : ControllerBase
     // string -> json -> dict
 
     public StatusCodeResult Post(){  //пропихнуть json
-        Collection c = new Collection();
-        c.SourceLanguage = "rus";
-        c.DistanationLanguage = "end";
-
-        c.Name = "test";
-        c.LinkName = "rrrrr";
-        ManageController._context.Collections.Add(c);
+        string data = Request.Form["msg"];
+        dynamic json = JsonConvert.DeserializeObject(data); 
+        Collection collection = new Collection();
+        collection.LinkName = json["LinkName"];
+        collection.SourceLanguage = json["sourceLanguage"];
+        collection.DistanationLanguage = json["destinationLanguage"];
+        collection.Name = json["name"];
+        collection.Description = json["description"];
+        collection.Author = json["author"];
+        ManageController._context.Collections.Add(collection);
+        foreach (dynamic i in json["cards"]){
+            Card card = new Card();
+            card.Word = i["origin"];
+            card.Comment = i["comments"];
+            card.Collection = collection;
+            ManageController._context.Cards.Add(card);
+            
+        }
         ManageController._context.SaveChanges();
-        Console.WriteLine(Request);
-        foreach (string key in Request.Form.Keys)
-        {
-            Console.WriteLine(key);
-            Console.WriteLine(Request.Form[key]);
 
-        }        
-        Console.WriteLine("aaaaa");
         return StatusCode(200);
     }
 

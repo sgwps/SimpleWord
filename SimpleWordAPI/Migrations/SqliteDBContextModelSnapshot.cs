@@ -38,7 +38,7 @@ namespace SimpleWordAPI.Migrations
 
                     b.HasIndex("CollectionId");
 
-                    b.ToTable("Card");
+                    b.ToTable("Cards");
                 });
 
             modelBuilder.Entity("SimpleWordModels.Collection", b =>
@@ -75,6 +75,9 @@ namespace SimpleWordAPI.Migrations
 
                     b.HasKey("Id");
 
+                    b.HasIndex("LinkName")
+                        .IsUnique();
+
                     b.ToTable("Collections");
                 });
 
@@ -109,7 +112,7 @@ namespace SimpleWordAPI.Migrations
 
                     b.HasIndex("TranslationId");
 
-                    b.ToTable("Example");
+                    b.ToTable("Examples");
                 });
 
             modelBuilder.Entity("SimpleWordModels.Translation", b =>
@@ -134,7 +137,7 @@ namespace SimpleWordAPI.Migrations
 
                     b.HasIndex("CardId");
 
-                    b.ToTable("Translation");
+                    b.ToTable("Translations");
                 });
 
             modelBuilder.Entity("SimpleWordModels.Card", b =>
