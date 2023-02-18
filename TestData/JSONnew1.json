@@ -1,0 +1,64 @@
+{
+	"LinkName": "test7",
+	"SourceLanguage": "rus",
+	"DistanationLanguage": "fra",
+	"Name": "coll15feb",
+	"Description": "blablabla",
+	"Author": "sgwps",
+	"Cards": [
+		{
+			"Word": "зверек",
+			"Comment": "blabla",
+			"Translations": [
+				{
+					"Value": "zverek",
+					"Comment": "bla bla 2",
+					"Examples": [
+						{
+							"Origin": "Зверек скачет",
+							"ExampleTranslation": "Zverek skachet",
+							"Comment": "красивое",
+							"Source": "пьяный бред"
+						},
+						{
+							"Origin": "Зверек прыгает",
+							"ExampleTranslation": "Zverek skachet",
+							"Comment": "красивое",
+							"Source": "пьяный бред"
+						}
+					]
+				}
+			]
+		},
+		{
+			"Word": "уточка",
+			"Comment": "blabla 3",
+			"Translations": [
+				{
+					"Value": "duck",
+					"Comment": "bla bla 5",
+					"Examples": [
+						{
+							"Origin": "уточка скачет",
+							"ExampleTranslation": "duck skachet",
+							"Comment": "красивое",
+							"Source": "русские сказки"
+						}
+					]
+				},
+				{
+					"Value": "stupid programmer",
+					"Comment": "разг.",
+					"Examples": [
+						{
+							"Origin": "уточка косячит",
+							"ExampleTranslation": "duck fails",
+							"Comment": "красивое",
+							"Source": "жизнь"
+						}
+					]
+				}
+			]
+		}
+	]
+}

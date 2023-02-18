@@ -1,4 +1,5 @@
 ﻿using System.ComponentModel.DataAnnotations;
+using System.Text.Json.Serialization;
 
 namespace SimpleWordModels;
 public class Card
@@ -9,6 +10,7 @@ public class Card
     /// <item> Примечание.
     /// Поле "Id" автоматически определяется как первичный ключ. </item>
     /// </list>
+    [JsonIgnore]
     public int Id{get; init;}
 
 
@@ -27,7 +29,8 @@ public class Card
     /// Коллекция, содержащая данную карточку.
     /// </summary>
     [Required]
-    public Collection? Collection {get; init;}
+    [JsonIgnore]
+    public Collection? Collection {get; set;}
 
     /// <list type="bullet">
     /// <item> Комментарий автора коллекции к данной карточке. </item>

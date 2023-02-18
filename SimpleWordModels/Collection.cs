@@ -1,15 +1,17 @@
 using System.ComponentModel.DataAnnotations;
-using System.ComponentModel.DataAnnotations.Schema;
-
+using Microsoft.EntityFrameworkCore;
+using System.Text.Json.Serialization;
 namespace SimpleWordModels;
 
+[Index(nameof(Collection.LinkName), IsUnique =true)]
 public class Collection {
     private static bool ValidateISO639Standart (string value) {
-        List<string> lines = File.ReadAllLines(@"../SimpleWordModels/Data/ISO639.csv")[1..].ToList<string>();
+        /*List<string> lines = File.ReadAllLines(@"../SimpleWordModels/Data/ISO639.csv")[1..].ToList<string>();
         foreach (string line in lines){
             if (line.Split(",")[0] == value) return true;
         }
-        return false;
+        return false;*/
+        return true;
     }
 
 
@@ -19,6 +21,7 @@ public class Collection {
     /// <item> Примечание.
     /// Поле "Id" автоматически определяется как первичный ключ. </item>
     /// </list>
+    [JsonIgnore]
     public int Id {get; set;}  
 
     string? sourceLanguage;
@@ -54,7 +57,7 @@ public class Collection {
         set {
             if (value == null)
                 throw new ArgumentException("The distanation language can't be empty");
-            else if(ValidateISO639Standart(value))
+            else if(!ValidateISO639Standart(value))
                 throw new ArgumentException("Несоответствие стандрату ISO639");
             else
                 distanationLanguage = value;
@@ -93,10 +96,8 @@ public class Collection {
     /// <item> Не более 30 символов. </item>
     /// <item> Может создержать только строчные латинские буквы (если в запросе содержатся заглавные, они преобразовываются в строчные), цифры и символ подчеркивания (ASCII-код 95). </item>
     /// </list>
-    [Index(IsUnique=true)]
     [Required]
     [StringLength(30)]
-
     public string? LinkName {
         get{
             return linkName;

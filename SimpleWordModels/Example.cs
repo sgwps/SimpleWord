@@ -1,4 +1,5 @@
 using System.ComponentModel.DataAnnotations;
+using System.Text.Json.Serialization;
 
 namespace SimpleWordModels;
 
@@ -10,13 +11,15 @@ public class Example{
     /// Поле "Id" автоматически определяется как первичный ключ. </item>
     /// </list>
     [Required]
+    [JsonIgnore]
     public int Id{get; init;}
 
     /// <list type="bullet">
     /// <item> Экземпляр класса Word </item>
     /// </list>
     [Required]
-    public Translation? Translation {get; init;}
+    [JsonIgnore]
+    public Translation? Translation {get; set;}
 
     string? origin;
     /// <list type="bullet">

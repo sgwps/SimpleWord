@@ -1,4 +1,5 @@
 using System.ComponentModel.DataAnnotations;
+using System.Text.Json.Serialization;
 
 namespace SimpleWordModels;
 
@@ -9,6 +10,7 @@ public class Translation{
     /// <item> Примечание.
     /// Поле "Id" автоматически определяется как первичный ключ. </item>
     /// </list>
+    [JsonIgnore]
     public int Id{get; init;}
 
 
@@ -16,7 +18,8 @@ public class Translation{
     /// Карточка, к которой относится перевод.
     /// </summary>
     [Required]
-    public Card? Card {get; init;}
+    [JsonIgnore]
+    public Card? Card {get; set;}
 
 
     /// <list type="bullet">
