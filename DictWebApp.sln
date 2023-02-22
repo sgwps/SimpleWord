@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleWordAPI", "SimpleWordAPI\SimpleWordAPI.csproj", "{F5202274-EE3C-4059-9EC6-40547B28C138}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleWordModels", "SimpleWordModels\SimpleWordModels.csproj", "{A13CB51B-ECA6-4BDF-92D2-257385F4D159}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5202274-EE3C-4059-9EC6-40547B28C138}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5202274-EE3C-4059-9EC6-40547B28C138}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5202274-EE3C-4059-9EC6-40547B28C138}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5202274-EE3C-4059-9EC6-40547B28C138}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A13CB51B-ECA6-4BDF-92D2-257385F4D159}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A13CB51B-ECA6-4BDF-92D2-257385F4D159}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A13CB51B-ECA6-4BDF-92D2-257385F4D159}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A13CB51B-ECA6-4BDF-92D2-257385F4D159}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
