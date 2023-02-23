@@ -5,10 +5,8 @@ networks:
     driver: bridge 
 
 services:
-  dockerapi:
-    image: dockerapi:latest
-    depends_on:
-      - "postgres_image"
+  SimpleWordASP:
+    image: simplewordasp:latest
     build:
       context: .
       dockerfile: Dockerfile
@@ -19,19 +17,4 @@ services:
     networks:
       - dockerapi-dev  
   
-  postgres_image:
-    image: postgres:latest
-    ports:
-      - "5432"
-    restart: always
-    volumes:
-      - db_volume:/var/lib/postgresql/data
-      - ./dbscripts/seed.sql :/docker-entrypoint-initdb.d/seed.sql
-    environment:
-      POSTGRES_USER: "bloguser"
-      POSTGRES_PASSWORD: "bloguser"
-      POSTGRES_DB: "blogdb"
-    networks:
-      - dockerapi-dev
-volumes:
-  db_volume:
+  
