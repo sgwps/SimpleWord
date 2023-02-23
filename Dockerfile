@@ -1,29 +1,25 @@
+# https://hub.docker.com/_/microsoft-dotnet
 FROM mcr.microsoft.com/dotnet/sdk:6.0 AS build
-
-
 WORKDIR /source
 
-
-COPY . .
-
-RUN dotnet restore "./SimpleWordAPI/SimpleWordAPI.csproj" --disable-parallel
-
-
-RUN dotnet publish "./SimpleWordAPI/SimpleWordAPI.csproj" -c Release -o out
-
-RUN dotnet restore "./SimpleWordModels/SimpleWordModels.csproj" --disable-parallel
+# copy csproj and restore as distinct layers
+COPY *.sln .
+COPY SimpleWordMain/SimpleWordMain.csproj SimpleWordMain/SimpleWordMain.csproj 
+COPY SimpleWordModels/SimpleWordModels.csproj SimpleWordModels/SimpleWordModels.csproj 
+RUN dotnet restore SimpleWordMain/SimpleWordMain.csproj
+RUN dotnet restore SimpleWordModels/SimpleWordModels.csproj
 
 
-RUN dotnet publish "./SimpleWordModels/SimpleWordModels.csproj" -c Release -o out
+# copy everything else and build app
+COPY SimpleWordMain/. ./SimpleWordMain/
+COPY SimpleWordModels/. ./SimpleWordModels/
 
+WORKDIR /source/
+RUN dotnet publish SimpleWordMain/SimpleWordMain.csproj -c Release -o /app
+RUN dotnet publish SimpleWordModels/SimpleWordModels.csproj -c Release -o /app
 
-
-
+# final stage/image
 FROM mcr.microsoft.com/dotnet/aspnet:6.0
 WORKDIR /app
-
-COPY --from=build /app/out .
-
-
-ENTRYPOINT [ "dotnet", "SimpleWordAPI.dll" ]
-
+COPY --from=build /app ./
+ENTRYPOINT ["dotnet", "SimpleWordMain.dll"]

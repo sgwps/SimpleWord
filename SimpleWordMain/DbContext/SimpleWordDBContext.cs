@@ -21,6 +21,18 @@ class SimpleWordDBContext : DbContext{
     }
 
     protected override void OnModelCreating(ModelBuilder modelBuilder){
+        base.OnModelCreating(modelBuilder);
+        modelBuilder.Entity<Collection>().ToTable("collections");
+        modelBuilder.Entity<Collection>().HasKey(x => x.Id);
+        modelBuilder.Entity<Collection>().Property(x => x.Id).HasColumnName("id");
+        modelBuilder.Entity<Collection>().HasIndex(collection => collection.LinkName).IsUnique();
+        //  согласовать классы и таблицы
+        // согласовать свойства и столбцы
+        // поставить ограничения: required
+
+        
+
+
        /* modelBuilder.Entity<Word>()
             .HasOne(word => word.Collection)
             .WithMany(collection => collection.Words)
