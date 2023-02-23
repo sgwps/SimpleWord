@@ -41,5 +41,7 @@ public class Card
     public string? Comment {get; set;}
 
 
-    public List<Translation> Translations { get; set; } = new();
+    public List<Translation> Translations {get; set; } = new();
+
+    public int CollectionForeignKey {get; set; }
 }
