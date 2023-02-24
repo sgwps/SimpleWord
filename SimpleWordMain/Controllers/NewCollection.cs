@@ -4,15 +4,20 @@ using System;
 namespace SimpleWordAPI.Controllers;
 using SimpleWordAPI.DBContext;
 using SimpleWordModels;
-using Newtonsoft.Json;
+using System.Text.Json;
+using System.Text.Json.Serialization;
 using Microsoft.EntityFrameworkCore;
 
 [Route("new_collection")]
 public class NewCollectionGetController : Controller
 {
+
+    /*internal NewCollectionGetController(SimpleWordDBContext context)
+    {
+        _context = context;
+    }*/
     public IActionResult Get()
     {
-        
         return View();
     }
 }
@@ -22,10 +27,15 @@ static class ManageController
     public static SqliteDBContext _context = new SqliteDBContext();
 }
 
-
 [Route("new_collection_post")]
 public class NewCollectionPostController : Controller
 {
+    private readonly SimpleWordDBContext _context;
+
+    /*internal NewCollectionPostController(SimpleWordDBContext context)
+    {
+        _context = context;
+    }*/
     // в доках - new collection
     // Request.Form.Keys["msg"] - нужная строка
     // эту строку в json, обработать
@@ -34,21 +44,24 @@ public class NewCollectionPostController : Controller
     [HttpPost]
     public StatusCodeResult Post()
     { //пропихнуть json
-        string data = Request.Form["msg"];
-        try
+        using (var context = new SimpleWordDBContext())
         {
-            Collection json = JsonConvert.DeserializeObject<Collection>(data);
-            ManageController._context.Collections.Add(json);
-            ManageController._context.SaveChanges();
-            return StatusCode(200);
-        }
-        catch (JsonReaderException)
-        {
-            return StatusCode(401);
-        }
-        catch (DbUpdateException)
-        {
-            return StatusCode(403);
+            string data = Request.Form["msg"];
+            try
+            {
+                Collection json = JsonSerializer.Deserialize<Collection>(data);
+                context.Collections.Add(json);
+                context.SaveChanges();
+                return StatusCode(200);
+            }
+            catch (JsonException)
+            {
+                return StatusCode(401);
+            }
+            catch (DbUpdateException)
+            {
+                return StatusCode(403);
+            }
         }
     }
 }

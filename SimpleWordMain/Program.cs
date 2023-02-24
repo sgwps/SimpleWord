@@ -1,9 +1,16 @@
+using SimpleWordAPI.DBContext;
+
+
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
+builder.Services.AddDbContext<SimpleWordDBContext>(options => builder.Configuration.GetConnectionString("PostgreSQL"));
 builder.Services.AddControllersWithViews();
 
 var app = builder.Build();
+// ContextStaticClass._context = app.Services.GetService<SimpleWordDBContext>();
+
 
 // Configure the HTTP request pipeline.
 if (!app.Environment.IsDevelopment())
