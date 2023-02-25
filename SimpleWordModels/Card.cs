@@ -42,4 +42,5 @@ public class Card
 
 
     public List<Translation> Translations { get; set; } = new();
+    public int CollectionForeignKey { get; set; }
 }

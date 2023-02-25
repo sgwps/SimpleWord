@@ -4,6 +4,9 @@ using System.Text.Json.Serialization;
 namespace SimpleWordModels;
 
 public class Translation{
+    public int CardForeignKey {get; set;}
+
+    
     /// <list type="bullet">
     /// <item> Первичный ключ (целое неотрицательное число.) </item>
     /// <item> Первичный ключ записи в таблице. При сооздании коллекции генерируется автоматически. </item>

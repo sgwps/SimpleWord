@@ -7,14 +7,34 @@ networks:
 services:
   SimpleWordASP:
     image: simplewordasp:latest
+    depends_on:
+      - "postgres_image"
     build:
       context: .
       dockerfile: Dockerfile
     ports:
       - "8000:80"     
     environment:
-      DB_CONNECTION_STRING: "host=postgres_image;port=5432;database=blogdb;username=bloguser;password=bloguser"
+      DB_CONNECTION_STRING: "Host=postgres_image;Port=5432;Database=swdb;Username=swuser;Password=s10Y4z1xi0Ao"
+      ISO639_PATH: "/app/ISO639.csv"
+
     networks:
-      - dockerapi-dev  
+      - dockerapi-dev
+  postgres_image:
+    image: postgres:latest
+    ports:
+      - "5432"
+    restart: always
+    volumes:
+      - db_volume:/var/lib/postgresql/data
+      - ./DbScript/seed.sql:/docker-entrypoint-initdb.d/seed.sql
+    environment:
+      POSTGRES_USER: "swuser"
+      POSTGRES_PASSWORD: "s10Y4z1xi0Ao"
+      POSTGRES_DB: "swdb"
+    networks:
+      - dockerapi-dev
+volumes:
+  db_volume:
   
   

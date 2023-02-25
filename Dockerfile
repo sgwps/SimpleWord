@@ -18,8 +18,12 @@ WORKDIR /source/
 RUN dotnet publish SimpleWordMain/SimpleWordMain.csproj -c Release -o /app
 RUN dotnet publish SimpleWordModels/SimpleWordModels.csproj -c Release -o /app
 
+
+
 # final stage/image
 FROM mcr.microsoft.com/dotnet/aspnet:6.0
 WORKDIR /app
 COPY --from=build /app ./
+COPY SimpleWordModels/Data/ISO639.csv ISO639.csv
+
 ENTRYPOINT ["dotnet", "SimpleWordMain.dll"]

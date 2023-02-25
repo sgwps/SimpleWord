@@ -6,11 +6,10 @@ namespace SimpleWordModels;
 [Index(nameof(Collection.LinkName), IsUnique =true)]
 public class Collection {
     private static bool ValidateISO639Standart (string value) {
-        /*List<string> lines = File.ReadAllLines(@"../SimpleWordModels/Data/ISO639.csv")[1..].ToList<string>();
+        List<string> lines = File.ReadAllLines(Environment.GetEnvironmentVariable("ISO639_PATH"))[1..].ToList<string>();
         foreach (string line in lines){
             if (line.Split(",")[0] == value) return true;
         }
-        return false;*/
         return true;
     }
 

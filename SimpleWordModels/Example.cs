@@ -52,5 +52,5 @@ public class Example{
     /// </list>
     [StringLength(200)]
     public string? Source{ get; set; }
-
+    public int TranslationForeignKey { get; set; }
 }
