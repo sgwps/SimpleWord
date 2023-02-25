@@ -44,7 +44,7 @@ public class NewCollectionPostController : Controller
     [HttpPost]
     public StatusCodeResult Post()
     { //пропихнуть json
-        using (var context = new SimpleWordDBContext())
+        using (var context = new SqliteDBContext())
         {
             string data = Request.Form["msg"];
             try

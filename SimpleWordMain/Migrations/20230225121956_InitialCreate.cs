@@ -5,7 +5,7 @@
 namespace SimpleWordMain.Migrations
 {
     /// <inheritdoc />
-    public partial class InicialCreate : Migration
+    public partial class InitialCreate : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
@@ -34,7 +34,7 @@ namespace SimpleWordMain.Migrations
                 {
                     Id = table.Column<int>(type: "INTEGER", nullable: false)
                         .Annotation("Sqlite:Autoincrement", true),
-                    Word = table.Column<string>(type: "TEXT", maxLength: 50, nullable: false),
+                    Word = table.Column<string>(type: "TEXT", maxLength: 100, nullable: false),
                     CollectionId = table.Column<int>(type: "INTEGER", nullable: false),
                     Comment = table.Column<string>(type: "TEXT", maxLength: 500, nullable: true)
                 },
@@ -56,7 +56,7 @@ namespace SimpleWordMain.Migrations
                     Id = table.Column<int>(type: "INTEGER", nullable: false)
                         .Annotation("Sqlite:Autoincrement", true),
                     CardId = table.Column<int>(type: "INTEGER", nullable: false),
-                    Value = table.Column<string>(type: "TEXT", maxLength: 50, nullable: false),
+                    Value = table.Column<string>(type: "TEXT", maxLength: 100, nullable: false),
                     Comment = table.Column<string>(type: "TEXT", maxLength: 500, nullable: true)
                 },
                 constraints: table =>

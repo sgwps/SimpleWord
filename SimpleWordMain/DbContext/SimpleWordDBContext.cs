@@ -49,9 +49,9 @@ class SimpleWordDBContext : DbContext{
         modelBuilder.Entity<Example>().ToTable("examples");
 
         // согласование связей между таблицами
-        modelBuilder.Entity<Card>().HasOne(card => card.Collection).WithMany(collection => collection.Cards).HasForeignKey(card => card.CollectionForeignKey);
-        modelBuilder.Entity<Translation>().HasOne(translation => translation.Card).WithMany(card => card.Translations).HasForeignKey(translation => translation.CardForeignKey);
-        modelBuilder.Entity<Example>().HasOne(example => example.Translation).WithMany(translation => translation.Examples).HasForeignKey(example => example.TranslationForeignKey);
+        //modelBuilder.Entity<Card>().HasOne(card => card.Collection).WithMany(collection => collection.Cards).HasForeignKey(card => card.CollectionForeignKey);
+        //modelBuilder.Entity<Translation>().HasOne(translation => translation.Card).WithMany(card => card.Translations).HasForeignKey(translation => translation.CardForeignKey);
+        //modelBuilder.Entity<Example>().HasOne(example => example.Translation).WithMany(translation => translation.Examples).HasForeignKey(example => example.TranslationForeignKey);
 
         // согласование первичных ключей
         modelBuilder.Entity<Collection>().HasKey(x => x.Id);
@@ -72,15 +72,15 @@ class SimpleWordDBContext : DbContext{
         modelBuilder.Entity<Card>().Property(x => x.Id).HasColumnName("id");
         modelBuilder.Entity<Card>().Property(x => x.Word).HasColumnName("word");
         modelBuilder.Entity<Card>().Property(x => x.Comment).HasColumnName("comment");
-        modelBuilder.Entity<Card>().Property(x => x.CollectionForeignKey).HasColumnName("collection_id");
+        //modelBuilder.Entity<Card>().Property(x => x.CollectionForeignKey).HasColumnName("collection_id");
 
         modelBuilder.Entity<Translation>().Property(x => x.Id).HasColumnName("id");
         modelBuilder.Entity<Translation>().Property(x => x.Value).HasColumnName("translation_value");
         modelBuilder.Entity<Translation>().Property(x => x.Comment).HasColumnName("comment");
-        modelBuilder.Entity<Translation>().Property(x => x.CardForeignKey).HasColumnName("card_id");
+        //modelBuilder.Entity<Translation>().Property(x => x.CardForeignKey).HasColumnName("card_id");
 
         modelBuilder.Entity<Example>().Property(x => x.Id).HasColumnName("id");
-        modelBuilder.Entity<Example>().Property(x => x.TranslationForeignKey).HasColumnName("translation_id");
+        //modelBuilder.Entity<Example>().Property(x => x.TranslationForeignKey).HasColumnName("translation_id");
         modelBuilder.Entity<Example>().Property(x => x.Origin).HasColumnName("origin");
         modelBuilder.Entity<Example>().Property(x => x.ExampleTranslation).HasColumnName("example_translation");
         modelBuilder.Entity<Example>().Property(x => x.Comment).HasColumnName("comment");

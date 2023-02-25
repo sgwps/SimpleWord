@@ -10,14 +10,14 @@ using SimpleWordAPI.DBContext;
 namespace SimpleWordMain.Migrations
 {
     [DbContext(typeof(SqliteDBContext))]
-    [Migration("20230222221806_InicialCreate")]
-    partial class InicialCreate
+    [Migration("20230225121956_InitialCreate")]
+    partial class InitialCreate
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
-            modelBuilder.HasAnnotation("ProductVersion", "7.0.2");
+            modelBuilder.HasAnnotation("ProductVersion", "7.0.3");
 
             modelBuilder.Entity("SimpleWordModels.Card", b =>
                 {
@@ -34,7 +34,7 @@ namespace SimpleWordMain.Migrations
 
                     b.Property<string>("Word")
                         .IsRequired()
-                        .HasMaxLength(50)
+                        .HasMaxLength(100)
                         .HasColumnType("TEXT");
 
                     b.HasKey("Id");
@@ -133,7 +133,7 @@ namespace SimpleWordMain.Migrations
 
                     b.Property<string>("Value")
                         .IsRequired()
-                        .HasMaxLength(50)
+                        .HasMaxLength(100)
                         .HasColumnType("TEXT");
 
                     b.HasKey("Id");

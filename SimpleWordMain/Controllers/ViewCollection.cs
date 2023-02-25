@@ -8,7 +8,6 @@ namespace SimpleWordAPI.Controllers;
 [Route("get_collection")]
 public class ViewCollectionController : Controller
 {
-    private readonly SimpleWordDBContext _context = SimpleWordDBContext.context;
 
     /*internal ViewCollectionController()
     {
