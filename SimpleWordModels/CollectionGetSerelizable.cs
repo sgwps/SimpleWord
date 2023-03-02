@@ -2,6 +2,7 @@ namespace SimpleWordModels;
 
 //[Serializable]
 class CollectionGetSerializable {
+    //  чих
     public string SourceLanguage {get; private set;}
 
     public string DistanationLanguage {get; private set;}
