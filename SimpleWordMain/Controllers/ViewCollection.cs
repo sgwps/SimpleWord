@@ -2,47 +2,44 @@ using Microsoft.AspNetCore.Mvc;
 using SimpleWordModels;
 using Newtonsoft.Json;
 using SimpleWordAPI.DBContext;
+using iText.Kernel.Pdf;
+using iText.Layout;
+using iText.Layout.Element;
+using System.Net;
+using System.Net.Http.Headers;
+using System.Web.Http;
 
 namespace SimpleWordAPI.Controllers;
 
 [Route("get_collection")]
 public class ViewCollectionController : Controller
 {
-
     /*internal ViewCollectionController()
     {
         _context = context;
     }*/
 
-    public JsonResult Get(string linkName)
+    public IActionResult Get(string linkName)
     { //пропихнуть JSON
+        Collection collection;
         using (var context = new SimpleWordDBContext())
         {
-            Collection collection = context.Collections.First<Collection>(
-                i => i.LinkName == linkName
-            );
-            List<Card> cards = context.Cards.Where(i => i.Collection == collection).ToList<Card>();
-            collection.Cards = cards;
-            for (int i = 0; i < collection.Cards.Count; i++)
+            collection = context.Collections.First<Collection>(i => i.LinkName == linkName);
+            if (collection == null)
             {
-                //collection.Cards[i].Collection = null;
-                collection.Cards[i].Translations = context.Translations
-                    .Where(j => j.Card == collection.Cards[i])
-                    .ToList<Translation>();
-                for (int j = 0; j < collection.Cards[i].Translations.Count; j++)
-                {
-                    //collection.Cards[i].Translations[j].Card = null;
-
-                    collection.Cards[i].Translations[j].Examples = context.Examples
-                        .Where(k => k.Translation == collection.Cards[i].Translations[j])
-                        .ToList<Example>();
-                    for (int k = 0; k < collection.Cards[i].Translations[j].Examples.Count; k++)
-                    {
-                        //collection.Cards[i].Translations[j].Examples[k].Translation =  null;
-                    }
-                }
+                Response.StatusCode = 404;
+                return NotFound();
             }
-            return new JsonResult(collection);
         }
+
+        // Create the itext pdf
+        MemoryStream stream = new MemoryStream();
+        PdfWriter writer = new PdfWriter(stream);
+        var pdf = new PdfDocument(writer);
+        var document = new Document(pdf);
+        document.Add(new Paragraph("Hello World!"));
+        // тут ебаться с коллекцией
+        document.Close(); // don't forget to close or the doc will be corrupt! ;)
+        return new FileContentResult(stream.ToArray(), "application/pdf");
     }
 }
