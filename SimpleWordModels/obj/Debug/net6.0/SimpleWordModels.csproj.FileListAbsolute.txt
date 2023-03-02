@@ -12,3 +12,17 @@
 /home/sgwps/Desktop/DictWebApp/SimpleWordModels/obj/Debug/net6.0/SimpleWordModels.pdb
 /home/sgwps/Desktop/DictWebApp/SimpleWordModels/bin/Debug/net6.0/SimpleWordModels.runtimeconfig.json
 /home/sgwps/Desktop/DictWebApp/SimpleWordModels/obj/Debug/net6.0/SimpleWordModels.genruntimeconfig.cache
+/Users/sir/Desktop/DictWebApp/SimpleWord/SimpleWordModels/bin/Debug/net6.0/SimpleWordModels.deps.json
+/Users/sir/Desktop/DictWebApp/SimpleWord/SimpleWordModels/bin/Debug/net6.0/SimpleWordModels.runtimeconfig.json
+/Users/sir/Desktop/DictWebApp/SimpleWord/SimpleWordModels/bin/Debug/net6.0/SimpleWordModels.dll
+/Users/sir/Desktop/DictWebApp/SimpleWord/SimpleWordModels/bin/Debug/net6.0/SimpleWordModels.pdb
+/Users/sir/Desktop/DictWebApp/SimpleWord/SimpleWordModels/obj/Debug/net6.0/SimpleWordModels.csproj.AssemblyReference.cache
+/Users/sir/Desktop/DictWebApp/SimpleWord/SimpleWordModels/obj/Debug/net6.0/SimpleWordModels.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sir/Desktop/DictWebApp/SimpleWord/SimpleWordModels/obj/Debug/net6.0/SimpleWordModels.AssemblyInfoInputs.cache
+/Users/sir/Desktop/DictWebApp/SimpleWord/SimpleWordModels/obj/Debug/net6.0/SimpleWordModels.AssemblyInfo.cs
+/Users/sir/Desktop/DictWebApp/SimpleWord/SimpleWordModels/obj/Debug/net6.0/SimpleWordModels.csproj.CoreCompileInputs.cache
+/Users/sir/Desktop/DictWebApp/SimpleWord/SimpleWordModels/obj/Debug/net6.0/SimpleWordModels.dll
+/Users/sir/Desktop/DictWebApp/SimpleWord/SimpleWordModels/obj/Debug/net6.0/refint/SimpleWordModels.dll
+/Users/sir/Desktop/DictWebApp/SimpleWord/SimpleWordModels/obj/Debug/net6.0/SimpleWordModels.pdb
+/Users/sir/Desktop/DictWebApp/SimpleWord/SimpleWordModels/obj/Debug/net6.0/SimpleWordModels.genruntimeconfig.cache
+/Users/sir/Desktop/DictWebApp/SimpleWord/SimpleWordModels/obj/Debug/net6.0/ref/SimpleWordModels.dll

@@ -1,17 +1,18 @@
 using System.ComponentModel.DataAnnotations;
 using Microsoft.EntityFrameworkCore;
+using System.Text.Json;
 using System.Text.Json.Serialization;
 namespace SimpleWordModels;
 
 [Index(nameof(Collection.LinkName), IsUnique =true)]
 public class Collection {
+
     private static bool ValidateISO639Standart (string value) {
-        /*List<string> lines = File.ReadAllLines(@"../SimpleWordModels/Data/ISO639.csv")[1..].ToList<string>();
+        List<string> lines = File.ReadAllLines(@"../SimpleWordModels/Data/ISO639.csv")[1..].ToList<string>();
         foreach (string line in lines){
             if (line.Split(",")[0] == value) return true;
         }
-        return false;*/
-        return true;
+        return false;
     }
 
 
@@ -21,7 +22,7 @@ public class Collection {
     /// <item> Примечание.
     /// Поле "Id" автоматически определяется как первичный ключ. </item>
     /// </list>
-    [JsonIgnore]
+    [JsonInclude]
     public int Id {get; set;}  
 
     string? sourceLanguage;
@@ -98,6 +99,7 @@ public class Collection {
     /// </list>
     [Required]
     [StringLength(30)]
+    [JsonInclude]
     public string? LinkName {
         get{
             return linkName;
@@ -112,5 +114,27 @@ public class Collection {
     /// <item> Отношение "один ко многим" </item>
     /// </list>
     public List<Card> Cards {get; set; } = new();
+
+
+    public string ViewCollectionJSON{
+        get{
+            CollectionGetSerializable temp = new CollectionGetSerializable(this);
+            var options = new JsonSerializerOptions { 
+                WriteIndented = true, 
+            };
+            return  JsonSerializer.Serialize<CollectionGetSerializable>(temp, options);
+        }
+    }
+
+    public string UpdateCollectionJSON{
+        get{
+            CollectionUpdateSerializable temp = new CollectionUpdateSerializable(this);
+            var options = new JsonSerializerOptions{
+                WriteIndented = true,
+            };
+            return JsonSerializer.Serialize<CollectionUpdateSerializable>(temp, options);
+        }
+    }
+
 
 }
