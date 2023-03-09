@@ -60,9 +60,9 @@ public class ViewCollectionController : Controller
         }
         
         
-        document.SetTopMargin(0);
-        document.SetLeftMargin(0);
-        document.SetRightMargin(0);
+        //document.SetTopMargin(0);
+        //document.SetLeftMargin(0);
+        //document.SetRightMargin(0);
         document.SetBorderTop(Border.NO_BORDER);
 
 
@@ -70,20 +70,11 @@ public class ViewCollectionController : Controller
 
 
 
-        Image image = SvgConverter.ConvertToImage(new FileStream("logo.svg", FileMode.Open), pdf);
-        image.SetFixedPosition(20, pdf.GetDefaultPageSize().GetHeight() - 40);
-        image.ScaleToFit(40, 40);
         
+
 
         List<Card> cards = context.Cards.Where(i => i.Collection == collection).ToList<Card>();
         collection.Cards = cards;
-        collection.Cards.Add(cards[0]);
-        collection.Cards.Add(cards[0]);
-        collection.Cards.Add(cards[0]);
-        collection.Cards.Add(cards[0]);
-        collection.Cards.Add(cards[0]);
-        collection.Cards.Add(cards[0]);
-        collection.Cards.Add(cards[0]);
 
 
         for (int i = 0; i < cards.Count; i++)
@@ -102,7 +93,6 @@ public class ViewCollectionController : Controller
         }
         CollectionPdf pdfMaker = new CollectionPdf(collection, document);
         document = pdfMaker.GetPdf;
-        document.Add(image);
         
     
         }

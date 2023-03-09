@@ -1,64 +1,167 @@
 {
-	"LinkName": "test8",
-	"SourceLanguage": "rus",
-	"DistanationLanguage": "fra",
-	"Name": "coll15feb",
-	"Description": "blablabla",
+	"LinkName": "test9",
+	"SourceLanguage": "end",
+	"DistanationLanguage": "rus",
+	"Name": "Unit 5. Global Mobility",
+	"Description": "Слова для теста по пятому разделу 23 марта. ",
 	"Author": "sgwps",
 	"Cards": [
 		{
-			"Word": "зверек",
-			"Comment": "blabla",
+			"Word": "Auditing",
+			"Comment": "The job of reviewing and evaluating the information used to prepare a company's financial statements",
 			"Translations": [
 				{
-					"Value": "zverek",
-					"Comment": "bla bla 2",
+					"Value": "Аудит",
+					"Comment": "Из деловой сферы",
 					"Examples": [
 						{
-							"Origin": "Зверек скачет",
-							"ExampleTranslation": "Zverek skachet",
-							"Comment": "красивое",
-							"Source": "пьяный бред"
+							"Origin": "I'm in the middle of auditing your company and you're offering work?",
+							"ExampleTranslation": "Вы предлагаете мне работу во время аудита вашей компании?",
+							"Comment": "Из разговорной речи",
+							"Source": "White Collar TV series"
 						},
 						{
-							"Origin": "Зверек прыгает",
-							"ExampleTranslation": "Zverek skachet",
-							"Comment": "красивое",
-							"Source": "пьяный бред"
+							"Origin": "Said they were lost, here for auditing.",
+							"ExampleTranslation": "Они сказали, что заблудились и пришли сюда для Аудита.",
+							"Source": "Chuck TV series"
+						},
+						{
+							"Origin": "This allows for easy recovery and auditing.",
+							"ExampleTranslation": "Это обеспечивает простое восстановление и аудит.",
+						}
+					]
+				},
+				{
+					"Value": "Ревизия",
+					"Comment": "",
+					"Examples": [
+						{
+							"Origin": "The Fund shall be subject to the auditing procedures provided therein.",
+							"ExampleTranslation": "К Фонду применяются процедуры ревизии, предусмотренные в них.",
+							"Comment": "auditing procedures можно заменить на auditing",
+							"Source": "United Nations. Oceans and the law of the sea"
+						},
+						{
+							"Origin": "At the same time, a proper independent auditing of the judiciary should be guaranteed.",
+							"ExampleTranslation": "В то же время следует гарантировать надлежащую независимую ревизию судебной системы.",
+							"Source": "United Nations. Economic and Social Council."
 						}
 					]
 				}
 			]
 		},
 		{
-			"Word": "уточка",
-			"Comment": "blabla 3",
+			"Word": "Relocation",
+			"Comment": "to move to a different location",
 			"Translations": [
 				{
-					"Value": "duck",
-					"Comment": "bla bla 5",
+					"Value": "Перемещение"
+				},
+				{
+					"Value": "Переселение",
 					"Examples": [
 						{
-							"Origin": "уточка скачет",
-							"ExampleTranslation": "duck skachet",
-							"Comment": "красивое",
-							"Source": "русские сказки"
+							"Origin": "Not a single one of them has ever resisted relocation.",
+							"ExampleTranslation": "Ни один из них никогда не сопротивлялся переселению.",
+							"Source": "Falling Skies"
 						}
 					]
 				},
 				{
-					"Value": "stupid programmer",
-					"Comment": "разг.",
+					"Value": "Переезд",
+					"Comment": "В другой город или страну",
 					"Examples": [
 						{
-							"Origin": "уточка косячит",
-							"ExampleTranslation": "duck fails",
-							"Comment": "красивое",
-							"Source": "жизнь"
+							"Origin": "You're assisting with the relocation.",
+							"ExampleTranslation": "Помогаете с переездом?",
+							"Source": "Doctor Who"
+						},
+						{
+							"Origin": "I want a relocation fee.",
+							"ExampleTranslation": "Я хочу оплату за переезд.",
+							"Comment": "Грубо для письменной речи",
+							"Source": "Suits"
+						},
+						{
+							"Origin": "One requested a relocation to Western Europe.",
+							"ExampleTranslation": "Один запросил переезд в Западную Европу.",
+							"Source": "Homeland"
 						}
 					]
 				}
 			]
+		},
+		{
+			"Word": "Secondment",
+			"Translations": [
+				
+				{
+					"Value": "Командирование",
+					"Examples": [
+						{
+							"Origin": "A couple of months' secondment to the bureau.",
+							"ExampleTranslation": "Пара месяцев в командировке от бюро.",
+							"Source": "The hour"
+						},
+						{
+							"Origin": "Taylor is on secondment from the management consultancy Stanton Marris.",
+							"ExampleTranslation": "Тейлор откомандирован консультантом по менеджменту Стэнтоном Маррисом.",
+							"Source": "The Guardian"
+						},
+						{
+							"Origin": "There should be 100% funded secondments across the board.",
+							"ExampleTranslation": "По всем направлениям должны быть 100% финансируемые прикомандирования.",
+							"Source": "The Guardian"
+						}
+					]
+				},
+				{
+					"Value": "Стажировка"
+				}
+			]
+		},
+		{
+			"Word": "Secondment",
+			"Comment" : "The temporary transfer of an official or worker to another position or employment.",
+			"Translations": [
+				
+				{
+					"Value": "Командирование",
+					"Examples": [
+						{
+							"Origin": "A couple of months' secondment to the bureau.",
+							"ExampleTranslation": "Пара месяцев в командировке от бюро.",
+							"Source": "The hour"
+						},
+						{
+							"Origin": "Taylor is on secondment from the management consultancy Stanton Marris.",
+							"ExampleTranslation": "Тейлор откомандирован консультантом по менеджменту Стэнтоном Маррисом.",
+							"Source": "The Guardian"
+						},
+						{
+							"Origin": "There should be 100% funded secondments across the board.",
+							"ExampleTranslation": "По всем направлениям должны быть 100% финансируемые прикомандирования.",
+							"Source": "The Guardian"
+						}
+					]
+				},
+				{
+					"Value": "Стажировка"
+				}
+			]
+		},
+		{
+			"Word" : "Secondee",
+			"Comment": "An employee who is sent to the host company",
+			"Translations":[
+				{
+					"Value" : "Прикомандированный"
+				}
+			]
+		},
+		{
+			"Word" : "Global mobility team",
+			"Comment" : "An HR Team function that enables companies to transfer employees across borders from one location to another."
 		}
 	]
 }

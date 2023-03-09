@@ -47,13 +47,13 @@ public class NewCollectionPostController : Controller
         using (var context = new SqliteDBContext())
         {
             string data = Request.Form["msg"];
-            try
-            {
+            //try
+            //{
                 Collection json = JsonSerializer.Deserialize<Collection>(data);
                 context.Collections.Add(json);
                 context.SaveChanges();
                 return StatusCode(200);
-            }
+           /* }
             catch (JsonException)
             {
                 return StatusCode(401);
@@ -61,7 +61,7 @@ public class NewCollectionPostController : Controller
             catch (DbUpdateException)
             {
                 return StatusCode(403);
-            }
+            }*/
         }
     }
 }
