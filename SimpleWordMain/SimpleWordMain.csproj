@@ -26,6 +26,8 @@
 
   <ItemGroup>
     <ProjectReference Include="..\SimpleWordModels\SimpleWordModels.csproj" />
+        <ProjectReference Include="..\SimpleWordPdfGenerator\SimpleWordPdfGenerator.csproj" />
+
   </ItemGroup>
 
 </Project>

@@ -301,3 +301,5 @@
 /Users/sir/Desktop/DictWebApp/SimpleWord/SimpleWordMain/obj/Debug/net6.0/refint/SimpleWordMain.dll
 /Users/sir/Desktop/DictWebApp/SimpleWord/SimpleWordMain/obj/Debug/net6.0/SimpleWordMain.genruntimeconfig.cache
 /Users/sir/Desktop/DictWebApp/SimpleWord/SimpleWordMain/obj/Debug/net6.0/ref/SimpleWordMain.dll
+/home/sgwps/Desktop/DictWebApp/SimpleWordMain/bin/Debug/net6.0/SimpleWordPdfGenerator.dll
+/home/sgwps/Desktop/DictWebApp/SimpleWordMain/bin/Debug/net6.0/SimpleWordPdfGenerator.pdb

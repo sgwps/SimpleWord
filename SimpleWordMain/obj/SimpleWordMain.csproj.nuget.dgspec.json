@@ -1,34 +1,36 @@
 {
   "format": 1,
   "restore": {
-    "/Users/sir/Desktop/DictWebApp/SimpleWord/SimpleWordMain/SimpleWordMain.csproj": {}
+    "/home/sgwps/Desktop/DictWebApp/SimpleWordMain/SimpleWordMain.csproj": {}
   },
   "projects": {
-    "/Users/sir/Desktop/DictWebApp/SimpleWord/SimpleWordMain/SimpleWordMain.csproj": {
+    "/home/sgwps/Desktop/DictWebApp/SimpleWordMain/SimpleWordMain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/sir/Desktop/DictWebApp/SimpleWord/SimpleWordMain/SimpleWordMain.csproj",
+        "projectUniqueName": "/home/sgwps/Desktop/DictWebApp/SimpleWordMain/SimpleWordMain.csproj",
         "projectName": "SimpleWordMain",
-        "projectPath": "/Users/sir/Desktop/DictWebApp/SimpleWord/SimpleWordMain/SimpleWordMain.csproj",
-        "packagesPath": "/Users/sir/.nuget/packages/",
-        "outputPath": "/Users/sir/Desktop/DictWebApp/SimpleWord/SimpleWordMain/obj/",
+        "projectPath": "/home/sgwps/Desktop/DictWebApp/SimpleWordMain/SimpleWordMain.csproj",
+        "packagesPath": "/home/sgwps/.nuget/packages/",
+        "outputPath": "/home/sgwps/Desktop/DictWebApp/SimpleWordMain/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/sir/.nuget/NuGet/NuGet.Config"
+          "/home/sgwps/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "/usr/local/share/dotnet/library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "/Users/sir/Desktop/DictWebApp/SimpleWord/SimpleWordModels/SimpleWordModels.csproj": {
-                "projectPath": "/Users/sir/Desktop/DictWebApp/SimpleWord/SimpleWordModels/SimpleWordModels.csproj"
+              "/home/sgwps/Desktop/DictWebApp/SimpleWordModels/SimpleWordModels.csproj": {
+                "projectPath": "/home/sgwps/Desktop/DictWebApp/SimpleWordModels/SimpleWordModels.csproj"
+              },
+              "/home/sgwps/Desktop/DictWebApp/SimpleWordPdfGenerator/SimpleWordPdfGenerator.csproj": {
+                "projectPath": "/home/sgwps/Desktop/DictWebApp/SimpleWordPdfGenerator/SimpleWordPdfGenerator.csproj"
               }
             }
           }
@@ -100,8 +102,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -113,27 +114,26 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.103/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/6.0.113/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/sir/Desktop/DictWebApp/SimpleWord/SimpleWordModels/SimpleWordModels.csproj": {
+    "/home/sgwps/Desktop/DictWebApp/SimpleWordModels/SimpleWordModels.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/sir/Desktop/DictWebApp/SimpleWord/SimpleWordModels/SimpleWordModels.csproj",
+        "projectUniqueName": "/home/sgwps/Desktop/DictWebApp/SimpleWordModels/SimpleWordModels.csproj",
         "projectName": "SimpleWordModels",
-        "projectPath": "/Users/sir/Desktop/DictWebApp/SimpleWord/SimpleWordModels/SimpleWordModels.csproj",
-        "packagesPath": "/Users/sir/.nuget/packages/",
-        "outputPath": "/Users/sir/Desktop/DictWebApp/SimpleWord/SimpleWordModels/obj/",
+        "projectPath": "/home/sgwps/Desktop/DictWebApp/SimpleWordModels/SimpleWordModels.csproj",
+        "packagesPath": "/home/sgwps/.nuget/packages/",
+        "outputPath": "/home/sgwps/Desktop/DictWebApp/SimpleWordModels/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/sir/.nuget/NuGet/NuGet.Config"
+          "/home/sgwps/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "/usr/local/share/dotnet/library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -167,8 +167,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -177,7 +176,69 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.103/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/6.0.113/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/sgwps/Desktop/DictWebApp/SimpleWordPdfGenerator/SimpleWordPdfGenerator.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/sgwps/Desktop/DictWebApp/SimpleWordPdfGenerator/SimpleWordPdfGenerator.csproj",
+        "projectName": "SimpleWordPdfGenerator",
+        "projectPath": "/home/sgwps/Desktop/DictWebApp/SimpleWordPdfGenerator/SimpleWordPdfGenerator.csproj",
+        "packagesPath": "/home/sgwps/.nuget/packages/",
+        "outputPath": "/home/sgwps/Desktop/DictWebApp/SimpleWordPdfGenerator/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/sgwps/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/home/sgwps/Desktop/DictWebApp/SimpleWordModels/SimpleWordModels.csproj": {
+                "projectPath": "/home/sgwps/Desktop/DictWebApp/SimpleWordModels/SimpleWordModels.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "iText7": {
+              "target": "Package",
+              "version": "[7.2.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/6.0.113/RuntimeIdentifierGraph.json"
         }
       }
     }

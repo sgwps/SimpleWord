@@ -5,9 +5,12 @@ using SimpleWordAPI.DBContext;
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
-builder.Services.AddDbContext<SimpleWordDBContext>(options => builder.Configuration.GetConnectionString("PostgreSQL"));
 builder.Services.AddControllersWithViews();
-
+builder.Services.AddControllers();
+builder.Services.AddDbContext<SimpleWordDBContext>(options => builder.Configuration.GetConnectionString("Sqlite"));
+builder.Services.AddControllersWithViews();
+builder.Services.AddControllers();
+builder.Services.AddScoped<SimpleWordDBContext>( );
 var app = builder.Build();
 // ContextStaticClass._context = app.Services.GetService<SimpleWordDBContext>();
 

@@ -19,6 +19,7 @@
           "Newtonsoft.Json": "13.0.2",
           "Npgsql.EntityFrameworkCore.PostgreSQL": "7.0.3",
           "SimpleWordModels": "1.0.0",
+          "SimpleWordPdfGenerator": "1.0.0",
           "Swashbuckle.AspNetCore": "6.2.3",
           "itext7": "7.2.5"
         },
@@ -2055,6 +2056,15 @@
         "runtime": {
           "SimpleWordModels.dll": {}
         }
+      },
+      "SimpleWordPdfGenerator/1.0.0": {
+        "dependencies": {
+          "SimpleWordModels": "1.0.0",
+          "itext7": "7.2.5"
+        },
+        "runtime": {
+          "SimpleWordPdfGenerator.dll": {}
+        }
       }
     }
   },
@@ -3402,6 +3412,11 @@
       "hashPath": "system.xml.xmldocument.4.3.0.nupkg.sha512"
     },
     "SimpleWordModels/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SimpleWordPdfGenerator/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
