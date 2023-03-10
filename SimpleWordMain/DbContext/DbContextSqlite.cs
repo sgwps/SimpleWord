@@ -15,20 +15,18 @@ public class SqliteDBContextFactory : IDesignTimeDbContextFactory<SqliteDBContex
         var optionsBuilder = new DbContextOptionsBuilder<SqliteDBContext>();
         optionsBuilder.UseSqlite(@"Data Source=TestData/data.sqlite;");
 
-        return new SqliteDBContext(optionsBuilder.Options);
+        //return new SqliteDBContext(optionsBuilder.Options);
+        return new SqliteDBContext();
     }
 }
 
-public class SqliteDBContext : DbContext{
+public class SqliteDBContext : SimpleWordDbContextAbstract{
 
-    public DbSet<Collection> Collections {get; set; } 
-    public DbSet<Card> Cards {get; set; } 
-    public DbSet<Translation> Translations {get; set; } 
-    public DbSet<Example> Examples {get; set; } 
+    
 
 
-    public SqliteDBContext(DbContextOptions<SqliteDBContext> options) : base(options){
-    }
+    /*public SqliteDBContext(DbContextOptions<SqliteDBContext> options) : base(options){
+    }*/
 
     public SqliteDBContext() : base(){
     }

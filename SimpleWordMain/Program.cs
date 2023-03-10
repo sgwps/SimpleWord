@@ -7,7 +7,9 @@ var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 builder.Services.AddControllers();
-builder.Services.AddDbContext<SimpleWordDBContext>(options => builder.Configuration.GetConnectionString("Sqlite"));
+//builder.Services.AddDbContext<SimpleWordDBContext>(options => builder.Configuration.GetConnectionString("Sqlite"));
+builder.Services.AddDbContext<SimpleWordDBContext>();
+
 builder.Services.AddControllersWithViews();
 builder.Services.AddControllers();
 builder.Services.AddScoped<SimpleWordDBContext>( );

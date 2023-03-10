@@ -8,8 +8,9 @@ namespace SimpleWordAPI.DBContext;
 
 
 
-class SimpleWordDBContext : DbContext{
+class SimpleWordDBContext : SimpleWordDbContextAbstract{
    // public DbSet<Word> Words {get; set; } 
+
     public DbSet<Collection> Collections {get; set; } 
     public DbSet<Example> Examples {get; set; } 
     public DbSet<Card> Cards {get; set; } 
@@ -18,10 +19,10 @@ class SimpleWordDBContext : DbContext{
 
     //public static SimpleWordDBContext context;
 
-    public SimpleWordDBContext(DbContextOptions<SimpleWordDBContext> options) : base(options){
+    /*public SimpleWordDBContext(DbContextOptions<SimpleWordDBContext> options) : base(options){
         Database.EnsureCreated();
         //context = this;
-    }
+    }*/
 
     public SimpleWordDBContext() : base(){
         //context = this;
