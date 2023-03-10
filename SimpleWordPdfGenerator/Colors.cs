@@ -1,50 +1,56 @@
+using System.Runtime.Serialization;
 using iText.Kernel.Colors;
 
 namespace SimpleWordPdfGenerator;
 
-static internal class Colors{
-    private static Color GetColor(int red, int green, int blue){
-        return new DeviceRgb(red, green, blue);
+[Serializable]
+public struct RGBColor{
+    public byte Red {get; set;}    
+    public byte Green {get; set;}
+
+    public byte Blue {get; set;}
+
+    public static implicit operator DeviceRgb(RGBColor color) => new DeviceRgb(color.Red, color.Green, color.Blue);
+    public RGBColor(){Red = 0; Green = 0; Blue = 0;}
+}
+
+[Serializable]
+public class ColorTheme{
+
+
+
+    private static Color GetColor((int, int, int) tuple){
+        return new DeviceRgb(tuple.Item1, tuple.Item2, tuple.Item3);
     }
 
-    public static Color BackgroundAccent{
-        get{
-            return GetColor(245,245,220);
-        }
+    public RGBColor BackgroundAccent{
+        get;  init;
     } 
 
 
-    public static Color Accent{
-        get{
-            return GetColor(154, 41, 0);
-        }
+    public RGBColor Accent{
+        get;  init;
+
     }
 
-    public static Color Netural{
-        get{
-            return GetColor(255, 204, 153);
-        }
+    public RGBColor Netural{
+        get;  init;
+
     }
 
+    public RGBColor MainText{
+        get;  init;
 
-    public static Color MainText{
-        get{
-            return GetColor(10, 10, 10);
-        }
     }
 
+    public RGBColor SubText{
+        get;  init;
 
-    public static Color SubText{
-        get{
-            return GetColor(67, 67, 67);
-        }
     }
 
+    public RGBColor BackgroundMain{
+        get;  init;
 
-    public static Color BackgroundMain{
-        get{
-            return GetColor(255, 255, 255);
-        }
     }
 
 } 

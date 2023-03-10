@@ -1,0 +1,76 @@
+<?xml version="1.0"?>
+<ColorTheme xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    
+    <BackgroundAccent>
+        <Red>
+            245
+        </Red>
+        <Green>
+            245
+        </Green>
+        <Blue>
+            220
+        </Blue>
+    </BackgroundAccent>
+
+    <Accent>
+        <Red>
+            154
+        </Red>
+        <Green>
+            41
+        </Green>
+        <Blue>
+            0
+        </Blue>
+    </Accent>
+
+    <Netural>
+        <Red>
+            255
+        </Red>
+        <Green>
+            204
+        </Green>
+        <Blue>
+            153
+        </Blue>
+    </Netural>
+
+    <MainText>
+        <Red>
+            10
+        </Red>
+        <Green>
+            10
+        </Green>
+        <Blue>
+            10
+        </Blue>
+    </MainText>
+
+    <SubText>
+        <Red>
+            67
+        </Red>
+        <Green>
+            67
+        </Green>
+        <Blue>
+            67
+        </Blue>
+    </SubText>
+
+    <BackgroundMain>
+        <Red>
+            255
+        </Red>
+        <Green>
+            255
+        </Green>
+        <Blue>
+            255
+        </Blue>
+    </BackgroundMain>
+</ColorTheme>

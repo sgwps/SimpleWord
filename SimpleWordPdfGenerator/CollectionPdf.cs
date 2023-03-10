@@ -11,8 +11,12 @@ using iText.Svg.Converter;
 
 namespace SimpleWordPdfGenerator;
 
-public class CollectionPdf : Collection
+public class CollectionPdf
 {
+    Collection _collection;
+    ColorTheme _colorTheme;
+
+
     private Paragraph Title(float topMargin){
             Paragraph titleParagraph = new Paragraph();
 
@@ -22,9 +26,9 @@ public class CollectionPdf : Collection
             titleParagraph.SetTextAlignment(TextAlignment.CENTER);
             titleParagraph.SetBorder(Border.NO_BORDER);
 
-            titleParagraph.SetBackgroundColor(Colors.Accent);
+            titleParagraph.SetBackgroundColor(_colorTheme.Accent);
 
-            Text titleText = TextElementFactory.Generare(Name, Fonts.Bold, FontSize.Title, Colors.BackgroundAccent);
+            Text titleText = TextElementFactory.Generare(_collection.Name, Fonts.Bold, FontSize.Title, _colorTheme.BackgroundAccent);
 
             titleParagraph.Add(titleText);
 
@@ -42,10 +46,10 @@ public class CollectionPdf : Collection
             paragraph.SetBorder(Border.NO_BORDER);
             paragraph.SetFixedLeading(20);
 
-            paragraph.SetBackgroundColor(Colors.Accent);
+            paragraph.SetBackgroundColor(_colorTheme.Accent);
             
-            Text authorText = TextElementFactory.Generare($"by {Author}", Fonts.Light, FontSize.Normal, Colors.Netural);
-            Text languageText = TextElementFactory.Generare(LanguageDecription, Fonts.Light, FontSize.Normal, Colors.Netural);
+            Text authorText = TextElementFactory.Generare($"by {_collection.Author}", Fonts.Light, FontSize.Normal, _colorTheme.Netural);
+            Text languageText = TextElementFactory.Generare(_collection.LanguageDecription, Fonts.Light, FontSize.Normal, _colorTheme.Netural);
 
             paragraph.Add(authorText);
             paragraph.Add(languageText);
@@ -62,9 +66,9 @@ public class CollectionPdf : Collection
             paragraph.SetMarginTop(0);
             paragraph.SetFixedLeading(12);
 
-            paragraph.SetBackgroundColor(Colors.BackgroundAccent);
+            paragraph.SetBackgroundColor(_colorTheme.BackgroundAccent);
             
-            Text descriptionText = TextElementFactory.Generare(Description, Fonts.Book, FontSize.Normal, Colors.Accent);
+            Text descriptionText = TextElementFactory.Generare(_collection.Description, Fonts.Book, FontSize.Normal, _colorTheme.Accent);
 
             paragraph.Add(descriptionText);
 
@@ -73,7 +77,10 @@ public class CollectionPdf : Collection
     }
 
 
-   
+   public CollectionPdf(Collection collection, ColorTheme colorTheme){
+    _collection = collection;
+    _colorTheme = colorTheme;
+   }
 
     
 
@@ -85,11 +92,13 @@ public class CollectionPdf : Collection
             document.Add(SubTitle);
             document.Add(DescriptionParagraph);
             document.AddLogo();
-            document.SetBackgroundColor(Colors.BackgroundMain);
+            document.SetBackgroundColor(_colorTheme.BackgroundMain);
 
-            foreach (Card i in Cards){
-                ((CardPdf)i).AddPdfComponent(document);
+            foreach (Card i in _collection.Cards){
+                
+                (new CardPdf(i, _colorTheme)).AddPdfComponent(document);
             }
     }
+
 
 }

@@ -8,4 +8,13 @@ public class SimpleWordDbContextAbstract : DbContext{
     public DbSet<Card> Cards {get; set; } 
     public DbSet<Translation> Translations {get; set; } 
     public DbSet<Example> Examples {get; set; } 
+
+
+    public SimpleWordDbContextAbstract() : base(){
+
+    }
+
+    public SimpleWordDbContextAbstract(DbContextOptions options) : base(options){
+
+    } 
 }

@@ -25,8 +25,8 @@ public class SqliteDBContext : SimpleWordDbContextAbstract{
     
 
 
-    /*public SqliteDBContext(DbContextOptions<SqliteDBContext> options) : base(options){
-    }*/
+    public SqliteDBContext(DbContextOptions<SqliteDBContext> options) : base(options){
+    }
 
     public SqliteDBContext() : base(){
     }

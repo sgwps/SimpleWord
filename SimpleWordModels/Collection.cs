@@ -138,6 +138,6 @@ public class Collection {
     /// <item> Все слова (карточки), содержащиеся в данной коллекции. </item>
     /// <item> Отношение "один ко многим" </item>
     /// </list>
-    public List<Card> Cards {get; protected set; } = new();
+    public List<Card> Cards {get; set; } = new();
 
 }

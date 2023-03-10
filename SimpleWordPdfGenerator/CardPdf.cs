@@ -8,7 +8,9 @@ using SimpleWordModels;
 
 namespace SimpleWordPdfGenerator;
 
-class CardPdf : Card{
+class CardPdf{
+    Card _card;
+    ColorTheme _colorTheme;
     private Cell CommentCell{
         get{
             Cell cell = new Cell();
@@ -17,12 +19,12 @@ class CardPdf : Card{
             cell.SetPaddingLeft(6);
 
             cell.SetBorder(Border.NO_BORDER);
-            cell.SetBorderLeft(new SolidBorder(Colors.Accent, (float)0.5));
+            cell.SetBorderLeft(new SolidBorder(_colorTheme.Accent, (float)0.5));
 
 
             Paragraph paragraph = new Paragraph();
 
-            paragraph.Add(TextElementFactory.Generare(Comment, Fonts.Medium, FontSize.SubText1, Colors.Accent));
+            paragraph.Add(TextElementFactory.Generare(_card.Comment, Fonts.Medium, FontSize.SubText1, _colorTheme.Accent));
             cell.Add(paragraph);   
 
             return cell;
@@ -44,7 +46,7 @@ class CardPdf : Card{
             paragraph.SetPaddings(0, 6, 0, 0);
             paragraph.SetFixedLeading(16);
 
-            paragraph.Add(TextElementFactory.Generare(Word, Fonts.Medium, FontSize.AccentText1, Colors.MainText));
+            paragraph.Add(TextElementFactory.Generare(_card.Word, Fonts.Medium, FontSize.AccentText1, _colorTheme.MainText));
             cell.Add(paragraph);
 
             return cell;
@@ -58,10 +60,10 @@ class CardPdf : Card{
             table.SetWidth(width); 
 
             table.SetBorder(Border.NO_BORDER);
-            table.SetBackgroundColor(Colors.Netural);  //было 255, 204, 153
+            table.SetBackgroundColor(_colorTheme.Netural);  //было 255, 204, 153
 
             table.AddCell(WordCell);
-            if (!(Comment is null) && Comment.Length != 0) {
+            if (!(_card.Comment is null) && _card.Comment.Length != 0) {
                 table.AddCell(CommentCell);
             }
 
@@ -71,7 +73,7 @@ class CardPdf : Card{
     private LineSeparator Separator{
         get{
             SolidLine line = new SolidLine(1f);
-            line.SetColor(Colors.Accent);
+            line.SetColor(_colorTheme.Accent);
             LineSeparator separator = new LineSeparator(line);
             separator.SetMarginLeft(20);
             separator.SetMarginRight(12);
@@ -80,7 +82,10 @@ class CardPdf : Card{
     }
 
 
-
+    public CardPdf(Card card, ColorTheme colorTheme){
+        _card = card;
+        _colorTheme = colorTheme;
+    }
 
 
     
@@ -89,10 +94,9 @@ class CardPdf : Card{
     public void AddPdfComponent(Document document) {
         
         document.Add(Table(document.GetPdfDocument().GetDefaultPageSize().GetWidth() - 24));
-        foreach (Translation i in Translations.ToArray()[..^1]){
-            ((TranslationPdf)i).AddPdfComponent(document);
-            document.Add(Separator);
+        foreach (Translation i in _card.Translations){
+            (new TranslationPdf(i, _colorTheme)).AddPdfComponent(document);
+            if (i != _card.Translations[^1]) document.Add(Separator);
         }
-        ((TranslationPdf)Translations.ToArray()[^1]).AddPdfComponent(document);
         }
     }

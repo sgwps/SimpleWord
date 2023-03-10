@@ -19,41 +19,41 @@ using iText.Layout.Properties;
 using iText.Kernel.XMP;
 using iText.Kernel.Colors;
 using SimpleWordAPI.DBContext;
-using SimpleWordPdfGenerator; 
+using SimpleWordPdfGenerator;
 using SimpleWordDatabase.ListParser;
-
+using System.Xml.Serialization;
 
 namespace SimpleWordAPI.Controllers;
 
 [Route("get_collection")]
 public class ViewCollectionController : Controller
 {
-
-
     public IActionResult Get(string linkName)
     { //пропихнуть JSON
         MemoryStream stream = new MemoryStream();
         PdfWriter writer = new PdfWriter(stream);
-        var pdf = new PdfDocument(writer);       
+        PdfDocument pdf = new PdfDocument(writer);
+        ColorTheme colorTheme = new ColorTheme();
+        using (FileStream fs = new FileStream("ColorThemes/Brick.xml", FileMode.Open))
+        {
+            XmlSerializer xmlSerializer = new XmlSerializer(typeof(ColorTheme));
+            colorTheme = (ColorTheme) xmlSerializer.Deserialize(fs) ?? new ColorTheme();
+        }
         var document = new Document(pdf);
-        FontProvider fontProvider = new FontProvider();
-        fontProvider.AddFont(iText.IO.Font.Constants.StandardFonts.TIMES_ROMAN);
-        document.SetFontProvider(fontProvider);
-        using (SqliteDBContext context = new SqliteDBContext()){
-            CollectionParser collection = (CollectionParser) context.Collections.First<Collection>(i => i.LinkName == linkName);
+        using (SqliteDBContext context = new SqliteDBContext())
+        {
+            Collection collection = context.Collections.First<Collection>(
+                i => i.LinkName == linkName
+            );
             if (collection == null)
             {
                 Response.StatusCode = 404;
                 return NotFound();
             }
             collection.SetLists(context);
-            ((CollectionPdf)(Collection)collection).AddContent(document);
-        
-    
+            (new CollectionPdf(collection, colorTheme)).AddContent(document);
         }
-        // тут ебаться с коллекцией
         document.Close(); // don't forget to close or the doc will be corrupt! ;)
         return new FileContentResult(stream.ToArray(), "application/pdf");
     }
 }
-

@@ -19,10 +19,10 @@ class SimpleWordDBContext : SimpleWordDbContextAbstract{
 
     //public static SimpleWordDBContext context;
 
-    /*public SimpleWordDBContext(DbContextOptions<SimpleWordDBContext> options) : base(options){
+    public SimpleWordDBContext(DbContextOptions<SimpleWordDBContext> options) : base(options){
         Database.EnsureCreated();
         //context = this;
-    }*/
+    }
 
     public SimpleWordDBContext() : base(){
         //context = this;

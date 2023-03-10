@@ -43,6 +43,6 @@ public class Translation{
     /// <item> Все примеры использования, относящиеся к данному переводу. </item>
     /// <item> Отношение "один ко многим" </item>
     /// </list>
-    public List<Example> Examples {get; protected set;} = new();
+    public List<Example> Examples {get; set;} = new();
 
 }
