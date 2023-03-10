@@ -1,4 +1,5 @@
 /home/sgwps/Desktop/DictWebApp/SimpleWordModels/bin/Debug/net6.0/SimpleWordModels.deps.json
+/home/sgwps/Desktop/DictWebApp/SimpleWordModels/bin/Debug/net6.0/SimpleWordModels.runtimeconfig.json
 /home/sgwps/Desktop/DictWebApp/SimpleWordModels/bin/Debug/net6.0/SimpleWordModels.dll
 /home/sgwps/Desktop/DictWebApp/SimpleWordModels/bin/Debug/net6.0/ref/SimpleWordModels.dll
 /home/sgwps/Desktop/DictWebApp/SimpleWordModels/bin/Debug/net6.0/SimpleWordModels.pdb
@@ -10,3 +11,4 @@
 /home/sgwps/Desktop/DictWebApp/SimpleWordModels/obj/Debug/net6.0/SimpleWordModels.dll
 /home/sgwps/Desktop/DictWebApp/SimpleWordModels/obj/Debug/net6.0/ref/SimpleWordModels.dll
 /home/sgwps/Desktop/DictWebApp/SimpleWordModels/obj/Debug/net6.0/SimpleWordModels.pdb
+/home/sgwps/Desktop/DictWebApp/SimpleWordModels/obj/Debug/net6.0/SimpleWordModels.genruntimeconfig.cache

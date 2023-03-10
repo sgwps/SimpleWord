@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleWordPdfGenerator", "SimpleWordPdfGenerator\SimpleWordPdfGenerator.csproj", "{724CAD4F-B1E1-470C-9CA6-709B73EE7FCA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleWordColorTheme", "SimpleWordColorTheme\SimpleWordColorTheme.csproj", "{A4496A13-3A02-4806-AA99-8C3FBAE144CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleWordFont", "SimpleWordFont\SimpleWordFont.csproj", "{B8FA13FF-F29E-4A8C-9950-ECE97B1A0C68}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleWordMain", "SimpleWordMain\SimpleWordMain.csproj", "{774700AE-18EB-4C40-B9BB-4ADB15905765}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleWordModels", "SimpleWordModels\SimpleWordModels.csproj", "{F7999E8C-BD00-434A-8A66-2C7921D826AC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleWordDbContext", "SimpleWordDbContext\SimpleWordDbContext.csproj", "{9329A2C7-A980-4678-94AD-D1D06BC5E33B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{724CAD4F-B1E1-470C-9CA6-709B73EE7FCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{724CAD4F-B1E1-470C-9CA6-709B73EE7FCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{724CAD4F-B1E1-470C-9CA6-709B73EE7FCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{724CAD4F-B1E1-470C-9CA6-709B73EE7FCA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4496A13-3A02-4806-AA99-8C3FBAE144CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4496A13-3A02-4806-AA99-8C3FBAE144CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4496A13-3A02-4806-AA99-8C3FBAE144CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4496A13-3A02-4806-AA99-8C3FBAE144CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8FA13FF-F29E-4A8C-9950-ECE97B1A0C68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8FA13FF-F29E-4A8C-9950-ECE97B1A0C68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8FA13FF-F29E-4A8C-9950-ECE97B1A0C68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8FA13FF-F29E-4A8C-9950-ECE97B1A0C68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{774700AE-18EB-4C40-B9BB-4ADB15905765}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{774700AE-18EB-4C40-B9BB-4ADB15905765}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{774700AE-18EB-4C40-B9BB-4ADB15905765}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{774700AE-18EB-4C40-B9BB-4ADB15905765}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7999E8C-BD00-434A-8A66-2C7921D826AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7999E8C-BD00-434A-8A66-2C7921D826AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7999E8C-BD00-434A-8A66-2C7921D826AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7999E8C-BD00-434A-8A66-2C7921D826AC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9329A2C7-A980-4678-94AD-D1D06BC5E33B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9329A2C7-A980-4678-94AD-D1D06BC5E33B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9329A2C7-A980-4678-94AD-D1D06BC5E33B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9329A2C7-A980-4678-94AD-D1D06BC5E33B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
