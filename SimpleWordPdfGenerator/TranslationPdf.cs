@@ -6,61 +6,72 @@ using SimpleWordModels;
 
 namespace SimpleWordPdfGenerator;
 
-class TranslationPdf{
+class TranslationPdf : Translation{
 
-    Translation _translation;
+    public Cell ValueCell{
+        get{
+            Cell cell = new Cell();
+            cell.SetPaddings(4,0,2,6);
+            cell.SetMargins(0,0,0,0);
 
-    public TranslationPdf(Translation translation){
-        _translation = translation;
+            Paragraph paragraph = new Paragraph();
+            paragraph.SetMargins(0, 0, 0, 0);
+            paragraph.SetPaddings(0, 0, 0, 0);
+            paragraph.SetFixedLeading(16);
+
+            paragraph.SetBorder(Border.NO_BORDER);
+            
+
+            Text text = TextElementFactory.Generare(Value, Fonts.Medium, FontSize.AccentText2, (10, 10, 10));
+
+            paragraph.Add(text);
+            cell.Add(paragraph);
+
+            return cell;
+        }
     }
 
-    public Document GetPdf (Document document){
-            Cell word = new Cell();
-            word.SetPaddings(4,0,2,6);
-            word.SetMargins(0,0,0,0);
-            Paragraph wordParagraph = new Paragraph();
-            wordParagraph.SetMargins(0, 0, 0, 0);
-            wordParagraph.SetPaddings(0, 0, 0, 0);
-            wordParagraph.SetFixedLeading(16);
 
+    public Cell CommentCell{
+        get{
+            Cell cell = new Cell();
+            cell.SetPaddings(0,0,0,0);
+            cell.SetMargins(0,0,0,0);
+            cell.SetBorder(Border.NO_BORDER);
 
-            Text wordText = TextElementGenerator.GetElement(_translation.Value, Fonts.Medium, 16, (10, 10, 10));
-            wordParagraph.Add(wordText);
-            word.Add(wordParagraph);
-            word.SetBorderBottom(Border.NO_BORDER);
-            word.SetBorderTop(Border.NO_BORDER);
-            word.SetBorderLeft(Border.NO_BORDER);
-            word.SetBorderRight(Border.NO_BORDER);
+            Paragraph paragraph = new Paragraph();
+            paragraph.SetMargins(0, 0, 0, 0);
+            paragraph.SetPaddings(0,0,0,6);
+
+            paragraph.Add(TextElementFactory.Generare(Comment, Fonts.Medium, FontSize.SubText2, Colors.MainText));
+            cell.Add(paragraph);   
+
+            return cell;
+        }
+    }
+
+    public Table Table{
+        get{
             Table table = new Table(1);
-            table.AddCell(word);
-
-            if (!(_translation.Comment is null) && _translation.Comment.Length != 0){
-            Cell comment = new Cell();
-            comment.SetPaddings(0,0,0,0);
-            comment.SetMargins(0,0,0,0);
-
-            Paragraph commentParagraph = new Paragraph();
-
-            commentParagraph.Add(TextElementGenerator.GetElement(_translation.Comment, Fonts.Medium, 8, (10, 10, 10)));
-            commentParagraph.SetMargins(0, 0, 0, 0);
-            commentParagraph.SetPaddings(0,0,0,6);
-            comment.Add(commentParagraph);   
-            comment.SetBorderBottom(Border.NO_BORDER);
-            comment.SetBorderTop(Border.NO_BORDER);
-            comment.SetBorderRight(Border.NO_BORDER);
-            comment.SetBorderLeft(Border.NO_BORDER);
-                        table.AddCell(comment);
-
-            }
             table.SetMargins(6, 12, 6, 20);   
-            table.SetPaddings(0,0,0,0);   
-            table.SetBorderLeft(new SolidBorder(new DeviceRgb(154, 41, 0), (float)0.5));
+            table.SetPaddings(0,0,0,0);  
+
+            table.SetBorderLeft(new SolidBorder(Colors.Accent, (float)0.5));
 
 
-            document.Add(table);
-            foreach (Example i in _translation.Examples){
-                document.Add((new ExamplePdf(i)).GetPdf);
+            table.AddCell(ValueCell);
+            if (!(Comment is null) && Comment.Length != 0){
+                table.AddCell(CommentCell);
             }
-            return document;
+
+            return table;
+        }
+    }
+
+    public void AddPdfComponent (Document document){
+        document.Add(Table);
+        foreach (Example i in Examples){
+            document.Add(((ExamplePdf)i).PdfParagraph);
+        }
     }
 }

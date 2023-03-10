@@ -20,7 +20,7 @@ public class Collection {
         }
     }
 
-
+    [JsonIgnore]
     public string SourceLanguageFull{
         get {
             List<string> lines = File.ReadAllLines(@"../SimpleWordModels/Data/ISO639.csv")[1..].ToList<string>();
@@ -30,7 +30,7 @@ public class Collection {
         }
     }
 
-
+    [JsonIgnore]
     public string DestanationLanguageFull{
         get {
             List<string> lines = File.ReadAllLines(@"../SimpleWordModels/Data/ISO639.csv")[1..].ToList<string>();
@@ -138,6 +138,6 @@ public class Collection {
     /// <item> Все слова (карточки), содержащиеся в данной коллекции. </item>
     /// <item> Отношение "один ко многим" </item>
     /// </list>
-    public List<Card> Cards {get; set; } = new();
+    public List<Card> Cards {get; protected set; } = new();
 
 }

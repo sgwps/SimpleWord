@@ -3,23 +3,20 @@ using SimpleWordModels;
 
 namespace SimpleWordPdfGenerator;
 
-class ExamplePdf{
+class ExamplePdf : Example{
 
-    Example _example;
-
-    public ExamplePdf(Example example){
-        _example = example;
-    }
-
-    public Paragraph GetPdf{
+    public Paragraph PdfParagraph{
         get{
             Paragraph result = new Paragraph();
             result.SetPaddings(0, 24, 6, 20);
             result.SetMargins(0,0,0,0);
-            result.Add(TextElementGenerator.GetElement(_example.Origin, Fonts.Medium, 12, (10, 10, 10)));
-            result.Add(TextElementGenerator.GetElement(_example.ExampleTranslation, Fonts.Light, 8, (154, 41, 0)));
-            if (_example.Comment != null) result.Add(TextElementGenerator.GetElement(_example.Comment, Fonts.Light, 8, (67, 67, 67)));
-            if (_example.Source != null) result.Add(TextElementGenerator.GetElement($"Source: {_example.Source}", Fonts.Light, 8, (67, 67, 67)));
+
+            result.Add(TextElementFactory.Generare(Origin, Fonts.Medium, FontSize.Normal, Colors.Accent));
+            result.Add(TextElementFactory.Generare(ExampleTranslation, Fonts.Light, FontSize.SubText2, Colors.MainText));
+
+            if (Comment != null) result.Add(TextElementFactory.Generare(Comment, Fonts.Light, FontSize.SubText2, Colors.SubText));
+            if (Source != null) result.Add(TextElementFactory.Generare($"Source: {Source}", Fonts.Light, FontSize.SubText2, Colors.SubText));
+
             return result;
         }
     }

@@ -1,9 +1,9 @@
 {
-	"LinkName": "test9",
-	"SourceLanguage": "end",
+	"LinkName": "test5",
+	"SourceLanguage": "eng",
 	"DistanationLanguage": "rus",
 	"Name": "Unit 5. Global Mobility",
-	"Description": "Слова для теста по пятому разделу 23 марта. ",
+	"Description": "Слова для теста по пятому разделу 23 марта. Примеры взяты из документов ООН, фильмов и сериалов. Рекомендуется обратить на них внимание.",
 	"Author": "sgwps",
 	"Cards": [
 		{
@@ -27,7 +27,7 @@
 						},
 						{
 							"Origin": "This allows for easy recovery and auditing.",
-							"ExampleTranslation": "Это обеспечивает простое восстановление и аудит.",
+							"ExampleTranslation": "Это обеспечивает простое восстановление и аудит."
 						}
 					]
 				},
