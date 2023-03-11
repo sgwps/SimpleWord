@@ -1,0 +1,43 @@
+version: 
+  '3.4'
+
+networks:
+  dockerapi-dev:
+    driver: bridge 
+
+
+services:
+  SimpleWordASP:
+    image: simplewordasp_1:latest
+    depends_on:
+      - "postgres_image"
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "8000:80"     
+    environment:
+      DB_CONNECTION_STRING: "host=postgres_image;port=5432;database=swdb;username=swuser;password=swuser"
+    networks:
+      - dockerapi-dev  
+
+
+  postgres_image:
+
+    image: 
+      postgres:latest
+    ports:
+      - "5432"
+    restart: 
+      always
+    environment:
+      POSTGRES_USER: "swuser"
+      POSTGRES_PASSWORD: "swuser"
+      POSTGRES_DB: "swdb"
+    volumes:
+      - db_volume:/var/lib/postgresql/data
+      - ./DbScript/seed.sql:/docker-entrypoint-initdb.d/init.sql
+    networks:
+      - dockerapi-dev
+volumes:
+   db_volume: 

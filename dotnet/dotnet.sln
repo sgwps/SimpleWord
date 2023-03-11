@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleWordColorTheme", "SimpleWordColorTheme\SimpleWordColorTheme.csproj", "{C45940C1-DB6F-4470-932C-E399CA374C04}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleWordMain", "SimpleWordMain\SimpleWordMain.csproj", "{D36ABDA7-C1DF-4F23-98F3-8EFF44FF922A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleWordDbContext", "SimpleWordDbContext\SimpleWordDbContext.csproj", "{AE3456AD-004F-4867-A702-4E8FF9DFB470}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleWordFont", "SimpleWordFont\SimpleWordFont.csproj", "{3AAF78D8-630E-4D46-BE45-75163294BAC8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleWordModelExtention", "SimpleWordModelExtention\SimpleWordModelExtention.csproj", "{82C49CEA-1B59-4A39-90A4-D354467D8F54}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleWordModels", "SimpleWordModels\SimpleWordModels.csproj", "{674D7576-5E7B-42E9-90B7-DD8810C4398E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleWordPdfGenerator", "SimpleWordPdfGenerator\SimpleWordPdfGenerator.csproj", "{287B625B-54E7-4D90-8C28-3317C343EAA2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C45940C1-DB6F-4470-932C-E399CA374C04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C45940C1-DB6F-4470-932C-E399CA374C04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C45940C1-DB6F-4470-932C-E399CA374C04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C45940C1-DB6F-4470-932C-E399CA374C04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D36ABDA7-C1DF-4F23-98F3-8EFF44FF922A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D36ABDA7-C1DF-4F23-98F3-8EFF44FF922A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D36ABDA7-C1DF-4F23-98F3-8EFF44FF922A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D36ABDA7-C1DF-4F23-98F3-8EFF44FF922A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE3456AD-004F-4867-A702-4E8FF9DFB470}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE3456AD-004F-4867-A702-4E8FF9DFB470}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE3456AD-004F-4867-A702-4E8FF9DFB470}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE3456AD-004F-4867-A702-4E8FF9DFB470}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3AAF78D8-630E-4D46-BE45-75163294BAC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AAF78D8-630E-4D46-BE45-75163294BAC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AAF78D8-630E-4D46-BE45-75163294BAC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AAF78D8-630E-4D46-BE45-75163294BAC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82C49CEA-1B59-4A39-90A4-D354467D8F54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82C49CEA-1B59-4A39-90A4-D354467D8F54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82C49CEA-1B59-4A39-90A4-D354467D8F54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82C49CEA-1B59-4A39-90A4-D354467D8F54}.Release|Any CPU.Build.0 = Release|Any CPU
+		{674D7576-5E7B-42E9-90B7-DD8810C4398E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{674D7576-5E7B-42E9-90B7-DD8810C4398E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{674D7576-5E7B-42E9-90B7-DD8810C4398E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{674D7576-5E7B-42E9-90B7-DD8810C4398E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{287B625B-54E7-4D90-8C28-3317C343EAA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{287B625B-54E7-4D90-8C28-3317C343EAA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{287B625B-54E7-4D90-8C28-3317C343EAA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{287B625B-54E7-4D90-8C28-3317C343EAA2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

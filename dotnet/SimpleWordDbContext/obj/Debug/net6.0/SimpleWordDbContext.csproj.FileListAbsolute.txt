@@ -1,0 +1,17 @@
+/home/sgwps/Desktop/DictWebApp/dotnet/SimpleWordDbContext/bin/Debug/net6.0/SimpleWordDbContext.deps.json
+/home/sgwps/Desktop/DictWebApp/dotnet/SimpleWordDbContext/bin/Debug/net6.0/SimpleWordDbContext.runtimeconfig.json
+/home/sgwps/Desktop/DictWebApp/dotnet/SimpleWordDbContext/bin/Debug/net6.0/SimpleWordDbContext.dll
+/home/sgwps/Desktop/DictWebApp/dotnet/SimpleWordDbContext/bin/Debug/net6.0/ref/SimpleWordDbContext.dll
+/home/sgwps/Desktop/DictWebApp/dotnet/SimpleWordDbContext/bin/Debug/net6.0/SimpleWordDbContext.pdb
+/home/sgwps/Desktop/DictWebApp/dotnet/SimpleWordDbContext/bin/Debug/net6.0/SimpleWordModels.dll
+/home/sgwps/Desktop/DictWebApp/dotnet/SimpleWordDbContext/bin/Debug/net6.0/SimpleWordModels.pdb
+/home/sgwps/Desktop/DictWebApp/dotnet/SimpleWordDbContext/obj/Debug/net6.0/SimpleWordDbContext.csproj.AssemblyReference.cache
+/home/sgwps/Desktop/DictWebApp/dotnet/SimpleWordDbContext/obj/Debug/net6.0/SimpleWordDbContext.GeneratedMSBuildEditorConfig.editorconfig
+/home/sgwps/Desktop/DictWebApp/dotnet/SimpleWordDbContext/obj/Debug/net6.0/SimpleWordDbContext.AssemblyInfoInputs.cache
+/home/sgwps/Desktop/DictWebApp/dotnet/SimpleWordDbContext/obj/Debug/net6.0/SimpleWordDbContext.AssemblyInfo.cs
+/home/sgwps/Desktop/DictWebApp/dotnet/SimpleWordDbContext/obj/Debug/net6.0/SimpleWordDbContext.csproj.CoreCompileInputs.cache
+/home/sgwps/Desktop/DictWebApp/dotnet/SimpleWordDbContext/obj/Debug/net6.0/SimpleWordDbContext.csproj.CopyComplete
+/home/sgwps/Desktop/DictWebApp/dotnet/SimpleWordDbContext/obj/Debug/net6.0/SimpleWordDbContext.dll
+/home/sgwps/Desktop/DictWebApp/dotnet/SimpleWordDbContext/obj/Debug/net6.0/ref/SimpleWordDbContext.dll
+/home/sgwps/Desktop/DictWebApp/dotnet/SimpleWordDbContext/obj/Debug/net6.0/SimpleWordDbContext.pdb
+/home/sgwps/Desktop/DictWebApp/dotnet/SimpleWordDbContext/obj/Debug/net6.0/SimpleWordDbContext.genruntimeconfig.cache
