@@ -17,10 +17,10 @@ services:
     ports:
       - "8000:80"     
     environment:
-      DB_CONNECTION_STRING: "host=postgres_image;port=5432;database=swdb;username=swuser;password=swuser"
+      DB_CONNECTION_STRING: "host=postgres_image;port=5432;database=swdb;username=swuser;password=swuser"      
+      METADATA_PATH: "/MetaData/"
     networks:
       - dockerapi-dev  
-
 
   postgres_image:
 
@@ -39,5 +39,6 @@ services:
       - ./DbScript/seed.sql:/docker-entrypoint-initdb.d/init.sql
     networks:
       - dockerapi-dev
+      
 volumes:
-   db_volume: 
+   db_volume:

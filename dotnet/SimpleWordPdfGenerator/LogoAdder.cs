@@ -6,7 +6,7 @@ namespace SimpleWord.PdfGenerator;
 
 static class LogoAdder{
     public static void AddLogo(this Document document){
-        Image image = SvgConverter.ConvertToImage(new FileStream("MetaData/logo.svg", FileMode.Open), document.GetPdfDocument());
+        Image image = SvgConverter.ConvertToImage(new FileStream(Environment.GetEnvironmentVariable("METADATA_PATH")[1..^1] + "/logo.svg", FileMode.Open), document.GetPdfDocument());
         image.SetFixedPosition(1, 20, document.GetPdfDocument().GetDefaultPageSize().GetHeight() - 80);
         image.ScaleToFit(70, 70);
         document.Add(image);

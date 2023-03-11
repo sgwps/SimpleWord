@@ -6,7 +6,7 @@ namespace SimpleWord.Models;
 [Index(nameof(Collection.LinkName), IsUnique =true)]
 public class Collection {
     private static bool ValidateISO639Standart (string value) {
-        List<string> lines = File.ReadAllLines(@"MetaData/ISO639.csv")[1..].ToList<string>();
+        List<string> lines = File.ReadAllLines(Environment.GetEnvironmentVariable("METADATA_PATH")[1..^1] + @"/ISO639.csv")[1..].ToList<string>();
         foreach (string line in lines){
             if (line.Split(",")[0] == value) return true;
         }
@@ -23,7 +23,7 @@ public class Collection {
     [JsonIgnore]
     public string SourceLanguageFull{
         get {
-            List<string> lines = File.ReadAllLines(@"MetaData/ISO639.csv")[1..].ToList<string>();
+            List<string> lines = File.ReadAllLines(Environment.GetEnvironmentVariable("METADATA_PATH")[1..^1] + @"/ISO639.csv")[1..].ToList<string>();
             foreach (string line in lines)
                 if (line.Split(",")[0] == sourceLanguage) return line.Split(",")[2];
             throw new ArgumentException();
@@ -33,7 +33,7 @@ public class Collection {
     [JsonIgnore]
     public string DestanationLanguageFull{
         get {
-            List<string> lines = File.ReadAllLines(@"MetaData/ISO639.csv")[1..].ToList<string>();
+            List<string> lines = File.ReadAllLines(Environment.GetEnvironmentVariable("METADATA_PATH")[1..^1] + @"/ISO639.csv")[1..].ToList<string>();
             foreach (string line in lines)
                 if (line.Split(",")[0] == distanationLanguage) return line.Split(",")[2];
             throw new ArgumentException();

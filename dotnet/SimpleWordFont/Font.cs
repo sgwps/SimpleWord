@@ -5,7 +5,7 @@ namespace SimpleWord.Font;
 
 static public class FontSet{
     private static PdfFont GetFont(string Font){
-        FontProgram fontProgram = FontProgramFactory.CreateFont($"MetaData/Fonts/FuturaPT-{Font}.ttf");
+        FontProgram fontProgram = FontProgramFactory.CreateFont(Environment.GetEnvironmentVariable("METADATA_PATH")[1..^1] + $"/Fonts/FuturaPT-{Font}.ttf");
         return PdfFontFactory.CreateFont(fontProgram);
     }
 
