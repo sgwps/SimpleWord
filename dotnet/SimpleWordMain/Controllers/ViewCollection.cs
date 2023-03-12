@@ -40,6 +40,7 @@ public class ViewCollectionController : Controller
             XmlSerializer xmlSerializer = new XmlSerializer(typeof(ColorTheme));
             colorTheme = (ColorTheme) xmlSerializer.Deserialize(fs) ?? new ColorTheme();
         }
+        colorTheme.EnsureLogoCreated();
         var document = new Document(pdf);
         using (PostgreSQLContext context = new PostgreSQLContext())
         {

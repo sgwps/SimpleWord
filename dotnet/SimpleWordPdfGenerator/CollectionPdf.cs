@@ -89,7 +89,7 @@ public class CollectionPdf
             document.Add(Title(- document.GetTopMargin()));
             document.Add(SubTitle);
             document.Add(DescriptionParagraph);
-            document.AddLogo();
+            document.AddLogo(_colorTheme);
             document.SetBackgroundColor(_colorTheme.BackgroundMain);
 
             foreach (Card i in _collection.Cards){
