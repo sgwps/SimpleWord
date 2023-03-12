@@ -1,0 +1,77 @@
+<?xml version="1.0"?>
+<ColorTheme xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    
+    <BackgroundAccent>
+        <Red>
+            221
+        </Red>
+        <Green>
+            246
+        </Green>
+        <Blue>
+            255
+        </Blue>
+    </BackgroundAccent>
+
+    <Accent>
+        <Red>
+            40
+        </Red>
+        <Green>
+            4
+        </Green>
+        <Blue>
+            255
+        </Blue>
+    </Accent>
+
+    <Netural>
+        <Red>
+            153
+        </Red>
+        <Green>
+            204
+        </Green>
+        <Blue>
+            255
+        </Blue>
+    </Netural>
+
+    <MainText>
+        <Red>
+            10
+        </Red>
+        <Green>
+            10
+        </Green>
+        <Blue>
+            10
+        </Blue>
+    </MainText>
+
+    <SubText>
+        <Red>
+            67
+        </Red>
+        <Green>
+            67
+        </Green>
+        <Blue>
+            67
+        </Blue>
+    </SubText>
+
+    <BackgroundMain>
+        <Red>
+            255
+        </Red>
+        <Green>
+            255
+        </Green>
+        <Blue>
+            255
+        </Blue>
+    </BackgroundMain>
+    <LogoFile>Sapphire.svg</LogoFile>
+</ColorTheme>

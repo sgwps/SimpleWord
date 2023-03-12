@@ -34,7 +34,7 @@ public class ViewCollectionController : Controller
         PdfWriter writer = new PdfWriter(stream);
         PdfDocument pdf = new PdfDocument(writer);
         ColorTheme colorTheme = new ColorTheme();
-        using (FileStream fs = new FileStream(Environment.GetEnvironmentVariable("METADATA_PATH")[1..^1] + "/Themes/Brick.xml", FileMode.Open))
+        using (FileStream fs = new FileStream(Environment.GetEnvironmentVariable("METADATA_PATH")[1..^1] + "/Themes/Sapphire.xml", FileMode.Open))
         {
             Console.WriteLine(1);
             XmlSerializer xmlSerializer = new XmlSerializer(typeof(ColorTheme));
