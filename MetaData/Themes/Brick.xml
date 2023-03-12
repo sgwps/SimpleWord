@@ -73,4 +73,7 @@
             255
         </Blue>
     </BackgroundMain>
+    
+    <LogoFile>Brick.svg</LogoFile>
+    
 </ColorTheme>
