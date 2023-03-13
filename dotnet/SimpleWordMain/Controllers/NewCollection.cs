@@ -25,7 +25,6 @@ static class ManageController
 [Route("new_collection_post")]
 public class NewCollectionPostController : Controller
 {
-    
     [HttpPost]
     public StatusCodeResult Post()
     { //пропихнуть json
@@ -36,12 +35,21 @@ public class NewCollectionPostController : Controller
             {
                 Collection json = JsonSerializer.Deserialize<Collection>(data);
                 context.Collections.Add(json);
-                foreach (Card i in json.Cards){
+                foreach (Card i in json.Cards)
+                {
                     context.Cards.Add(i);
-                    foreach (Translation j in i.Translations){
-                        context.Translations.Add(j);
-                        foreach (Example k in j.Examples){
-                            context.Examples.Add(k);
+                    if (i.Translations.Count != 0)
+                    {
+                        foreach (Translation j in i.Translations)
+                        {
+                            context.Translations.Add(j);
+                            if (j.Examples.Count != 0)
+                            {
+                                foreach (Example k in j.Examples)
+                                {
+                                    context.Examples.Add(k);
+                                }
+                            }
                         }
                     }
                 }

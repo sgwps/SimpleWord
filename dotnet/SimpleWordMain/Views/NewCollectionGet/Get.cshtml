@@ -3,32 +3,267 @@
 }
 
 
-<!DOCTYPE html>
-<html lang="ru">
-<head>
-<meta charset="UTF-8">
-<title>Отправка сообщений - jQuery</title>
-<script src="//code.jquery.com/jquery-1.8.3.js"></script>
-</head>
-<body>
 
-<form onsubmit="Send();return false">
-<label for="request">Запрос:</label>
-<input id="request" required>
-<input type="submit" value="Send">
-</form>
-<div id="result"></div>
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <link rel="stylesheet" href="style.css">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+
+<body>
+  <h1>SimpleWord</h1>
+  <form id="mainForm">
+    <aside>
+      <label><b>Название коллекции</label>
+      <input name="Name" type="text" class="i-nameColl" value="">
+    </aside>
+    <p>
+    <aside>
+      <label>LinkName</label>
+      <input name="LinkName" type="text" class="i-ln">
+    </aside>
+    </p>
+    <p>
+    <aside>
+      <label>Description</label>
+      <input name="Description" type="text" class="i-des">
+    </aside>
+    </p>
+    <p>
+    <aside>
+      <label>Author</label>
+      <input name="Author" type="text" class="i-author">
+    </aside>
+    </p>
+    <p>
+    <aside>
+      <label>SourceLang</label>
+      <input name="SourceLanguage" type="text" class="i-sl">
+    </aside>
+    </p>
+    <p>
+    <aside>
+      <label>Destination Language</label>
+      <input name="DistanationLanguage" type="text" class="i-dl">
+    </aside>
+    </p>
+  </form>
+
+  <div id="cards">
+
+  </div>
+  <button type="button" onclick="AddCard()">Add Card</button>
+
+  </div>
+  <button type="button" onclick="Send()">Submit</button>
+  <script src="script.js"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.3/jquery.min.js"></script>
+</body>
+
+
 
 <script>
-function Send(){
-console.log("test");
-$.ajax({
-type: "POST",
-url:"/new_collection_post",
-data: {
-  "msg": jQuery('#request').val()}
-})}
+  var i = 0;
+
+
+
+  function CreateTextInput(name) {
+    var label = document.createElement("label");
+    label.innerHTML = name;
+    var input = document.createElement("input");
+    input.setAttribute("type", "text");
+    input.setAttribute("name", name);
+    var div = document.createElement("div");
+    div.appendChild(label);
+    div.appendChild(input);
+    return div;
+
+
+  }
+
+  function CreateCardInputs() {
+    var form = document.createElement("form");
+    form.setAttribute("class", "card-form");
+
+
+    var card = CreateTextInput("Word");
+    var comment = CreateTextInput("Comment");
+    var div = document.createElement("div");
+    div.appendChild(card);
+    div.appendChild(comment);
+    form.append(div);
+    return form;
+  }
+
+
+  function CreateTranslationInputs() {
+
+    var form = document.createElement("form");
+    form.setAttribute("class", "translation-form");
+
+
+    var value = CreateTextInput("Value");
+    var comment = CreateTextInput("Comment");
+    var div = document.createElement("div");
+    div.appendChild(value);
+    div.appendChild(comment);
+    form.append(div);
+    return form;
+  }
+
+
+  function CreateExample() {
+    var form = document.createElement("form");
+    form.setAttribute("class", "example-form");
+    var value = CreateTextInput("Origin");
+    var translation = CreateTextInput("ExampleTranslation");
+    var comment = CreateTextInput("Comment");
+    var source = CreateTextInput("Source");
+    var div = document.createElement("div");
+    div.appendChild(value);
+    div.appendChild(translation);
+    div.appendChild(comment);
+    div.appendChild(source);
+    form.append(div);
+    return form;
+  }
+
+  function AddCard() {
+    var CardDiv = document.createElement("div");
+    CardDiv.setAttribute("class", "card-div");
+    CardDiv.appendChild(CreateCardInputs());
+    var translations = document.createElement("div");
+    translations.setAttribute("class", "translations");
+
+    var addTranslationButton = document.createElement("button");
+    addTranslationButton.innerHTML = "Add Translation";
+
+    addTranslationButton.addEventListener("click", function f(event) {
+
+      var translationDiv = document.createElement("div");
+      translationDiv.setAttribute("class", "translation-div");
+      translationDiv.appendChild(CreateTranslationInputs());
+
+      var examples = document.createElement("div");
+      examples.setAttribute("class", "examples");
+      translationDiv.appendChild(examples);
+
+
+      var addExampleButton = document.createElement("button");
+      addExampleButton.innerHTML = "Add Example";
+      addExampleButton.addEventListener("click", function f(event) {
+        examples.appendChild(CreateExample());
+        event.preventDefault();
+      });
+      translationDiv.appendChild(addExampleButton);
+
+
+
+
+      translations.appendChild(translationDiv);
+      event.preventDefault();
+
+    });
+    addTranslationButton.innerHTML = "Add Translation";
+    CardDiv.appendChild(translations);
+    CardDiv.appendChild(addTranslationButton);
+
+    document.getElementById("cards").appendChild(CardDiv);
+    i += 1;
+  }
+
+
+  function ExampleJson(form) {
+    if (form != null) {
+      var example = {};
+      //console.log(form);
+      Array.from(form.elements).forEach((x) => {
+        example[x.name] = x.value;
+      });
+      console.log(example);
+      return example;
+    }
+  }
+
+
+  function TranslationJson(translationDiv) {
+    var translation = {};
+    var form = translationDiv.querySelector('.translation-form');
+    $(form).serializeArray().map(function (x) {
+      translation[x.name] = x.value;
+    });
+    translation["Examples"] = []
+    var examples = translationDiv.getElementsByClassName("Examples");
+    console.log(examples);
+    if (examples != null) {
+      Array.from(examples).forEach(function (element) {
+        var exForm = element.querySelector('.example-form');
+        var ex = ExampleJson(exForm);
+        if (ex != null) { translation["Examples"].push(ex); }
+      });
+    }
+    return translation;
+
+  }
+
+  function CardJSON(cardDiv) {
+    var card = {};
+    var form = cardDiv.querySelector('.card-form');
+    $(form).serializeArray().map(function (x) {
+      card[x.name] = x.value;
+    });
+    card["Translations"] = []
+    var translations = cardDiv.getElementsByClassName("translation-div");
+    if (translations !== null) {
+      Array.from(translations).forEach(function (element) {
+        var tr = TranslationJson(element);
+        if (tr != null) {
+          card["Translations"].push(tr);
+        }
+      });
+    }
+    return card;
+
+  }
+
+
+
+  function Send() {
+    var collection = {};
+    $("#mainForm").serializeArray().map(function (x) {
+      collection[x.name] = x.value;
+    });
+    collection["Cards"] = [];
+    var cards = document.getElementById("cards").getElementsByClassName("card-div");
+    console.log(cards);
+    Array.from(cards).forEach(function (element) {
+      console.log(element);
+      var c = CardJSON(element);
+      if (c != null) {
+        collection["Cards"].push(CardJSON(element));
+      }
+    });
+    console.log(collection);
+    $.ajax({
+      type: "POST",
+      url: "/new_collection_post",
+      data: {"msg" : JSON.stringify(collection)}
+    });
+
+  }
+
+
+
+
 </script>
 
-</body>
 </html>
